@@ -1,0 +1,6 @@
+<application>
+  <component name="TestRecorderSettings">
+    <option name="EVALUATION_DEPTH" value="5" />
+    <option name="ASSERTION_DEPTH" value="5" />
+  </component>
+</application>

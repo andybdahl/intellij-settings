@@ -1,0 +1,221 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxnb29nbGVcPg==</entry>
+        <entry>makeable</entry>
+        <entry>navigation</entry>
+        <entry>logoutHelp</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/activity_main.xml" timestamp="1597908052619">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/layout/epoxy_binding_post_item.xml" timestamp="1597915799126">
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/traxExternal/res/values/colors.xml" timestamp="1597908356367">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/colors.xml" timestamp="1597908200148" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/DZApi.kt" timestamp="1597913383647">
+        <mark key="[" line="329" column="42" />
+        <mark key="]" line="329" column="42" />
+        <mark key="." line="329" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/dezide/res/values/colors.xml" timestamp="1597909225379">
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1597914638791">
+        <mark key="[" line="134" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/orstedExternal/res/values/colors.xml" timestamp="1597908330066" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/activity_login.xml" timestamp="1597907967898">
+        <mark key="'" line="76" column="53" />
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/sennebogenExternal/res/values/colors.xml" timestamp="1597908386403">
+        <mark key="[" line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedEpoxyController.kt" timestamp="1597915496323">
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/trax/res/values/colors.xml" timestamp="1597908366295" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_home.xml" timestamp="1597908223980">
+        <mark key="[" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/sennebogen/res/values/colors.xml" timestamp="1597908313701">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/orsted/res/values/colors.xml" timestamp="1597908284607">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPost.kt" timestamp="1597916525256">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_close.xml" timestamp="1597907693436">
+        <mark key="[" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/controller/PostController.kt" timestamp="1597914647791" />
+    </filemarks>
+    <jumps>
+      <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="124" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="127" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="144" column="24" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="143" column="24" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="142" column="24" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="141" column="24" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="140" column="24" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="139" column="24" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="138" column="24" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="217" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="146" column="4" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="184" column="4" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="149" column="41" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
+      <jump line="7" column="9" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/menu/bottom_navigation_menu.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/menu/bottom_navigation_menu.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/menu/bottom_navigation_menu.xml" />
+      <jump line="14" column="4" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/support/AskWulffFragment.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/support/AskWulffFragment.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/support/AskWulffFragment.kt" />
+      <jump line="211" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" />
+      <jump line="218" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" />
+      <jump line="213" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" />
+      <jump line="207" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" />
+      <jump line="210" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" />
+      <jump line="216" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" />
+      <jump line="72" column="31" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" />
+      <jump line="17" column="49" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/activity/SplashActivity.kt" />
+      <jump line="436" column="68" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/util/UtilFunctions.kt" />
+      <jump line="35" column="46" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/navigation/tab_recipes.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/navigation/tab_recipes.xml" />
+      <jump line="216" column="71" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/FeedFragment.kt" />
+      <jump line="48" column="35" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/layout/cell_weight_info.xml" />
+      <jump line="34" column="49" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/service/SundMessagingService.kt" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/controller/PostController.kt" />
+      <jump line="63" column="42" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/supervision/AnrSupervisorRunnable.java" />
+      <jump line="64" column="132" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/supervision/AnrSupervisorRunnable.java" />
+      <jump line="72" column="34" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/supervision/AnrSupervisorRunnable.java" />
+      <jump line="71" column="30" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/supervision/AnrSupervisorRunnable.java" />
+      <jump line="74" column="53" filename="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/activity_login.xml" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>the post menu option is not shown in the UI.</text>
+      </register>
+      <register name="/" type="4">
+        <text>logoutHelp</text>
+      </register>
+      <register name="0" type="4">
+        <text>, PostViewModel</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgPFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mZWVkX3NlcGVyYXRvciIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vZmVlZF9zZXBlcmF0b3JfaGVpZ2h0IgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckJhY2tHcmF5IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICAgICAgLz4=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0aGVtZU9uQmFja2dyb3VuZENvbG9yIj4jNkE2QTZBPC9jb2xvcj4+Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRJbWFnZVZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbG9nb0ltZyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YWRqdXN0Vmlld0JvdW5kcz0idHJ1ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL2NvbnRlbnRfc3BhY2luZ19ub3JtYWwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9jb250ZW50X3NwYWNpbmdfbm9ybWFsIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19sb2dvIgogICAgICAgICAgICAgICAgLz4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L2FuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuVG9vbGJhcj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5Ub29sYmFyCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdG9vbGJhciIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI/YXR0ci9hY3Rpb25CYXJTaXplIgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci90aGVtZUJhY2tncm91bmRDb2xvciIKICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lLkFjdGlvbkJhciIKICAgICAgICAgICAgYXBwOmxheW91dF9jb2xsYXBzZU1vZGU9InBpbiIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICAgICAgPg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>logoutHelp</last-search>
+      <last-offset />
+      <last-pattern>logoutHelp</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
