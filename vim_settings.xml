@@ -47,6 +47,11 @@
         <mark key="]" line="26" column="35" />
         <mark key="." line="26" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/orsted/res/values/colors.xml" timestamp="1597908284607">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/layout/epoxy_binding_post_item.xml" timestamp="1597915799126">
         <mark key="[" line="50" column="13" />
         <mark key="]" line="41" column="0" />
@@ -57,7 +62,12 @@
         <mark key="]" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/colors.xml" timestamp="1597908200148" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPost.kt" timestamp="1597916525256">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/DZApi.kt" timestamp="1597913383647">
         <mark key="[" line="329" column="42" />
         <mark key="]" line="329" column="42" />
@@ -70,13 +80,16 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1597914638791">
         <mark key="[" line="134" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/orstedExternal/res/values/colors.xml" timestamp="1597908330066" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/activity_login.xml" timestamp="1597907967898">
         <mark key="'" line="76" column="53" />
         <mark key="[" line="42" column="34" />
         <mark key="]" line="42" column="35" />
         <mark key="." line="42" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_close.xml" timestamp="1597907693436">
+        <mark key="[" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1598595117301" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/sennebogenExternal/res/values/colors.xml" timestamp="1597908386403">
         <mark key="[" line="3" column="49" />
       </file>
@@ -86,7 +99,6 @@
         <mark key="." line="25" column="38" />
         <mark key="^" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/trax/res/values/colors.xml" timestamp="1597908366295" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_home.xml" timestamp="1597908223980">
         <mark key="[" line="3" column="24" />
       </file>
@@ -96,21 +108,6 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/orsted/res/values/colors.xml" timestamp="1597908284607">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPost.kt" timestamp="1597916525256">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_close.xml" timestamp="1597907693436">
-        <mark key="[" line="4" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/controller/PostController.kt" timestamp="1597914647791" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -212,7 +209,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
