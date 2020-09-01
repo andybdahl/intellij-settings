@@ -57,8 +57,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/MainActivity.kt" timestamp="1598954280127" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/version.extensions.gradle" timestamp="1598954608006" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1598954497949">
-        <mark key="[" line="31" column="54" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/build.gradle" timestamp="1598954937572" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1598955017368">
+        <mark key="[" line="37" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/IOS/sund-med-wulff-ios/sund-med-wulff-ios/sund-med-wulff-ios/Controllers/Feed/FeedPostsViewModel.swift" timestamp="1598601563352">
         <mark key="[" line="24" column="43" />
@@ -69,7 +70,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1598951047266">
         <mark key="[" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/version.extensions.gradle" timestamp="1598954658083" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/version.extensions.gradle" timestamp="1598954898091" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1598945812471">
         <mark key="[" line="132" column="35" />
         <mark key="]" line="132" column="36" />
@@ -81,6 +82,14 @@
         <mark key="]" line="21" column="5" />
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/build.gradle" timestamp="1598954928612">
+        <mark key="[" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1598955145056">
+        <mark key="[" line="2" column="79" />
+        <mark key="]" line="2" column="79" />
+        <mark key="." line="2" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" timestamp="1598946305832">
         <mark key="[" line="44" column="11" />
@@ -147,10 +156,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>viewModel.getPostsUpdateState(args.feedMode)</text>
+        <text>Theme.AppCompat.Light.DarkActionBar&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>viewModel.getPostsUpdateState(args.feedMode)</text>
+        <text>Theme.AppCompat.Light.DarkActionBar&quot;</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
