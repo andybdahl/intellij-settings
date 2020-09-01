@@ -55,56 +55,47 @@
         <mark key="]" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/layout/epoxy_binding_post_item.xml" timestamp="1597915799126">
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPost.kt" timestamp="1597916525256">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/DZApi.kt" timestamp="1597913383647">
-        <mark key="[" line="329" column="42" />
-        <mark key="]" line="329" column="42" />
-        <mark key="." line="329" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/dezide/res/values/colors.xml" timestamp="1597909225379">
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="3" column="41" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1598597704032" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/BannerAdEpoxyController.kt" timestamp="1598857527052" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/navigation/NavigationExtensions.kt" timestamp="1598598751504" />
       <file name="$USER_HOME$/Documents/Makeable/IOS/sund-med-wulff-ios/sund-med-wulff-ios/sund-med-wulff-ios/Controllers/Feed/FeedPostsViewModel.swift" timestamp="1598601563352">
         <mark key="[" line="24" column="43" />
         <mark key="]" line="24" column="49" />
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1597914638791">
-        <mark key="[" line="134" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1598598540663">
-        <mark key="[" line="99" column="56" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.3.0/1b8d55b17ab1f3f2f7571e4882b6f90f58232022/navigation-fragment-2.3.0-sources.jar!/androidx/navigation/fragment/NavHostFragment.java" timestamp="1598598211946" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1598858375749">
+        <mark key="[" line="123" column="40" />
         <mark key="]" line="99" column="62" />
         <mark key="^" line="99" column="62" />
         <mark key="." line="99" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1598597398255" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/FragmentController.java" timestamp="1598597456831" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.3.0/ce839850d38bec85312cf861969b4b32222043ba/navigation-runtime-2.3.0-sources.jar!/androidx/navigation/Navigation.java" timestamp="1598598022791" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/camps/CampTemplate.kt" timestamp="1598870492003" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1598597525696" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/commonMain/Await.kt" timestamp="1598620940219" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPost.kt" timestamp="1597916525256">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/layout/fragment_feed_posts.xml" timestamp="1598857544257" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Post.kt" timestamp="1598606003931" />
       <file name="$USER_HOME$/Documents/Makeable/IOS/sund-med-wulff-ios/sund-med-wulff-ios/sund-med-wulff-ios/Objects/BannerAd.swift" timestamp="1598601621777">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="21" column="5" />
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/IOS/sund-med-wulff-ios/sund-med-wulff-ios/sund-med-wulff-ios/Controllers/Recipes/CategoriesViewController.swift" timestamp="1598601071843" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/sennebogenExternal/res/values/colors.xml" timestamp="1597908386403">
-        <mark key="[" line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedEpoxyController.kt" timestamp="1597915496323">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="25" column="38" />
-        <mark key="^" line="25" column="39" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1598597557696" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/androidTest/java/dk/makeable/sundmedwulff/ExampleInstrumentedTest.kt" timestamp="1598856254930">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -157,10 +148,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCNUIyNTdHJpbmcjI1N3aWZ0LlN0cmluZyM+</text>
+        <text>userId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCNUIyNTdHJpbmcjI1N3aWZ0LlN0cmluZyM+</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
