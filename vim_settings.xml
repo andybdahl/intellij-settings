@@ -55,43 +55,34 @@
         <mark key="]" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1598597704032" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/BannerAdEpoxyController.kt" timestamp="1598857527052" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/navigation/NavigationExtensions.kt" timestamp="1598598751504" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/AndroidManifest.xml" timestamp="1598946280183" />
       <file name="$USER_HOME$/Documents/Makeable/IOS/sund-med-wulff-ios/sund-med-wulff-ios/sund-med-wulff-ios/Controllers/Feed/FeedPostsViewModel.swift" timestamp="1598601563352">
         <mark key="[" line="24" column="43" />
         <mark key="]" line="24" column="49" />
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.3.0/1b8d55b17ab1f3f2f7571e4882b6f90f58232022/navigation-fragment-2.3.0-sources.jar!/androidx/navigation/fragment/NavHostFragment.java" timestamp="1598598211946" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1598882502567">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="4" />
-        <mark key="^" line="99" column="62" />
-        <mark key="." line="42" column="4" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1598945812471">
+        <mark key="[" line="132" column="35" />
+        <mark key="]" line="132" column="36" />
+        <mark key="^" line="132" column="36" />
+        <mark key="." line="132" column="35" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/FragmentController.java" timestamp="1598597456831" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.3.0/ce839850d38bec85312cf861969b4b32222043ba/navigation-runtime-2.3.0-sources.jar!/androidx/navigation/Navigation.java" timestamp="1598598022791" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsFragment.kt" timestamp="1598943819969">
-        <mark key="[" line="111" column="12" />
-        <mark key="]" line="111" column="12" />
-        <mark key="^" line="111" column="53" />
-        <mark key="." line="111" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/camps/CampTemplate.kt" timestamp="1598870492003" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1598597525696" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.3/57f8b1a2d7c5816e5b93e39f75b9e341d2045d1b/kotlinx-coroutines-core-1.3.3-sources.jar!/commonMain/Await.kt" timestamp="1598620940219" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/layout/fragment_feed_posts.xml" timestamp="1598857544257" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Post.kt" timestamp="1598606003931" />
       <file name="$USER_HOME$/Documents/Makeable/IOS/sund-med-wulff-ios/sund-med-wulff-ios/sund-med-wulff-ios/Objects/BannerAd.swift" timestamp="1598601621777">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="21" column="5" />
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/firestore-utils/3.0.0/2dc515b086a13b6f96ba5f94177e369f21794393/firestore-utils-3.0.0-sources.jar!/dk/makeable/firestoreutilslib/v3/extensions/Extensions_QueryReference.kt" timestamp="1598882443824" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1598597557696" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainNewActivity.kt" timestamp="1598946305832">
+        <mark key="[" line="44" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsFragment.kt" timestamp="1598946575529">
+        <mark key="[" line="224" column="8" />
+        <mark key="]" line="224" column="8" />
+        <mark key="^" line="225" column="70" />
+        <mark key="." line="224" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/androidTest/java/dk/makeable/sundmedwulff/ExampleInstrumentedTest.kt" timestamp="1598856254930">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="48" />
@@ -148,11 +139,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>reloadData(true)
-            button_new_content.visibility = View.GONE</text>
+        <text>viewModel.getPostsUpdateState(args.feedMode)</text>
       </register>
       <register name="-" type="4">
-        <text>clazz</text>
+        <text>viewModel.getPostsUpdateState(args.feedMode)</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
@@ -161,32 +151,32 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVsb2FkRGF0YSh0cnVlKQogICAgICAgICAgICBidXR0b25fbmV3X2NvbnRlbnQudmlzaWJpbGl0eSA9IFZpZXcuR09ORQo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ZXZlbnQuc2V0Q29uc3VtYXRpb25MaXN0ZW5lciB7IGNvbnN1bWVkIC0+CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgZmVlZFVwZGF0ZXNMaXZlRGF0YQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC52YWx1ZSA9Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>reloadData(true)
             button_new_content.visibility = View.GONE</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aW5saW5lIGZ1biA8cmVpZmllZCBUIDogRmlyZXN0b3JlTW9kZWw+IFF1ZXJ5LnBhZ2VkKAogICAgICAgICAgICBjbGF6ejogQ2xhc3M8VD4sCiAgICAgICAgICAgIGNvbmZpZzogUGFnZWRMaXN0LkNvbmZpZz8KICAgICk6IExpdmVEYXRhPFBhZ2VkTGlzdDxUPj4gewogICAgICAgIHJldHVybiBkay5tYWtlYWJsZS5maXJlc3RvcmV1dGlsc2xpYi52My5leHRlbnNpb25zLlBhZ2VkRmlyZXN0b3JlRGF0YVNvdXJjZS5CdWlsZGVyPFQ+KCkKICAgICAgICAgICAgICAgIC5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGNvbmZpZyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNldENvbmZpZyhjb25maWcpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLmJ1aWxkKHF1ZXJ5ID0gdGhpcywgY2xhenogPSBjbGF6eikKICAgIH0KCiAgICBjbGFzcyBQYWdlZEZpcmVzdG9yZURhdGFTb3VyY2U8VCA6IEZpcmVzdG9yZU1vZGVsPigKICAgICAgICAgICAgcHJpdmF0ZSB2YWwgcXVlcnk6IFF1ZXJ5LAogICAgICAgICAgICBwcml2YXRlIHZhbCBjbGF6ejogQ2xhc3M8VD4KICAgICkgOiBJdGVtS2V5ZWREYXRhU291cmNlPERvY3VtZW50U25hcHNob3QsIFQ+KCkgewoKICAgICAgICBjbGFzcyBCdWlsZGVyPFQgOiBGaXJlc3RvcmVNb2RlbD4oKSB7CiAgICAgICAgICAgIHByaXZhdGUgdmFyIGNvbmZpZyA9IFBhZ2VkTGlzdC5Db25maWcuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLnNldEVuYWJsZVBsYWNlaG9sZGVycyhmYWxzZSkKICAgICAgICAgICAgICAgICAgICAuc2V0SW5pdGlhbExvYWRTaXplSGludCgxNSkKICAgICAgICAgICAgICAgICAgICAuc2V0UGFnZVNpemUoMTUpCiAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKCiAgICAgICAgICAgIGZ1biBzZXRDb25maWcoY29uZmlnOiBQYWdlZExpc3QuQ29uZmlnKTogQnVpbGRlcjxUPiB7CiAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZwogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZnVuIGJ1aWxkKHF1ZXJ5OiBRdWVyeSwgY2xheno6IENsYXNzPFQ+KTogTGl2ZURhdGE8UGFnZWRMaXN0PFQ+PiB7CiAgICAgICAgICAgICAgICB2YWwgZXhlY3V0b3IgPSBFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKDUpCiAgICAgICAgICAgICAgICB2YWwgZmFjdG9yeSA9IFBhZ2VkRmlyZXN0b3JlRGF0YVNvdXJjZS5GYWN0b3J5PFQ+KHF1ZXJ5LCBjbGF6eikKICAgICAgICAgICAgICAgIHJldHVybiBMaXZlUGFnZWRMaXN0QnVpbGRlcihmYWN0b3J5LCBjb25maWcpLnNldEZldGNoRXhlY3V0b3IoZXhlY3V0b3IpLmJ1aWxkKCkKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgY2xhc3MgRmFjdG9yeTxUIDogRmlyZXN0b3JlTW9kZWw+KAogICAgICAgICAgICAgICAgcHJpdmF0ZSB2YWwgcXVlcnk6IFF1ZXJ5LAogICAgICAgICAgICAgICAgcHJpdmF0ZSB2YWwgY2xheno6IENsYXNzPFQ+CiAgICAgICAgKSA6IERhdGFTb3VyY2UuRmFjdG9yeTxEb2N1bWVudFNuYXBzaG90LCBUPigpIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGNyZWF0ZSgpOiBEYXRhU291cmNlPERvY3VtZW50U25hcHNob3QsIFQ+IHsKICAgICAgICAgICAgICAgIHJldHVybiBQYWdlZEZpcmVzdG9yZURhdGFTb3VyY2UocXVlcnksIGNsYXp6KQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gbG9hZEluaXRpYWwoCiAgICAgICAgICAgICAgICBwYXJhbXM6IExvYWRJbml0aWFsUGFyYW1zPERvY3VtZW50U25hcHNob3Q+LAogICAgICAgICAgICAgICAgY2FsbGJhY2s6IExvYWRJbml0aWFsQ2FsbGJhY2s8VD4KICAgICAgICApID0gcnVuQmxvY2tpbmcgewogICAgICAgICAgICBxdWVyeS5saW1pdChwYXJhbXMucmVxdWVzdGVkTG9hZFNpemUudG9Mb25nKCkpLmZsb3coKS5jb2xsZWN0IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICBjYWxsYmFjay5vblJlc3VsdChxdWVyeS5saW1pdChwYXJhbXMucmVxdWVzdGVkTG9hZFNpemUudG9Mb25nKCkpLnNpbmdsZShjbGF6eikpCiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gbG9hZEFmdGVyKHBhcmFtczogTG9hZFBhcmFtczxEb2N1bWVudFNuYXBzaG90PiwgY2FsbGJhY2s6IExvYWRDYWxsYmFjazxUPikgPQogICAgICAgICAgICAgICAgcnVuQmxvY2tpbmcgewogICAgICAgICAgICAgICAgICAgIGNhbGxiYWNrLm9uUmVzdWx0KHF1ZXJ5LnN0YXJ0QWZ0ZXIocGFyYW1zLmtleSkubGltaXQocGFyYW1zLnJlcXVlc3RlZExvYWRTaXplLnRvTG9uZygpKS5zaW5nbGUoY2xhenopKQogICAgICAgICAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gbG9hZEJlZm9yZShwYXJhbXM6IExvYWRQYXJhbXM8RG9jdW1lbnRTbmFwc2hvdD4sIGNhbGxiYWNrOiBMb2FkQ2FsbGJhY2s8VD4pID0KICAgICAgICAgICAgICAgIHJ1bkJsb2NraW5nIHsKICAgICAgICAgICAgICAgICAgICBjYWxsYmFjay5vblJlc3VsdChxdWVyeS5lbmRCZWZvcmUocGFyYW1zLmtleSkubGltaXQocGFyYW1zLnJlcXVlc3RlZExvYWRTaXplLnRvTG9uZygpKS5zaW5nbGUoY2xhenopKQogICAgICAgICAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gZ2V0S2V5KGl0ZW06IFQpOiBEb2N1bWVudFNuYXBzaG90IHsKICAgICAgICAgICAgcmV0dXJuIHJ1bkJsb2NraW5nIHsKICAgICAgICAgICAgICAgIGl0ZW0ucmVmLmF3YWl0KCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gTGl2ZVBhZ2VkTGlzdEJ1aWxkZXIoZGF0YVNvdXJjZUZhY3RvcnksIGNvbmZpZykK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgPFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mZWVkX3NlcGVyYXRvciIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vZmVlZF9zZXBlcmF0b3JfaGVpZ2h0IgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckJhY2tHcmF5IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICAgICAgLz4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0aGVtZU9uQmFja2dyb3VuZENvbG9yIj4jNkE2QTZBPC9jb2xvcj4+Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRJbWFnZVZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbG9nb0ltZyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YWRqdXN0Vmlld0JvdW5kcz0idHJ1ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL2NvbnRlbnRfc3BhY2luZ19ub3JtYWwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9jb250ZW50X3NwYWNpbmdfbm9ybWFsIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19sb2dvIgogICAgICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mZWVkX3NlcGVyYXRvciIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vZmVlZF9zZXBlcmF0b3JfaGVpZ2h0IgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckJhY2tHcmF5IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2FuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuVG9vbGJhcj4K</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0aGVtZU9uQmFja2dyb3VuZENvbG9yIj4jNkE2QTZBPC9jb2xvcj4+Cg==</text>
       </register>
     </registers>
   </component>
@@ -200,7 +190,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
