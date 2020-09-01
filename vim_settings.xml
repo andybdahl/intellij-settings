@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/App.kt" timestamp="1598959958417">
         <mark key="[" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1598960983313">
-        <mark key="[" line="39" column="4" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1598962832679">
+        <mark key="[" line="64" column="61" />
         <mark key="]" line="39" column="4" />
         <mark key="." line="39" column="4" />
         <mark key="^" line="39" column="5" />
@@ -100,8 +100,10 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/build.gradle" timestamp="1598960553812" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainActivity.kt" timestamp="1598960520739" />
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/build.gradle" timestamp="1598962180967">
-        <mark key="[" line="25" column="4" />
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/build.gradle" timestamp="1598962673255">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="4" />
+        <mark key="." line="50" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/util/extensions/Extensions_Activity.kt" timestamp="1598960306289" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/util/Databinding.kt" timestamp="1598960835774" />
@@ -162,10 +164,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>implementation</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
