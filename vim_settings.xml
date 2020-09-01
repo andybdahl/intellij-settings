@@ -57,6 +57,11 @@
         <mark key="." line="39" column="4" />
         <mark key="^" line="39" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/activity_main.xml" timestamp="1598964258188">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindingAdapters_ImageView.kt" timestamp="1598962266767" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/gradle.properties" timestamp="1598960576733" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/README.md" timestamp="1598961432803" />
@@ -65,29 +70,29 @@
         <mark key="]" line="16" column="8" />
         <mark key="." line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/fragment_entry_point.xml" timestamp="1598960205469">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/fragment_entry_point.xml" timestamp="1598964283614">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/build.gradle" timestamp="1598960551739">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="13" column="75" />
         <mark key="." line="13" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/values/styles.xml" timestamp="1598963622644" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1598963597858">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="2" column="77" />
-        <mark key="." line="2" column="77" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/values/styles.xml" timestamp="1598963770339" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1598964473535">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/webviewutils/src/main/java/dk/makeable/webviewutils/GlideWebViewClient.kt" timestamp="1598961655870">
         <mark key="[" line="27" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/colors.xml" timestamp="1598963675105">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/colors.xml" timestamp="1598964108862">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/app/build.gradle" timestamp="1598961798450">
         <mark key="[" line="35" column="74" />
@@ -99,16 +104,15 @@
         <mark key="]" line="50" column="4" />
         <mark key="." line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/util/extensions/Extensions_Activity.kt" timestamp="1598960306289" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/util/Databinding.kt" timestamp="1598960835774" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/webviewutils/build.gradle" timestamp="1598961483309">
         <mark key="[" line="39" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/activity_splash.xml" timestamp="1598963142883">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="14" column="36" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/activity_splash.xml" timestamp="1598964242263">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="21" />
         <mark key="^" line="22" column="22" />
-        <mark key="." line="14" column="36" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/gradle.properties" timestamp="1598960570390">
         <mark key="[" line="20" column="25" />
@@ -164,10 +168,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Background</text>
+        <text>textAppearanceHeadline4</text>
       </register>
       <register name="-" type="4">
-        <text>Background</text>
+        <text>textAppearanceHeadline4</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
