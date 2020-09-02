@@ -68,9 +68,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/build.gradle" timestamp="1599032130692" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/App.kt" timestamp="1599032446907" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/drawable/icon_app.xml" timestamp="1598966219964">
-        <mark key="." line="256" column="35" />
-      </file>
       <file name="$USER_HOME$/Desktop/yo_tests/app/src/main/java/dk/makeable/app/yotests/BaseApplication.kt" timestamp="1599030900454" />
       <file name="$USER_HOME$/Desktop/cookiecutter_tests/diatest-android/app/build.gradle" timestamp="1599031273976" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/App.kt" timestamp="1599032743844">
@@ -78,6 +75,7 @@
         <mark key="[" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/template-android-app/project/app/build.gradle" timestamp="1598968618359" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/probox24-valina/app/src/main/java/dk/makeable/golfmoredispenser/controllers/LocaleController.kt" timestamp="1599033455053" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/build.gradle" timestamp="1599032129101">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="16" column="75" />
@@ -89,24 +87,15 @@
         <mark key="." line="2" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/smartadjust-android/app/src/main/java/dk/makeable/dolsensors/App.kt" timestamp="1599032228264" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/colors.xml" timestamp="1598965091703">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/styles.xml" timestamp="1598966801527">
         <mark key="[" line="2" column="61" />
         <mark key="]" line="2" column="61" />
         <mark key="." line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/{{cookiecutter.repo_name}}/app/google-services.json" timestamp="1599032824193" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/{{cookiecutter.repo_name}}/app/google-services.json" timestamp="1599033671669" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/colors.xml" timestamp="1598967177937" />
       <file name="$USER_HOME$/Desktop/template-android-app/project/app/src/main/java/dk/makeable/demoproject/ui/products/ProductListActivity.kt" timestamp="1598968820876" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/drawable/ic_launcher_foreground.xml" timestamp="1598965961870">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/probox24-valina/app/src/main/java/dk/makeable/golfmoredispenser/ui/activities/MainActivity.kt" timestamp="1599033527942" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
