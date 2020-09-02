@@ -54,45 +54,47 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/EntryPointEpoxyController.kt" timestamp="1599043319333">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="6" column="77" />
+        <mark key="." line="6" column="76" />
+        <mark key="^" line="6" column="77" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/data/model/Credential.kt" timestamp="1599041028691">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599041241489">
-        <mark key="[" line="58" column="51" />
-        <mark key="]" line="58" column="51" />
-        <mark key="." line="58" column="51" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599044331692">
+        <mark key="[" line="112" column="46" />
+        <mark key="]" line="112" column="46" />
+        <mark key="." line="112" column="46" />
         <mark key="^" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/view/LoginActivity.kt" timestamp="1599038144633">
-        <mark key="[" line="39" column="39" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/epoxy_entrypoint_item.xml" timestamp="1599043162092">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/dimens.xml" timestamp="1599037758666">
-        <mark key="[" line="2" column="33" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/fragment_entry_point.xml" timestamp="1599043439474">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599040193853">
         <mark key="[" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/App.kt" timestamp="1599040148955" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/AndroidManifest.xml" timestamp="1599038888683">
-        <mark key="[" line="9" column="33" />
-        <mark key="." line="23" column="74" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Post.kt" timestamp="1599040370668" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/sund_med_wulff_dev/google-services.json" timestamp="1599038434723" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/di/ViewModelModule.kt" timestamp="1599038785074">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/EntryPointFragment.kt" timestamp="1599044427023">
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="53" column="33" />
+        <mark key="^" line="53" column="33" />
+        <mark key="." line="53" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/activity_login.xml" timestamp="1599037867095">
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/activity_login.xml" timestamp="1599042757781">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="8" />
         <mark key="." line="29" column="8" />
         <mark key="^" line="32" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/App.kt" timestamp="1599038775957">
-        <mark key="'" line="56" column="9" />
-        <mark key="[" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/User.kt" timestamp="1599040683798">
         <mark key="a" line="24" column="33" />
@@ -106,13 +108,26 @@
         <mark key="]" line="43" column="100" />
         <mark key="." line="43" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1599041165078">
-        <mark key="[" line="2" column="61" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="2" column="61" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1599044136706">
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="69" column="20" />
+        <mark key="." line="69" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/colors.xml" timestamp="1599041185400" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/google-services.json" timestamp="1599038511799" />
+      <file name="/Dummy.txt" timestamp="1599042766633">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/main/view/MainActivity.kt" timestamp="1599042736586" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/colors.xml" timestamp="1599043975903">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/EntryPoint.kt" timestamp="1599043181663">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="4" column="8" />
+      </file>
       <file name="/fragment.java" timestamp="1599039843182">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,10 +183,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getBoolean</text>
+        <text>$lottieVersion</text>
       </register>
       <register name="-" type="4">
-        <text>getBoolean</text>
+        <text>$lottieVersion</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
@@ -180,33 +195,33 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVsb2FkRGF0YSh0cnVlKQogICAgICAgICAgICBidXR0b25fbmV3X2NvbnRlbnQudmlzaWJpbGl0eSA9IFZpZXcuR09ORQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgLmxldCB7IHVzZXIgLT4KICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnQoTWFpbkFjdGl2aXR5OjpjbGFzcy5qYXZhKQogICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">PGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC50ZXh0dmlldy5NYXRlcmlhbFRleHRWaWV3CiAgICAgICAgc3R5bGU9Ij9hdHRyL3RleHRBcHBlYXJhbmNlU3VidGl0bGUxIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJFbnRyeSBQb2ludCBGcmFnbWVudCIgLz4KCgogICAgPGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5idXR0b24uTWF0ZXJpYWxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NhbXBsZUJ0biIKICAgICAgICBzdHlsZT0iQHN0eWxlL1dpZGdldC5NYXRlcmlhbENvbXBvbmVudHMuQnV0dG9uIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI2NGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQ2xpY2sgbWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgoKICAgICAgICAv</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgLmxldCB7IHVzZXIgLT4KICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnQoTWFpbkFjdGl2aXR5OjpjbGFzcy5qYXZhKQogICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text>.recoverCatching {
             Result.
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHsKCn0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJUaGVtZS5BcHAiIHBhcmVudD0iVGhlbWUuTWF0ZXJpYWxDb21wb25lbnRzLkxpZ2h0Lk5vQWN0aW9uQmFyIj4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNTIuNywxNC43djMzLjRjMCwyLjIgLTEuOCw0IC00LDRoLTMzLjRjLTIuMiwwIC00LC0xLjggLTQsLTR2LTMzLjRjMCwtMi4yIDEuOCwtNCA0LC00aDMzLjRDNTAuOSwxMC43IDUyLjcsMTIuNSA1Mi43LDE0Ljd6TTQ4LjEsMzEuNGMwLC04LjkgLTcuMiwtMTYuMSAtMTYuMSwtMTYuMXMtMTYuMSw3LjIgLTE2LjEsMTYuMWMwLDguOSA3LjIsMTYuMSAxNi4xLDE2LjFTNDguMSw0MC4zIDQ4LjEsMzEuNHoiCiAgICAgIGFuZHJvaWQ6ZmlsbENvbG9yPSIjNjM2NDY0Ii8+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNMzIsNDcuN2MtOSwwIC0xNi4zLC03LjMgLTE2LjMsLTE2LjNjMCwtOSA3LjMsLTE2LjMgMTYuMywtMTYuM3MxNi4zLDcuMyAxNi4zLDE2LjNDNDguMiw0MC40IDQwLjksNDcuNyAzMiw0Ny43ek0zMiwxNS41Yy04LjgsMCAtMTUuOSw3LjEgLTE1LjksMTUuOWMwLDguOCA3LjEsMTUuOSAxNS45LDE1LjlzMTUuOSwtNy4xIDE1LjksLTE1LjlDNDcuOSwyMi42IDQwLjgsMTUuNSAzMiwxNS41eiIKICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiM2MzY0NjQiLz4=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNDguNyw1My40aC0zMy40Yy0yLjksMCAtNS4zLC0yLjQgLTUuMywtNS4zdi0zMy40YzAsLTIuOSAyLjQsLTUuMyA1LjMsLTUuM2gzMy40YzIuOSwwIDUuMywyLjQgNS4zLDUuM3YzMy40QzU0LDUxIDUxLjYsNTMuNCA0OC43LDUzLjR6TTE1LjMsMTIuMWMtMS41LDAgLTIuNywxLjIgLTIuNywyLjd2MzMuNGMwLDEuNSAxLjIsMi43IDIuNywyLjdoMzMuNGMxLjUsMCAyLjcsLTEuMiAyLjcsLTIuN3YtMzMuNGMwLC0xLjUgLTEuMiwtMi43IC0yLjcsLTIuN0wxNS4zLDEyLjF6IgogICAgICBhbmRyb2lkOmZpbGxDb2xvcj0iIzYzNjQ2NCIvPg==</text>
+        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNMzIsNDcuN2MtOSwwIC0xNi4zLC03LjMgLTE2LjMsLTE2LjNjMCwtOSA3LjMsLTE2LjMgMTYuMywtMTYuM3MxNi4zLDcuMyAxNi4zLDE2LjNDNDguMiw0MC40IDQwLjksNDcuNyAzMiw0Ny43ek0zMiwxNS41Yy04LjgsMCAtMTUuOSw3LjEgLTE1LjksMTUuOWMwLDguOCA3LjEsMTUuOSAxNS45LDE1LjlzMTUuOSwtNy4xIDE1LjksLTE1LjlDNDcuOSwyMi42IDQwLjgsMTUuNSAzMiwxNS41eiIKICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiM2MzY0NjQiLz4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNMzIsNDcuN2MtOSwwIC0xNi4zLC03LjMgLTE2LjMsLTE2LjNjMCwtOSA3LjMsLTE2LjMgMTYuMywtMTYuM3MxNi4zLDcuMyAxNi4zLDE2LjNDNDguMiw0MC40IDQwLjksNDcuNyAzMiw0Ny43ek0zMiwxNS41Yy04LjgsMCAtMTUuOSw3LjEgLTE1LjksMTUuOWMwLDguOCA3LjEsMTUuOSAxNS45LDE1LjlzMTUuOSwtNy4xIDE1LjksLTE1LjlDNDcuOSwyMi42IDQwLjgsMTUuNSAzMiwxNS41eiIKICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiM2MzY0NjQiLz4=</text>
+        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNDguNyw1My40aC0zMy40Yy0yLjksMCAtNS4zLC0yLjQgLTUuMywtNS4zdi0zMy40YzAsLTIuOSAyLjQsLTUuMyA1LjMsLTUuM2gzMy40YzIuOSwwIDUuMywyLjQgNS4zLDUuM3YzMy40QzU0LDUxIDUxLjYsNTMuNCA0OC43LDUzLjR6TTE1LjMsMTIuMWMtMS41LDAgLTIuNywxLjIgLTIuNywyLjd2MzMuNGMwLDEuNSAxLjIsMi43IDIuNywyLjdoMzMuNGMxLjUsMCAyLjcsLTEuMiAyLjcsLTIuN3YtMzMuNGMwLC0xLjUgLTEuMiwtMi43IC0yLjcsLTIuN0wxNS4zLDEyLjF6IgogICAgICBhbmRyb2lkOmZpbGxDb2xvcj0iIzYzNjQ2NCIvPg==</text>
       </register>
     </registers>
   </component>
