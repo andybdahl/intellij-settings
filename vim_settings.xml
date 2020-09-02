@@ -128,9 +128,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1599039843182">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test2/app/build.gradle" timestamp="1599052014545" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
