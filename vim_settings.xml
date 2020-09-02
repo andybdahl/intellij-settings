@@ -51,51 +51,70 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599031968253">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="97" column="13" />
-        <mark key="." line="97" column="13" />
-        <mark key="^" line="77" column="17" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/data/model/Credential.kt" timestamp="1599036752396">
+        <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/smartadjust-android/app/src/live/google-services.json" timestamp="1599032647535" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/fragment_entry_point.xml" timestamp="1598967581643">
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="19" column="55" />
-        <mark key="." line="19" column="55" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/Globals.kt" timestamp="1599037035656">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599031970993">
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599037258373">
+        <mark key="[" line="102" column="20" />
+        <mark key="]" line="74" column="63" />
+        <mark key="." line="74" column="63" />
+        <mark key="^" line="82" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/view/LoginActivity.kt" timestamp="1599038144633">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/dimens.xml" timestamp="1599037758666">
+        <mark key="[" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599036879202">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/build.gradle" timestamp="1599032130692" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/App.kt" timestamp="1599032446907" />
-      <file name="$USER_HOME$/Desktop/yo_tests/app/src/main/java/dk/makeable/app/yotests/BaseApplication.kt" timestamp="1599030900454" />
-      <file name="$USER_HOME$/Desktop/cookiecutter_tests/diatest-android/app/build.gradle" timestamp="1599031273976" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/App.kt" timestamp="1599032743844">
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/AndroidManifest.xml" timestamp="1599038888683">
+        <mark key="[" line="9" column="33" />
+        <mark key="." line="23" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/sund_med_wulff_dev/google-services.json" timestamp="1599038434723" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/di/ViewModelModule.kt" timestamp="1599038785074">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/activity_login.xml" timestamp="1599037867095">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="32" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/App.kt" timestamp="1599038775957">
         <mark key="'" line="44" column="9" />
-        <mark key="[" line="40" column="19" />
+        <mark key="[" line="28" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/template-android-app/project/app/build.gradle" timestamp="1598968618359" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/probox24-valina/app/src/main/java/dk/makeable/golfmoredispenser/controllers/LocaleController.kt" timestamp="1599033455053" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/build.gradle" timestamp="1599032129101">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="16" column="75" />
-        <mark key="." line="16" column="75" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/User.kt" timestamp="1599037331117">
+        <mark key="[" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1598967806867">
-        <mark key="[" line="2" column="61" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="2" column="61" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/splash/view/SplashActivity.kt" timestamp="1599038410806">
+        <mark key="[" line="44" column="100" />
+        <mark key="]" line="44" column="100" />
+        <mark key="." line="44" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/smartadjust-android/app/src/main/java/dk/makeable/dolsensors/App.kt" timestamp="1599032228264" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/styles.xml" timestamp="1598966801527">
-        <mark key="[" line="2" column="61" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="2" column="61" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/view/LoginViewModel.kt" timestamp="1599036521399">
+        <mark key="[" line="9" column="119" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/{{cookiecutter.repo_name}}/app/google-services.json" timestamp="1599033671669" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/colors.xml" timestamp="1598967177937" />
-      <file name="$USER_HOME$/Desktop/template-android-app/project/app/src/main/java/dk/makeable/demoproject/ui/products/ProductListActivity.kt" timestamp="1598968820876" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/probox24-valina/app/src/main/java/dk/makeable/golfmoredispenser/ui/activities/MainActivity.kt" timestamp="1599033527942" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/data/model/EmailCredential.kt" timestamp="1599037591774">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/google-services.json" timestamp="1599038511799" />
+      <file name="/fragment.java" timestamp="1599036408739">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -148,10 +167,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgLmxldCB7IHVzZXIgLT4KICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnQoTWFpbkFjdGl2aXR5OjpjbGFzcy5qYXZhKQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
@@ -159,35 +178,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVsb2FkRGF0YSh0cnVlKQogICAgICAgICAgICBidXR0b25fbmV3X2NvbnRlbnQudmlzaWJpbGl0eSA9IFZpZXcuR09ORQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJUaGVtZS5BcHAiIHBhcmVudD0iVGhlbWUuTWF0ZXJpYWxDb21wb25lbnRzLkxpZ2h0Lk5vQWN0aW9uQmFyIj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgLmxldCB7IHVzZXIgLT4KICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnQoTWFpbkFjdGl2aXR5OjpjbGFzcy5qYXZhKQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNTIuNywxNC43djMzLjRjMCwyLjIgLTEuOCw0IC00LDRoLTMzLjRjLTIuMiwwIC00LC0xLjggLTQsLTR2LTMzLjRjMCwtMi4yIDEuOCwtNCA0LC00aDMzLjRDNTAuOSwxMC43IDUyLjcsMTIuNSA1Mi43LDE0Ljd6TTQ4LjEsMzEuNGMwLC04LjkgLTcuMiwtMTYuMSAtMTYuMSwtMTYuMXMtMTYuMSw3LjIgLTE2LjEsMTYuMWMwLDguOSA3LjIsMTYuMSAxNi4xLDE2LjFTNDguMSw0MC4zIDQ4LjEsMzEuNHoiCiAgICAgIGFuZHJvaWQ6ZmlsbENvbG9yPSIjNjM2NDY0Ii8+</text>
+      <register name="2" type="4">
+        <text>.recoverCatching {
+            Result.
+        }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNMzIsNDcuN2MtOSwwIC0xNi4zLC03LjMgLTE2LjMsLTE2LjNjMCwtOSA3LjMsLTE2LjMgMTYuMywtMTYuM3MxNi4zLDcuMyAxNi4zLDE2LjNDNDguMiw0MC40IDQwLjksNDcuNyAzMiw0Ny43ek0zMiwxNS41Yy04LjgsMCAtMTUuOSw3LjEgLTE1LjksMTUuOWMwLDguOCA3LjEsMTUuOSAxNS45LDE1LjlzMTUuOSwtNy4xIDE1LjksLTE1LjlDNDcuOSwyMi42IDQwLjgsMTUuNSAzMiwxNS41eiIKICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiM2MzY0NjQiLz4=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNDguNyw1My40aC0zMy40Yy0yLjksMCAtNS4zLC0yLjQgLTUuMywtNS4zdi0zMy40YzAsLTIuOSAyLjQsLTUuMyA1LjMsLTUuM2gzMy40YzIuOSwwIDUuMywyLjQgNS4zLDUuM3YzMy40QzU0LDUxIDUxLjYsNTMuNCA0OC43LDUzLjR6TTE1LjMsMTIuMWMtMS41LDAgLTIuNywxLjIgLTIuNywyLjd2MzMuNGMwLDEuNSAxLjIsMi43IDIuNywyLjdoMzMuNGMxLjUsMCAyLjcsLTEuMiAyLjcsLTIuN3YtMzMuNGMwLC0xLjUgLTEuMiwtMi43IC0yLjcsLTIuN0wxNS4zLDEyLjF6IgogICAgICBhbmRyb2lkOmZpbGxDb2xvcj0iIzYzNjQ2NCIvPg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHsKCn0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNMzIsNDcuN2MtOSwwIC0xNi4zLC03LjMgLTE2LjMsLTE2LjNjMCwtOSA3LjMsLTE2LjMgMTYuMywtMTYuM3MxNi4zLDcuMyAxNi4zLDE2LjNDNDguMiw0MC40IDQwLjksNDcuNyAzMiw0Ny43ek0zMiwxNS41Yy04LjgsMCAtMTUuOSw3LjEgLTE1LjksMTUuOWMwLDguOCA3LjEsMTUuOSAxNS45LDE1LjlzMTUuOSwtNy4xIDE1LjksLTE1LjlDNDcuOSwyMi42IDQwLjgsMTUuNSAzMiwxNS41eiIKICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiM2MzY0NjQiLz4=</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJUaGVtZS5BcHAiIHBhcmVudD0iVGhlbWUuTWF0ZXJpYWxDb21wb25lbnRzLkxpZ2h0Lk5vQWN0aW9uQmFyIj4K</text>
       </register>
-      <register name="6" type="8">
-        <text>Primary
-Primary
-Primary
-Primary</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNTIuNywxNC43djMzLjRjMCwyLjIgLTEuOCw0IC00LDRoLTMzLjRjLTIuMiwwIC00LC0xLjggLTQsLTR2LTMzLjRjMCwtMi4yIDEuOCwtNCA0LC00aDMzLjRDNTAuOSwxMC43IDUyLjcsMTIuNSA1Mi43LDE0Ljd6TTQ4LjEsMzEuNGMwLC04LjkgLTcuMiwtMTYuMSAtMTYuMSwtMTYuMXMtMTYuMSw3LjIgLTE2LjEsMTYuMWMwLDguOSA3LjIsMTYuMSAxNi4xLDE2LjFTNDguMSw0MC4zIDQ4LjEsMzEuNHoiCiAgICAgIGFuZHJvaWQ6ZmlsbENvbG9yPSIjNjM2NDY0Ii8+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclRleHRQcmltYXJ5TGlnaHRGYWRlZCI+IzgwNEE0QTRBPC9jb2xvcj4K</text>
+        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNMzIsNDcuN2MtOSwwIC0xNi4zLC03LjMgLTE2LjMsLTE2LjNjMCwtOSA3LjMsLTE2LjMgMTYuMywtMTYuM3MxNi4zLDcuMyAxNi4zLDE2LjNDNDguMiw0MC40IDQwLjksNDcuNyAzMiw0Ny43ek0zMiwxNS41Yy04LjgsMCAtMTUuOSw3LjEgLTE1LjksMTUuOWMwLDguOCA3LjEsMTUuOSAxNS45LDE1LjlzMTUuOSwtNy4xIDE1LjksLTE1LjlDNDcuOSwyMi42IDQwLjgsMTUuNSAzMiwxNS41eiIKICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiM2MzY0NjQiLz4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9yZWdpb24gRGVzY3JpcHRpb24K</text>
+        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNNDguNyw1My40aC0zMy40Yy0yLjksMCAtNS4zLC0yLjQgLTUuMywtNS4zdi0zMy40YzAsLTIuOSAyLjQsLTUuMyA1LjMsLTUuM2gzMy40YzIuOSwwIDUuMywyLjQgNS4zLDUuM3YzMy40QzU0LDUxIDUxLjYsNTMuNCA0OC43LDUzLjR6TTE1LjMsMTIuMWMtMS41LDAgLTIuNywxLjIgLTIuNywyLjd2MzMuNGMwLDEuNSAxLjIsMi43IDIuNywyLjdoMzMuNGMxLjUsMCAyLjcsLTEuMiAyLjcsLTIuN3YtMzMuNGMwLC0xLjUgLTEuMiwtMi43IC0yLjcsLTIuN0wxNS4zLDEyLjF6IgogICAgICBhbmRyb2lkOmZpbGxDb2xvcj0iIzYzNjQ2NCIvPg==</text>
       </register>
       <register name="9" type="2">
-        <text>QUALIFI</text>
+        <text encoding="base64">ICA8cGF0aAogICAgICBhbmRyb2lkOnBhdGhEYXRhPSJNMzIsNDcuN2MtOSwwIC0xNi4zLC03LjMgLTE2LjMsLTE2LjNjMCwtOSA3LjMsLTE2LjMgMTYuMywtMTYuM3MxNi4zLDcuMyAxNi4zLDE2LjNDNDguMiw0MC40IDQwLjksNDcuNyAzMiw0Ny43ek0zMiwxNS41Yy04LjgsMCAtMTUuOSw3LjEgLTE1LjksMTUuOWMwLDguOCA3LjEsMTUuOSAxNS45LDE1LjlzMTUuOSwtNy4xIDE1LjksLTE1LjlDNDcuOSwyMi42IDQwLjgsMTUuNSAzMiwxNS41eiIKICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiM2MzY0NjQiLz4=</text>
       </register>
     </registers>
   </component>
