@@ -46,24 +46,22 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/data/model/Credential.kt" timestamp="1599036752396">
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/data/model/Credential.kt" timestamp="1599041028691">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/Globals.kt" timestamp="1599037035656">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599040179040">
-        <mark key="[" line="103" column="53" />
-        <mark key="]" line="103" column="53" />
-        <mark key="." line="103" column="53" />
-        <mark key="^" line="96" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599041241489">
+        <mark key="[" line="58" column="51" />
+        <mark key="]" line="58" column="51" />
+        <mark key="." line="58" column="51" />
+        <mark key="^" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/view/LoginActivity.kt" timestamp="1599038144633">
         <mark key="[" line="39" column="39" />
@@ -96,7 +94,7 @@
         <mark key="'" line="56" column="9" />
         <mark key="[" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/User.kt" timestamp="1599040368257">
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/User.kt" timestamp="1599040683798">
         <mark key="a" line="24" column="33" />
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="1" />
@@ -108,15 +106,12 @@
         <mark key="]" line="43" column="100" />
         <mark key="." line="43" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/view/LoginViewModel.kt" timestamp="1599036521399">
-        <mark key="[" line="9" column="119" />
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1599041165078">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/data/model/EmailCredential.kt" timestamp="1599037591774">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="39" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/colors.xml" timestamp="1599041185400" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/google-services.json" timestamp="1599038511799" />
       <file name="/fragment.java" timestamp="1599039843182">
         <mark key="[" line="0" column="0" />
@@ -173,10 +168,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>paperparcel</text>
+        <text>getBoolean</text>
       </register>
       <register name="-" type="4">
-        <text>paperparcel</text>
+        <text>getBoolean</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
