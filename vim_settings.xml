@@ -54,6 +54,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values/colors.xml" timestamp="1599133557774" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/di/ViewModelModule.kt" timestamp="1599131926293">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="2" column="61" />
@@ -68,12 +69,20 @@
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/package-info.java" timestamp="1599132660205">
         <mark key="[" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values/styles.xml" timestamp="1599133524054">
+        <mark key="[" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values/ic_launcher_background.xml" timestamp="1599133691464">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelFragment.kt" timestamp="1599131485402">
         <mark key="[" line="30" column="41" />
         <mark key="]" line="30" column="41" />
         <mark key="." line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599133206780">
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599133394858">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
@@ -90,6 +99,7 @@
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/login/view/LoginActivity.kt" timestamp="1599132395936">
         <mark key="[" line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/values/colors.xml" timestamp="1599133550365" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/App.kt" timestamp="1599131126705" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelsFragment.kt" timestamp="1599132038195">
         <mark key="[" line="16" column="45" />
@@ -160,10 +170,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sundmedwulff</text>
+        <text>3DDC84</text>
       </register>
       <register name="-" type="4">
-        <text>sundmedwulff</text>
+        <text>3DDC84</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
