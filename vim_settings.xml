@@ -54,35 +54,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/EntryPointEpoxyController.kt" timestamp="1599043319333">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="6" column="77" />
-        <mark key="." line="6" column="76" />
-        <mark key="^" line="6" column="77" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/cell_message.xml" timestamp="1599114055090">
         <mark key="[" line="132" column="47" />
         <mark key="]" line="132" column="47" />
         <mark key="^" line="118" column="61" />
         <mark key="." line="132" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/epoxy_entrypoint_item.xml" timestamp="1599043162092">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/layout/fragment_entry_point.xml" timestamp="1599043439474">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test4/app/build.gradle" timestamp="1599055168652" />
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/build.gradle" timestamp="1599114650956">
+        <mark key="[" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/build.gradle" timestamp="1599114560113">
+        <mark key="[" line="12" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Post.kt" timestamp="1599045632411" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/EntryPointFragment.kt" timestamp="1599046167850">
         <mark key="[" line="42" column="23" />
         <mark key="]" line="53" column="33" />
         <mark key="^" line="53" column="33" />
         <mark key="." line="53" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599115394288">
+        <mark key="[" line="246" column="63" />
+        <mark key="]" line="164" column="81" />
+        <mark key="^" line="164" column="81" />
+        <mark key="." line="164" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1599044136706">
         <mark key="[" line="69" column="20" />
@@ -114,17 +110,14 @@
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test4/version.extensions.gradle" timestamp="1599055181496" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/repository/Repositories.kt" timestamp="1599114303312" />
-      <file name="/Dummy.txt" timestamp="1599042766633">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/build.gradle" timestamp="1599115401751">
+        <mark key="[" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1599115281589">
+        <mark key="[" line="33" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainActivity.kt" timestamp="1599112396839">
         <mark key="[" line="182" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/EntryPoint.kt" timestamp="1599043181663">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="4" column="8" />
       </file>
     </filemarks>
     <jumps>
