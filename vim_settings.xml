@@ -80,16 +80,6 @@
         <mark key="^" line="164" column="81" />
         <mark key="." line="164" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1599044136706">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values-night/colors.xml" timestamp="1599043975903">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="7" column="42" />
-      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test2/app/build.gradle" timestamp="1599052014545" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test3/app/build.gradle" timestamp="1599052947196" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599044331692">
@@ -97,6 +87,12 @@
         <mark key="]" line="112" column="46" />
         <mark key="." line="112" column="46" />
         <mark key="^" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1599118634267">
+        <mark key="[" line="132" column="35" />
+        <mark key="]" line="132" column="36" />
+        <mark key="^" line="132" column="36" />
+        <mark key="." line="132" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/messages/MessagesFragment.kt" timestamp="1599113734028">
         <mark key="[" line="95" column="49" />
@@ -113,6 +109,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/build.gradle" timestamp="1599115401751">
         <mark key="[" line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/ads/BannerAd.kt" timestamp="1599118649780" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1599117382214">
         <mark key="[" line="15" column="42" />
       </file>
