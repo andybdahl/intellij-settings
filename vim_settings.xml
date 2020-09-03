@@ -73,10 +73,10 @@
         <mark key="]" line="30" column="41" />
         <mark key="." line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599133011490">
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599133206780">
         <mark key="[" line="12" column="39" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="13" column="8" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
         <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/settings.gradle" timestamp="1599133106285">
@@ -160,10 +160,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Project Template Basic&quot;</text>
+        <text>sundmedwulff</text>
       </register>
       <register name="-" type="4">
-        <text>Project Template Basic&quot;</text>
+        <text>sundmedwulff</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
