@@ -73,13 +73,13 @@
         <mark key="]" line="30" column="41" />
         <mark key="." line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599132083470">
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599132318957">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/login/view/LoginActivity.kt" timestamp="1599131674006">
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/login/view/LoginActivity.kt" timestamp="1599132395936">
         <mark key="[" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/App.kt" timestamp="1599131126705" />
@@ -152,10 +152,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dk.makeable.testapp</text>
+        <text>sundmedwulff</text>
       </register>
       <register name="-" type="4">
-        <text>dk.makeable.testapp</text>
+        <text>sundmedwulff</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
