@@ -54,20 +54,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/build.gradle" timestamp="1599114560113">
-        <mark key="[" line="12" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/build.gradle" timestamp="1599115401751">
-        <mark key="[" line="4" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/cell_message.xml" timestamp="1599114055090">
         <mark key="[" line="132" column="47" />
         <mark key="]" line="132" column="47" />
         <mark key="^" line="118" column="61" />
         <mark key="." line="132" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1599117382214">
-        <mark key="[" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599126297762">
         <mark key="[" line="246" column="63" />
@@ -75,10 +66,6 @@
         <mark key="^" line="164" column="81" />
         <mark key="." line="164" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainActivity.kt" timestamp="1599112396839">
-        <mark key="[" line="182" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/build.gradle" timestamp="1599127129933" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/User.kt" timestamp="1599127173318" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1599118634267">
         <mark key="[" line="132" column="35" />
@@ -91,21 +78,35 @@
         <mark key="]" line="95" column="49" />
         <mark key="." line="95" column="49" />
       </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/ArticleViewModel.kt" timestamp="1599127190392" />
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/build.gradle" timestamp="1599114650956">
+        <mark key="[" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/EntryPoint.kt" timestamp="1599127169267" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/ArticleFragment.kt" timestamp="1599127411391" />
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/build.gradle" timestamp="1599114560113">
+        <mark key="[" line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/build.gradle" timestamp="1599115401751">
+        <mark key="[" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1599117382214">
+        <mark key="[" line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainActivity.kt" timestamp="1599112396839">
+        <mark key="[" line="182" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/build.gradle" timestamp="1599127129933" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/message/MessageItem.kt" timestamp="1599113701004">
         <mark key="[" line="82" column="47" />
         <mark key="]" line="82" column="47" />
         <mark key="." line="82" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/ArticleViewModel.kt" timestamp="1599127190392" />
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/build.gradle" timestamp="1599114650956">
-        <mark key="[" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/test_gens/generator-makeable-android-mvvm/generators/app/templates/template-android-mvvm/app/build.gradle" timestamp="1599119625199">
         <mark key="[" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/feature/splash/view/SplashActivity.kt" timestamp="1599127209598" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/feature/login/data/model/EmailCredential.kt" timestamp="1599127226426" />
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/EntryPoint.kt" timestamp="1599127169267" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
