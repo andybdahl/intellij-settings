@@ -81,10 +81,6 @@
         <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test4/app/build.gradle" timestamp="1599055168652" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599040193853">
-        <mark key="[" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/App.kt" timestamp="1599040148955" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Post.kt" timestamp="1599045632411" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/EntryPointFragment.kt" timestamp="1599046167850">
         <mark key="[" line="42" column="23" />
@@ -105,6 +101,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="21" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test4/version.extensions.gradle" timestamp="1599055181496" />
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/res/values/styles.xml" timestamp="1599044136706">
         <mark key="[" line="69" column="20" />
         <mark key="]" line="69" column="20" />
@@ -118,6 +115,9 @@
         <mark key="[" line="7" column="42" />
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainActivity.kt" timestamp="1599112396839">
+        <mark key="[" line="182" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/EntryPoint.kt" timestamp="1599043181663">
         <mark key="[" line="4" column="8" />
