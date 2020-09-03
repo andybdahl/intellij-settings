@@ -56,12 +56,6 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/di/AppModule.kt" timestamp="1599134016564" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values/colors.xml" timestamp="1599133822974" />
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/di/ViewModelModule.kt" timestamp="1599131926293">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="2" column="60" />
-        <mark key="^" line="2" column="61" />
-      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/AndroidManifest.xml" timestamp="1599132225154">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="22" />
@@ -70,8 +64,16 @@
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/package-info.java" timestamp="1599132660205">
         <mark key="[" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/google-services.json" timestamp="1599134343577">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values/styles.xml" timestamp="1599133524054">
         <mark key="[" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/src/main/res/values/colors.xml" timestamp="1599134491886">
+        <mark key="[" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values/ic_launcher_background.xml" timestamp="1599133691464">
         <mark key="[" line="2" column="42" />
@@ -92,10 +94,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/data/model/User.kt" timestamp="1599134032974" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values-night/colors.xml" timestamp="1599133860716" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/src/main/java/dk/makeable/diatest/App.kt" timestamp="1599134580368" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelsEpoxyController.kt" timestamp="1599132591445">
         <mark key="[" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/di/ViewModelModule.kt" timestamp="1599134025114" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/src/main/res/values-night/colors.xml" timestamp="1599134501221" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/login/view/LoginActivity.kt" timestamp="1599132395936">
         <mark key="[" line="6" column="19" />
       </file>
@@ -103,20 +107,6 @@
         <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/values/colors.xml" timestamp="1599133915477" />
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelsFragment.kt" timestamp="1599132038195">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="16" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/splash/view/SplashActivity.kt" timestamp="1599131728973">
-        <mark key="[" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/main/view/MainActivity.kt" timestamp="1599131980823">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
