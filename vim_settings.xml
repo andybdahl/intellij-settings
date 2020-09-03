@@ -54,32 +54,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/di/ViewModelModule.kt" timestamp="1599131926293">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="60" />
+        <mark key="^" line="2" column="61" />
+      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/package-info.java" timestamp="1599131059521">
         <mark key="[" line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599126297762">
-        <mark key="[" line="246" column="63" />
-        <mark key="]" line="164" column="81" />
-        <mark key="^" line="164" column="81" />
-        <mark key="." line="164" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelFragment.kt" timestamp="1599131485402">
         <mark key="[" line="30" column="41" />
         <mark key="]" line="30" column="41" />
         <mark key="." line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599131607600">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599131887517">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/login/view/LoginActivity.kt" timestamp="1599131674006">
         <mark key="[" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/App.kt" timestamp="1599131126705" />
-      <file name="$USER_HOME$/Desktop/test_gens/generator-makeable-android-mvvm/generators/app/templates/template-android-mvvm/app/build.gradle" timestamp="1599119625199">
-        <mark key="[" line="23" column="32" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelsFragment.kt" timestamp="1599132038195">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/layout/epoxy_test_model_item.xml" timestamp="1599130989864">
         <mark key="[" line="9" column="38" />
@@ -87,8 +90,10 @@
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/splash/view/SplashActivity.kt" timestamp="1599131728973">
         <mark key="[" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/main/view/MainActivity.kt" timestamp="1599131701252">
-        <mark key="[" line="7" column="19" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/main/view/MainActivity.kt" timestamp="1599131980823">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -142,10 +147,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>V</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
