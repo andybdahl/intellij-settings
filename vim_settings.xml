@@ -74,7 +74,10 @@
         <mark key="^" line="53" column="33" />
         <mark key="." line="53" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599117658870">
+      <file name="$USER_HOME$/Desktop/test_gens/generator-makeable-android-mvvm/generators/app/templates/template-android-mvvm/app/build.gradle" timestamp="1599119625199">
+        <mark key="[" line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599119503493">
         <mark key="[" line="246" column="63" />
         <mark key="]" line="164" column="81" />
         <mark key="^" line="164" column="81" />
@@ -82,12 +85,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test2/app/build.gradle" timestamp="1599052014545" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test3/app/build.gradle" timestamp="1599052947196" />
-      <file name="$USER_HOME$/Documents/Makeable/Templates/android-template-project-basic/app/build.gradle" timestamp="1599044331692">
-        <mark key="[" line="112" column="46" />
-        <mark key="]" line="112" column="46" />
-        <mark key="." line="112" column="46" />
-        <mark key="^" line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1599118634267">
         <mark key="[" line="132" column="35" />
         <mark key="]" line="132" column="36" />
