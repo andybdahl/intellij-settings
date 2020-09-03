@@ -54,20 +54,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/build.gradle" timestamp="1599114560113">
-        <mark key="[" line="12" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/build.gradle" timestamp="1599115401751">
-        <mark key="[" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/cell_message.xml" timestamp="1599114055090">
-        <mark key="[" line="132" column="47" />
-        <mark key="]" line="132" column="47" />
-        <mark key="^" line="118" column="61" />
-        <mark key="." line="132" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1599117382214">
-        <mark key="[" line="15" column="42" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/package-info.java" timestamp="1599131059521">
+        <mark key="[" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599126297762">
         <mark key="[" line="246" column="63" />
@@ -75,28 +63,28 @@
         <mark key="^" line="164" column="81" />
         <mark key="." line="164" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599130630707" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1599118634267">
-        <mark key="[" line="132" column="35" />
-        <mark key="]" line="132" column="36" />
-        <mark key="^" line="132" column="36" />
-        <mark key="." line="132" column="35" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelFragment.kt" timestamp="1599131485402">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/messages/MessagesFragment.kt" timestamp="1599113734028">
-        <mark key="[" line="95" column="49" />
-        <mark key="]" line="95" column="49" />
-        <mark key="." line="95" column="49" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599130921004">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/message/MessageItem.kt" timestamp="1599113701004">
-        <mark key="[" line="82" column="47" />
-        <mark key="]" line="82" column="47" />
-        <mark key="." line="82" column="47" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/login/view/LoginActivity.kt" timestamp="1599131144993">
+        <mark key="[" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/build.gradle" timestamp="1599114650956">
-        <mark key="[" line="48" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/App.kt" timestamp="1599131126705" />
       <file name="$USER_HOME$/Desktop/test_gens/generator-makeable-android-mvvm/generators/app/templates/template-android-mvvm/app/build.gradle" timestamp="1599119625199">
         <mark key="[" line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/layout/epoxy_test_model_item.xml" timestamp="1599130989864">
+        <mark key="[" line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/main/view/MainActivity.kt" timestamp="1599131254158">
+        <mark key="[" line="16" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -150,10 +138,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICA8IS0tICAgICAgICAgICAgPGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0QnV0dG9uLS0+CiAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jZWxsX21lc3NhZ2VfbGlua19jb250YWluZXJfYnV0dG9uIi0tPgogICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvQmFzZS5XaWRnZXQuQXBwQ29tcGF0LkJ1dHRvbi5Cb3JkZXJsZXNzIi0tPgogICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMGRwIi0tPgogICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iQGRpbWVuL2NvbnRlbnRfc3BhY2luZ19ub3JtYWwiLS0+CiAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvcHJpbWFyeV90ZXh0Ii0tPgogICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIGFuZHJvaWQ6Zm9udEZhbWlseT0iQGZvbnQvYmFybG93X3NlbWlfY29uZGVuc2VkX21lZGl1bSItLT4KICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOmZvcmVncm91bmQ9Ij9hdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCItLT4KICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iQGRpbWVuL2NvbnRlbnRfc3BhY2luZ19ub3JtYWwiLS0+CiAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nRW5kPSJAZGltZW4vY29udGVudF9zcGFjaW5nX25vcm1hbCItLT4KICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRBbGxDYXBzPSJmYWxzZSItLT4KICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiLS0+CiAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMThzcCItLT4KICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0ibm9ybWFsIi0tPgogICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiLS0+CiAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCItLT4KICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Ii0tPgogICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIHRvb2xzOnRleHQ9IkzDpnMgbWVyZSIgLz4tLT4=</text>
+        <text>fragment_entry_point</text>
       </register>
       <register name="-" type="4">
-        <text>content_spacing_half</text>
+        <text>fragment_entry_point</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
