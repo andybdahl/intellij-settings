@@ -84,6 +84,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/data/model/EntryPoint.kt" timestamp="1599127169267" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/ArticleFragment.kt" timestamp="1599127411391" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/projecttemplatebasic/feature/entrypoint/view/ArticleEpoxyController.kt" timestamp="1599128286016" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/build.gradle" timestamp="1599114560113">
         <mark key="[" line="12" column="76" />
       </file>
@@ -92,9 +93,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1599117382214">
         <mark key="[" line="15" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainActivity.kt" timestamp="1599112396839">
-        <mark key="[" line="182" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/build.gradle" timestamp="1599127129933" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/message/MessageItem.kt" timestamp="1599113701004">
