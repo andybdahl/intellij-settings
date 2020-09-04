@@ -60,14 +60,14 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Handler.java" timestamp="1599142207222" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/src/main/java/dk/makeable/diatest/App.kt" timestamp="1599134580368" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/build.gradle" timestamp="1599202774870">
+        <mark key="[" line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/di/ViewModelModule.kt" timestamp="1599134025114" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/feature/splash/view/SplashActivity.kt" timestamp="1599134084153">
         <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values/colors.xml" timestamp="1599133822974" />
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/package-info.java" timestamp="1599132660205">
-        <mark key="[" line="3" column="24" />
-      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/google-services.json" timestamp="1599135742668">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
@@ -96,11 +96,13 @@
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/build.gradle" timestamp="1599136217746" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/data/model/User.kt" timestamp="1599134032974" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/res/values-night/colors.xml" timestamp="1599133860716" />
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/testapp/feature/test_model/view/TestModelsEpoxyController.kt" timestamp="1599132591445">
-        <mark key="[" line="4" column="24" />
+      <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/google-services.json" timestamp="1599202687730">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/src/main/res/values-night/colors.xml" timestamp="1599134501221" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/values/colors.xml" timestamp="1599133915477" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/values/colors.xml" timestamp="1599198551988" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -153,10 +155,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sundmedwulff</text>
+        <text>dialiv</text>
       </register>
       <register name="-" type="4">
-        <text>sundmedwulff</text>
+        <text>dialiv</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
