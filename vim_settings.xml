@@ -57,6 +57,12 @@
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/build.gradle" timestamp="1599202774870">
         <mark key="[" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/NewPostFragment.kt" timestamp="1599467084530">
+        <mark key="[" line="100" column="72" />
+        <mark key="]" line="100" column="81" />
+        <mark key="^" line="100" column="81" />
+        <mark key="." line="100" column="80" />
+      </file>
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/google-services.json" timestamp="1599202687730">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
@@ -76,16 +82,23 @@
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/feature/splash/view/SplashActivity.kt" timestamp="1599134084153">
         <mark key="[" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/dialiv/project/app/src/main/java/dk/makeable/dialiv/feature/dialiv_main_screen/view/DialivMainScreensEpoxyController.kt" timestamp="1599220997679" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/google-services.json" timestamp="1599133775716">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
         <mark key="^" line="13" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/res/values/colors.xml" timestamp="1599466463853" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/weight/WeightFragment.kt" timestamp="1599466920258">
+        <mark key="[" line="95" column="122" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599467252638">
+        <mark key="[" line="28" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/ItemsOverviewFragmentViewModel.kt" timestamp="1599458309071">
         <mark key="[" line="126" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/FeedFragment.kt" timestamp="1599467242681" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -138,7 +151,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeW91dHViZUxpbmsgPSBuZXdfcG9zdF9mcmFnbWVudF9hZG1pbl95b3V0dWJlX2xpbmsudGV4dD8uaXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFJldHVybnM=</text>
@@ -147,7 +160,7 @@
         <text>logoutHelp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsb2FkRGF0YSh0cnVlKQogICAgICAgICAgICBidXR0b25fbmV3X2NvbnRlbnQudmlzaWJpbGl0eSA9IFZpZXcuR09ORQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeW91dHViZUxpbmsgPSBuZXdfcG9zdF9mcmFnbWVudF9hZG1pbl95b3V0dWJlX2xpbmsudGV4dD8uaXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
