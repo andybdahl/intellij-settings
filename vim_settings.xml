@@ -57,7 +57,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/controller/UserController.kt" timestamp="1599549100315" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/build.gradle" timestamp="1599202774870">
         <mark key="[" line="10" column="29" />
       </file>
@@ -76,7 +75,6 @@
       <file name="/fragment.kt" timestamp="1599549377442">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d276f83707f2bdf0550c49deeabd7223/jetified-billing-3.0.0/jars/classes.jar!/com/android/billingclient/api/BillingResult.class" timestamp="1599547773826" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/google-services.json" timestamp="1599202687730">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
@@ -98,7 +96,6 @@
         <mark key="^" line="88" column="86" />
         <mark key="." line="92" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.2.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.2.0-sources.jar!/androidx/lifecycle/MediatorLiveData.java" timestamp="1599549619283" />
       <file name="$USER_HOME$/Desktop/TestGeneratedApps/test5/template-android-mvvm/app/src/main/java/dk/makeable/diabetesappen/feature/splash/view/SplashActivity.kt" timestamp="1599134084153">
         <mark key="[" line="38" column="0" />
       </file>
@@ -111,6 +108,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/weight/WeightFragment.kt" timestamp="1599466920258">
         <mark key="[" line="95" column="122" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPostCommentsLiveData.kt" timestamp="1599558533081" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599546812533">
         <mark key="[" line="124" column="62" />
       </file>
