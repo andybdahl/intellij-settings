@@ -99,16 +99,14 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/SearchFragment.kt" timestamp="1599559897363">
         <mark key="[" line="56" column="34" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/8c35588215bc56f828c189e9edc37ee51672cf5c/kotlin-stdlib-common-1.3.72-sources.jar!/generated/_Collections.kt" timestamp="1599562012304" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/DispatchGroup.kt" timestamp="1599561796187" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/weight/WeightFragment.kt" timestamp="1599466920258">
         <mark key="[" line="95" column="122" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPostCommentsLiveData.kt" timestamp="1599566114216">
-        <mark key="[" line="127" column="77" />
-        <mark key="]" line="157" column="45" />
-        <mark key="." line="157" column="45" />
-        <mark key="^" line="151" column="49" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPostCommentsLiveData.kt" timestamp="1599567265946">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599546812533">
         <mark key="[" line="124" column="62" />
