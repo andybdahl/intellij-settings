@@ -52,6 +52,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -99,14 +105,30 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/SearchFragment.kt" timestamp="1599559897363">
         <mark key="[" line="56" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Post.kt" timestamp="1599719719203">
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="97" column="4" />
+        <mark key="^" line="97" column="50" />
+        <mark key="." line="97" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/weight/WeightFragment.kt" timestamp="1599466920258">
         <mark key="[" line="95" column="122" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPostCommentsLiveData.kt" timestamp="1599657062429">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="26" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1599720468845">
+        <mark key="[" line="78" column="145" />
+        <mark key="]" line="78" column="88" />
+        <mark key="^" line="78" column="88" />
+        <mark key="." line="78" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPostCommentsLiveData.kt" timestamp="1599720907046">
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Profile.kt" timestamp="1599716971410" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/firestore-utils/3.0.0/2dc515b086a13b6f96ba5f94177e369f21794393/firestore-utils-3.0.0-sources.jar!/dk/makeable/firestoreutilslib/v3/extensions/Extensions_QueryReference.kt" timestamp="1599717502922">
+        <mark key="[" line="120" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599546812533">
         <mark key="[" line="124" column="62" />
@@ -172,10 +194,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>allPosts.sortedWith(FeedPost.postAndSubPostsComparator)</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>allPosts.sortedWith(FeedPost.postAndSubPostsComparator)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>logoutHelp</text>
@@ -224,7 +246,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
