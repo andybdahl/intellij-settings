@@ -63,9 +63,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/build.gradle" timestamp="1599202774870">
-        <mark key="[" line="10" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/NewPostFragment.kt" timestamp="1599467084530">
         <mark key="[" line="100" column="72" />
         <mark key="]" line="100" column="81" />
@@ -81,18 +78,13 @@
       <file name="/fragment.kt" timestamp="1599549377442">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/ny/template-android-mvvm/app/google-services.json" timestamp="1599202687730">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPost.kt" timestamp="1599565892515">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/TestGeneratedApps/diatest/template-android-mvvm/app/src/main/res/values/colors.xml" timestamp="1599135869864">
-        <mark key="[" line="2" column="37" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/build.gradle" timestamp="1599805920751">
+        <mark key="[" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599460559294">
         <mark key="[" line="27" column="26" />
@@ -111,6 +103,7 @@
         <mark key="^" line="97" column="50" />
         <mark key="." line="97" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1599806017748" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/weight/WeightFragment.kt" timestamp="1599466920258">
         <mark key="[" line="95" column="122" />
       </file>
@@ -126,17 +119,16 @@
         <mark key="." line="122" column="216" />
         <mark key="^" line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Profile.kt" timestamp="1599716971410" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/firestore-utils/3.0.0/2dc515b086a13b6f96ba5f94177e369f21794393/firestore-utils-3.0.0-sources.jar!/dk/makeable/firestoreutilslib/v3/extensions/Extensions_QueryReference.kt" timestamp="1599717502922">
         <mark key="[" line="120" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ftz-android/app/src/main/java/dk/makeable/ftz/repository/CaseRepository.kt" timestamp="1599730212736" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599546812533">
         <mark key="[" line="124" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/ItemsOverviewFragmentViewModel.kt" timestamp="1599458309071">
         <mark key="[" line="126" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/utils/Extensions_Bluetooth.kt" timestamp="1599805842461" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/viewmodel/UserViewModel.kt" timestamp="1599553418894">
         <mark key="[" line="150" column="52" />
         <mark key="]" line="146" column="41" />
