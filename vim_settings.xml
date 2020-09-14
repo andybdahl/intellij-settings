@@ -11,6 +11,7 @@
         <entry>makeable</entry>
         <entry>navigation</entry>
         <entry>logoutHelp</entry>
+        <entry>:%s</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -63,39 +64,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/NewPostFragment.kt" timestamp="1599467084530">
-        <mark key="[" line="100" column="72" />
-        <mark key="]" line="100" column="81" />
-        <mark key="^" line="100" column="81" />
-        <mark key="." line="100" column="80" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/api/masterlink/Certificate.kt" timestamp="1600065694929">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/LoginFragment.kt" timestamp="1599555810289">
-        <mark key="[" line="63" column="50" />
-        <mark key="]" line="164" column="44" />
-        <mark key="." line="164" column="44" />
-        <mark key="^" line="162" column="64" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600067836914" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1599720468845">
+        <mark key="[" line="78" column="145" />
+        <mark key="]" line="78" column="88" />
+        <mark key="^" line="78" column="88" />
+        <mark key="." line="78" column="87" />
       </file>
-      <file name="/fragment.kt" timestamp="1599549377442">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/api/APIError.kt" timestamp="1600067640943" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPostCommentsLiveData.kt" timestamp="1599722616994">
+        <mark key="[" line="122" column="216" />
+        <mark key="]" line="122" column="216" />
+        <mark key="." line="122" column="216" />
+        <mark key="^" line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPost.kt" timestamp="1599565892515">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="14" />
-        <mark key="." line="17" column="14" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1599825264747">
+        <mark key="[" line="70" column="38" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/api/masterlink/MasterLinkConfiguration.kt" timestamp="1600064228148" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/device/MasterLinkDevicePresenterImpl.kt" timestamp="1600071049229" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/bluetooth/MasterLinkConnectionNRF.kt" timestamp="1600071276539" />
+      <file name="/fragment.kt" timestamp="1600067547655">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-common/2.2.5/924310c61a30c7a167a22f636331556bc654ec94/room-common-2.2.5-sources.jar!/androidx/room/ColumnInfo.java" timestamp="1600065159823" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/build.gradle" timestamp="1599805920751">
         <mark key="[" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1599460559294">
-        <mark key="[" line="27" column="26" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.0/a8b4f1baa61d83112d68bb4a3230d58b5972e3c3/kotlin-stdlib-common-1.4.0-sources.jar!/kotlin/util/Result.kt" timestamp="1600068024615">
+        <mark key="[" line="100" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/main/MainActivity.kt" timestamp="1599557259122">
-        <mark key="]" line="92" column="28" />
-        <mark key="^" line="88" column="86" />
-        <mark key="." line="92" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/ui/fragment/SearchFragment.kt" timestamp="1599559897363">
-        <mark key="[" line="56" column="34" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/login/LoginViewModel.kt" timestamp="1600070920991">
+        <mark key="[" line="33" column="81" />
+        <mark key="]" line="70" column="9" />
+        <mark key="^" line="70" column="9" />
+        <mark key="." line="70" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/Post.kt" timestamp="1599719719203">
         <mark key="[" line="97" column="4" />
@@ -103,38 +113,14 @@
         <mark key="^" line="97" column="50" />
         <mark key="." line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/weight/WeightFragment.kt" timestamp="1599466920258">
-        <mark key="[" line="95" column="122" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.0/4a5e4f984e6c3e380f100857f04aba4f3e5fbda8/kotlin-stdlib-1.4.0-sources.jar!/kotlin/Throwable.kt" timestamp="1600067656455" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/LoginRepository.kt" timestamp="1600070680694">
+        <mark key="[" line="54" column="59" />
+        <mark key="]" line="54" column="59" />
+        <mark key="^" line="111" column="31" />
+        <mark key="." line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1599720468845">
-        <mark key="[" line="78" column="145" />
-        <mark key="]" line="78" column="88" />
-        <mark key="^" line="78" column="88" />
-        <mark key="." line="78" column="87" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/model/FeedPostCommentsLiveData.kt" timestamp="1599722616994">
-        <mark key="[" line="122" column="216" />
-        <mark key="]" line="122" column="216" />
-        <mark key="." line="122" column="216" />
-        <mark key="^" line="41" column="27" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/firestore-utils/3.0.0/2dc515b086a13b6f96ba5f94177e369f21794393/firestore-utils-3.0.0-sources.jar!/dk/makeable/firestoreutilslib/v3/extensions/Extensions_QueryReference.kt" timestamp="1599717502922">
-        <mark key="[" line="120" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1599825264747">
-        <mark key="[" line="70" column="38" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1599546812533">
-        <mark key="[" line="124" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/viewmodel/UserViewModel.kt" timestamp="1599553418894">
-        <mark key="[" line="150" column="52" />
-        <mark key="]" line="146" column="41" />
-        <mark key="." line="146" column="40" />
-        <mark key="^" line="146" column="41" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/values/strings.xml" timestamp="1600071089388" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -186,54 +172,55 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>protocolVersionSemVer</text>
       </register>
       <register name="-" type="4">
-        <text>Handler(Looper.getMainLooper()).post</text>
+        <text>protocolVersionSemVer</text>
       </register>
       <register name="/" type="4">
-        <text>logoutHelp</text>
+        <text>:%s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgeW91dHViZUxpbmsgPSBuZXdfcG9zdF9mcmFnbWVudF9hZG1pbl95b3V0dWJlX2xpbmsudGV4dD8uaXNOb3RFbXB0eSgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB9LmF3YWl0KCk=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB0aGlzQHdpdGhDb250ZXh0LmFzeW5jKERpc3BhdGNoZXJzLklPKSB7CiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="3" type="4">
-        <text>.also {
-                                                            group.leave()
-                                                        }</text>
+        <text>CoroutineScope(
+        SupervisorJob()).async {</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dmFsIHBvc3RBbmRTdWJQb3N0c0NvbXBhcmF0b3IgPSBjb21wYXJlQnk8RmVlZFBvc3Q+KG51bGxzRmlyc3QoKSk8RmVlZFBvc3Q+IHsKICAgICAgICAgICAgaXQucGFyZW50IGFzPyBBbnkKICAgICAgICB9LnRoZW5CeSB7CiAgICAgICAgICAgIGl0LmNyZWF0ZWREYXRlCiAgICAgICAgfQ==</text>
+        <text encoding="base64">ewogICAgICAgIHZhbCBoYW5kbGVyID0gQ29yb3V0aW5lRXhjZXB0aW9uSGFuZGxlciB7IGNvcm91dGluZUNvbnRleHQsIHRocm93YWJsZSAtPgogICAgICAgICAgICBUaW1iZXIuZSh0aHJvd2FibGUpCiAgICAgICAgfQogICAgICAgIHJldHVybiB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTyArIGhhbmRsZXIpIHs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKCn0=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYgKHVzZXJWbSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh1c2VyVm0ucHVyY2hhc2VMaXN0LnZhbHVlLmlzTnVsbE9yRW1wdHkoKS5ub3QoKSAmJiB1LnN1YnNjcmlwdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5IZWxwKHVzZXIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh1c2VyVm0ucHVyY2hhc2VMaXN0LnZhbHVlICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHVzZXJWbS5wdXJjaGFzZUxpc3QudmFsdWU/LmlzTm90RW1wdHkoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAodS5zdWJzY3JpcHRpb24gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVzZXJDb250cm9sbGVyLmluc3RhbmNlLnVwZGF0ZVVzZXJTdWJzY3JpcHRpb24odXNlclZtLnB1cmNoYXNlTGlzdC52YWx1ZT8uZmlyc3QoKSkgeyBfLCBlcnJvciAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvcj8ubGV0IHsgZXJyIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiZXJyb3I6ICRlcnIiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9ID86IGtvdGxpbi5ydW4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5IZWxwKHVzZXIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiTm8gcHVyY2hhc2VzIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ291dEhlbHAoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoIkluZ2VuIHN1YnNjcmlwdGlvbiIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ291dEhlbHAoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text>.also {
+                                                            group.leave()
+                                                        }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dmFsIHBvc3RBbmRTdWJQb3N0c0NvbXBhcmF0b3IgPSBjb21wYXJlQnk8RmVlZFBvc3Q+KG51bGxzRmlyc3QoKSk8RmVlZFBvc3Q+IHsKICAgICAgICAgICAgaXQucGFyZW50IGFzPyBBbnkKICAgICAgICB9LnRoZW5CeSB7CiAgICAgICAgICAgIGl0LmNyZWF0ZWREYXRlCiAgICAgICAgfQ==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>logoutHelp</last-search>
-      <last-offset />
-      <last-pattern>logoutHelp</last-pattern>
+      <last-search>:%s</last-search>
+      <last-offset>@async/@withContext/gc</last-offset>
+      <last-pattern>:%s</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
