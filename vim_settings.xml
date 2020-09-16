@@ -64,11 +64,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesEpoxyController.kt" timestamp="1600239957145">
-        <mark key="[" line="31" column="69" />
-        <mark key="]" line="31" column="69" />
-        <mark key="." line="31" column="69" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/api/customer/CustomerResponse.kt" timestamp="1600241938277">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
@@ -85,7 +80,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/local.properties" timestamp="1600247490674">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/di/ApiAuthModule.kt" timestamp="1600247565692">
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/di/ApiAuthModule.kt" timestamp="1600249128905">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="21" />
@@ -96,6 +91,7 @@
         <mark key="]" line="78" column="31" />
         <mark key="." line="78" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1600249197339" />
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1600245289938" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1600242235555">
         <mark key="[" line="153" column="34" />
