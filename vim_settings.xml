@@ -81,11 +81,11 @@
         <mark key="[" line="56" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/MasterLinkRepository.kt" timestamp="1600241567603" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600242504707">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="72" column="52" />
-        <mark key="." line="72" column="51" />
-        <mark key="^" line="72" column="52" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600243566346">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionDialogFragment.kt" timestamp="1600239184634">
         <mark key="[" line="142" column="31" />
@@ -184,10 +184,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>contactIntent</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>contactIntent</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
