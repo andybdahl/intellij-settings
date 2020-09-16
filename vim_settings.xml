@@ -83,10 +83,10 @@
         <mark key="." line="94" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/MasterLinkRepository.kt" timestamp="1600241567603" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600243566346">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="41" column="37" />
-        <mark key="." line="41" column="36" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600246785053">
+        <mark key="[" line="97" column="12" />
+        <mark key="]" line="78" column="31" />
+        <mark key="." line="78" column="31" />
         <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionDialogFragment.kt" timestamp="1600239184634">
@@ -95,12 +95,6 @@
         <mark key="." line="142" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/src/main/java/dk/makeable/sundmedwulff/wulff2/ui/feed/FeedPostsViewModel.kt" timestamp="1600245289938" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionPresenterImpl.kt" timestamp="1600239109277">
-        <mark key="[" line="159" column="32" />
-        <mark key="]" line="159" column="32" />
-        <mark key="^" line="133" column="68" />
-        <mark key="." line="159" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1600242235555">
         <mark key="[" line="153" column="34" />
         <mark key="]" line="153" column="34" />
@@ -132,6 +126,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/login/LoginViewModel.kt" timestamp="1600240099550" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/datalogging/LoggerActionPresenterImpl.kt" timestamp="1600240910099" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/AndroidManifest.xml" timestamp="1600246634540">
+        <mark key="[" line="27" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/utils/Extensions_VersionCompare.kt" timestamp="1600242717874">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="71" />
@@ -190,10 +187,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>findNavController().</text>
+        <text>API_BASE_URL</text>
       </register>
       <register name="-" type="4">
-        <text>findNavController().</text>
+        <text>API_BASE_URL</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
