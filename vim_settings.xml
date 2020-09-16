@@ -73,11 +73,6 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/AcceptImagesActivity.kt" timestamp="1600254638367">
         <mark key="[" line="47" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/di/ApiAuthModule.kt" timestamp="1600249128905">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.3.0/1b8d55b17ab1f3f2f7571e4882b6f90f58232022/navigation-fragment-2.3.0-sources.jar!/androidx/navigation/fragment/NavHostFragment.java" timestamp="1600259786982" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/TooEarlyActivity.kt" timestamp="1600254734309">
         <mark key="[" line="57" column="95" />
@@ -89,6 +84,7 @@
         <mark key="." line="44" column="48" />
         <mark key="^" line="22" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionPresenterImpl.kt" timestamp="1600263065518" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/SetAccountNameActivity.kt" timestamp="1600254392417">
         <mark key="[" line="44" column="82" />
       </file>
@@ -116,6 +112,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/WayToGoActivity.kt" timestamp="1600254762446">
         <mark key="[" line="42" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/controllers/Logger.kt" timestamp="1600262527171" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/message/MessageItem.kt" timestamp="1600250764824">
         <mark key="[" line="87" column="54" />
         <mark key="]" line="87" column="54" />
