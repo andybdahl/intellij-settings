@@ -64,14 +64,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600237338928">
+        <mark key="[" line="92" column="48" />
+        <mark key="]" line="92" column="48" />
+        <mark key="." line="92" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionPresenterImpl.kt" timestamp="1600175967240">
         <mark key="[" line="134" column="36" />
         <mark key="]" line="134" column="36" />
         <mark key="^" line="133" column="68" />
         <mark key="." line="134" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesPresenterImpl.kt" timestamp="1600160130238">
-        <mark key="[" line="233" column="23" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1600238253614">
+        <mark key="[" line="228" column="40" />
+        <mark key="]" line="242" column="54" />
+        <mark key="." line="242" column="54" />
+        <mark key="^" line="239" column="101" />
       </file>
       <file name="/fragment.kt" timestamp="1600175369255">
         <mark key="[" line="0" column="1" />
@@ -79,17 +87,11 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/datalogging/configuration/MasterLinkConfigurationPresenterImpl.kt" timestamp="1600162444347">
         <mark key="[" line="207" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/values/strings.xml" timestamp="1600179442746">
-        <mark key="[" line="163" column="80" />
-        <mark key="]" line="160" column="265" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/values/strings.xml" timestamp="1600236504227">
         <mark key="^" line="146" column="37" />
-        <mark key="." line="160" column="265" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/bluetooth/MasterLinkConnection.kt" timestamp="1600163089022">
         <mark key="[" line="194" column="86" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/device/MockMasterLinkDevice.kt" timestamp="1600160092807">
-        <mark key="[" line="54" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/utils/Extensions_AlertDialog.kt" timestamp="1600161691572">
         <mark key="[" line="11" column="13" />
@@ -98,14 +100,8 @@
         <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/database/BaseDao.kt" timestamp="1600163541995" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/device/MasterLinkDevice.kt" timestamp="1600235144842">
-        <mark key="[" line="221" column="66" />
-        <mark key="]" line="221" column="66" />
-        <mark key="^" line="200" column="76" />
-        <mark key="." line="221" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/device/Device.kt" timestamp="1600159742722">
-        <mark key="[" line="21" column="89" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/device/MasterLinkDevice.kt" timestamp="1600237025217">
+        <mark key="[" line="299" column="105" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/utils/Extensions_Bluetooth.kt" timestamp="1600173798658" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/device/MasterLinkDevicePresenterImpl.kt" timestamp="1600175459048">
@@ -119,8 +115,8 @@
         <mark key="]" line="633" column="11" />
         <mark key="." line="633" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/di/BluetoothModule.kt" timestamp="1600177432854">
-        <mark key="[" line="14" column="42" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/di/BluetoothModule.kt" timestamp="1600236974513">
+        <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
@@ -189,19 +185,21 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>lertDialog</text>
+        <text>oenditext</text>
       </register>
       <register name="-" type="4">
-        <text>lertDialog</text>
+        <text>oenditext</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b25DZWxsQmluZGluZ01vZGVsXygpCiAgICAgICAgICAgIC5pZCgibG9hZGVyIikKICAgICAgICAgICAgLnRleHRSZXMoUi5zdHJpbmcuRkVUQ0hfU1lTVEVNX0lORk9fQUdBSU4pCiAgICAgICAgICAgIC5vbkNsaWNrKHJlbG9hZENsaWNrKQogICAgICAgICAgICAuYWRkVG8odGhpcykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">LnNldFRpdGxlKGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLkFQUF9BTkRfTUxfQ09NUEFUSUJJTElUWV9JTkNPTVBBVElCTEVfVElUTEUpKQogICAgICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKFIuc3RyaW5nLkFQUF9BTkRfTUxfQ09NUEFUSUJJTElUWV9JTkNPTVBBVElCTEVfQlVUX1VQREFUQUJMRV9NRVNTQUdFKQogICAgICAgICAgICAgICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbigKICAgICAgICAgICAgICAgICAgICAgICAgUi5zdHJpbmcuVVBEQVRFX0FQUF9OT1cKICAgICAgICAgICAgICAgICAgICApIHsgZGlhbG9nSW50ZXJmYWNlLCB3aGljaCAtPiBnb1RvUGxheVBhZ2UoKSB9CiAgICAgICAgICAgICAgICAgICAgLnNldE5ldXRyYWxCdXR0b24oCiAgICAgICAgICAgICAgICAgICAgICAgIFIuc3RyaW5nLkNMT1NFX0NPTk5FQ1RJT05fVE9fTUwKICAgICAgICAgICAgICAgICAgICApIHsgZGlhbG9nSW50ZXJmYWNlLCB3aGljaCAtPgogICAgICAgICAgICAgICAgICAgICAgICBzY29wZS5jYW5jZWwobnVsbCkgLy8gQ2FuY2VsIHNjb3BlLgogICAgICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IucG9wQmFja1N0YWNrKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgUi5pZC5kZXZpY2VzRnJhZ21lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICApIC8vIFBvcCB0byBkZXZpY2VzIGFuZCBkaXNjb25uZWN0LgogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
+        <text>setTitle(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_TITLE)
+                    setMessage(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_MESSAGE)
+                    setNeutralButton(R.string.OK, null)</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
@@ -210,22 +208,22 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXQ8QXBwPigpLmdldFN0cmluZyg=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGljZVVzZXJPZlRpbWVDb25zdW1pbmdBY3Rpb24oIHRpdGxlUmVzID0gUi5zdHJpbmcuVEVTVF9TRVJWRVJfQ09OTkVDVElPTiwgbWVzc2FnZVJlcyA9IFIuc3RyaW5nLlJNVV9TVEFUVVNfQ0hFQ0tfQ0FOX1RBS0VfQV9MT05HX1RJTUVfTUVTU0FHRSkgewo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGljZVVzZXJPZlRpbWVDb25zdW1pbmdBY3Rpb24odGl0bGVSZXMgPSBSLnN0cmluZy5STVVfU1RBVFVTX0NIRUNLLCBtZXNzYWdlUmVzID0gUi5zdHJpbmcuVEVTVF9TRVJWRVJfQ09OTkVDVElPTl9DQU5fVEFLRV9BX0xPTkdfVElNRV9NRVNTQUdFKSB7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIC8vIElmIG1ham9yIHZlcnNpb24gaXMgc3VwcG9ydGVkLCB0aGlzIG1lYW5zIGFwcCB3aWxsIHdvcmsgd2l0aCB0aGUgTUwsIGJ1dCB3ZSBuZWVkIHRvIGNoZWNrIHRoZSBtaW5vciB2ZXJzaW9uIHRvIHNlZSBpZiBNTCBtYXkgYmUgc3VwcG9ydGluZyB1bmltcGxlbWVudGVkIGZlYXR1cmVzIGluIHRoZSBhcHAuCiAgICAgICAgICAgIGlmIChzdXBwb3J0ZWRQcm90b2NvbFZlcnNpb24ubWFqb3IgPT0gcHJvdG9jb2xWZXJzaW9uLm1ham9yKSB7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChzdXBwb3J0ZWRQcm90b2NvbFZlcnNpb24ubWFqb3IgPCBwcm90b2NvbFZlcnNpb24ubWFqb3IpIHsKICAgICAgICAgICAgICAgIC8vIFByb3RvY29sIHZlcnNpb24gY29udGFpbnMgYnJlYWtpbmcgY2hhbmdlcyB2ZXJzdXMgdGhlIGN1cnJlbnRseSBzdXBwb3J0ZWQgcHJvdG9jb2wuCiAgICAgICAgICAgIH0gZWxzZSB7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChzdXBwb3J0ZWRQcm90b2NvbFZlcnNpb24uaXNBdExlYXN0KHByb3RvY29sVmVyc2lvbikpIHsgLy8gQXBwIHN1cHBvcnRzIG5ld2VyIHZlcnNpb25zCgogICAgICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CiAgICA8QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zYXZlQW5kUGVyZm9ybU1lYXN1cmVtZW50QnRuIgogICAgICAgIHN0eWxlPSJAc3R5bGUvQnV0dG9uIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vcGVyZm9ybV9tZWFzdXJlbWVudF9ib3R0b21fYmFyX2hlaWdodCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2NvbnRlbnRfc3BhY2luZ19ub3JtYWwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSJAZGltZW4vY29udGVudF9zcGFjaW5nX25vcm1hbCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IkBkaW1lbi9jb250ZW50X3NwYWNpbmdfbm9ybWFsIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9TQVZFX0FORF9QRVJGT1JNX01FQVNVUkVNRU5UIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIgLz4=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB9LmF3YWl0KCk=</text>
       </register>
     </registers>
   </component>
