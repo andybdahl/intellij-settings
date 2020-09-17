@@ -74,17 +74,11 @@
         <mark key="[" line="47" column="67" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.3.0/1b8d55b17ab1f3f2f7571e4882b6f90f58232022/navigation-fragment-2.3.0-sources.jar!/androidx/navigation/fragment/NavHostFragment.java" timestamp="1600259786982" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionController.kt" timestamp="1600322781271" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/TooEarlyActivity.kt" timestamp="1600254734309">
         <mark key="[" line="57" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/messages/MessagesFragment.kt" timestamp="1600253266626">
-        <mark key="i" line="22" column="60" />
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="48" />
-        <mark key="." line="44" column="48" />
-        <mark key="^" line="22" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionPresenterImpl.kt" timestamp="1600263065518" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionPresenterImpl.kt" timestamp="1600322744725" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/SetAccountNameActivity.kt" timestamp="1600254392417">
         <mark key="[" line="44" column="82" />
       </file>
@@ -103,8 +97,14 @@
         <mark key="[" line="2622" column="36" />
         <mark key="]" line="2622" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/test_server_connection/MockDataEntry.kt" timestamp="1600323027350">
+        <mark key="[" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/MeasurementsFlowActivity.kt" timestamp="1600254675844">
         <mark key="[" line="83" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/test_server_connection/JobImpl.kt" timestamp="1600322991299">
+        <mark key="[" line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/OrderStatusActivity.kt" timestamp="1600254724029">
         <mark key="[" line="43" column="109" />
@@ -113,12 +113,6 @@
         <mark key="[" line="42" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/controllers/Logger.kt" timestamp="1600262527171" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/message/MessageItem.kt" timestamp="1600250764824">
-        <mark key="[" line="87" column="54" />
-        <mark key="]" line="87" column="54" />
-        <mark key="^" line="28" column="71" />
-        <mark key="." line="87" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/CategoryItemsViewModel.kt" timestamp="1600258910011">
         <mark key="e" line="67" column="11" />
       </file>
@@ -176,7 +170,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?.value</text>
+        <text encoding="base64">b3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAob3RoZXIgIWlzIERhdGFFbnRyeUltcGwpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAobVRpdGxlICE9IG90aGVyLm1UaXRsZSkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG1UaXRsZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAobVZhbHVlPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAg</text>
       </register>
       <register name="-" type="4">
         <text>?.value</text>
@@ -187,24 +181,24 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="2">
-        <text>private fun logNewsVisit</text>
+      <register name="1" type="4">
+        <text encoding="base64">b3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAob3RoZXIgIWlzIERhdGFFbnRyeUltcGwpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAobVRpdGxlICE9IG90aGVyLm1UaXRsZSkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG1UaXRsZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAobVZhbHVlPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAg</text>
       </register>
-      <register name="2" type="4">
-        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
-            //</text>
+      <register name="2" type="2">
+        <text>private fun logNewsVisit</text>
       </register>
       <register name="3" type="4">
         <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
             //</text>
       </register>
       <register name="4" type="4">
+        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
+            //</text>
+      </register>
+      <register name="5" type="4">
         <text>setTitle(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_TITLE)
                     setMessage(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_MESSAGE)
                     setNeutralButton(R.string.OK, null)</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
@@ -213,10 +207,10 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXQ8QXBwPigpLmdldFN0cmluZyg=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGljZVVzZXJPZlRpbWVDb25zdW1pbmdBY3Rpb24oIHRpdGxlUmVzID0gUi5zdHJpbmcuVEVTVF9TRVJWRVJfQ09OTkVDVElPTiwgbWVzc2FnZVJlcyA9IFIuc3RyaW5nLlJNVV9TVEFUVVNfQ0hFQ0tfQ0FOX1RBS0VfQV9MT05HX1RJTUVfTUVTU0FHRSkgewo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXQ8QXBwPigpLmdldFN0cmluZyg=</text>
       </register>
     </registers>
   </component>
