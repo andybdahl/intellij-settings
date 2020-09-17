@@ -64,24 +64,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesEpoxyController.kt" timestamp="1600325422507">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyRecyclerView.kt" timestamp="1600326541369" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600260225825">
         <mark key="'" line="43" column="17" />
         <mark key="[" line="29" column="26" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/AcceptImagesActivity.kt" timestamp="1600254638367">
-        <mark key="[" line="47" column="67" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.3.0/1b8d55b17ab1f3f2f7571e4882b6f90f58232022/navigation-fragment-2.3.0-sources.jar!/androidx/navigation/fragment/NavHostFragment.java" timestamp="1600259786982" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionController.kt" timestamp="1600322781271" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/TooEarlyActivity.kt" timestamp="1600254734309">
-        <mark key="[" line="57" column="95" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionController.kt" timestamp="1600326376072">
+        <mark key="[" line="70" column="44" />
+        <mark key="]" line="70" column="45" />
+        <mark key="^" line="70" column="45" />
+        <mark key="." line="70" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionDialogFragment.kt" timestamp="1600326641596">
+        <mark key="[" line="100" column="16" />
+        <mark key="]" line="100" column="16" />
+        <mark key="." line="100" column="16" />
+        <mark key="^" line="169" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionPresenterImpl.kt" timestamp="1600322744725" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/SetAccountNameActivity.kt" timestamp="1600254392417">
-        <mark key="[" line="44" column="82" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyController.java" timestamp="1600325374354" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1600259839045">
         <mark key="[" line="690" column="18" />
         <mark key="]" line="690" column="18" />
@@ -97,17 +104,11 @@
         <mark key="[" line="2622" column="36" />
         <mark key="]" line="2622" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/test_server_connection/MockDataEntry.kt" timestamp="1600323027350">
-        <mark key="[" line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/MeasurementsFlowActivity.kt" timestamp="1600254675844">
-        <mark key="[" line="83" column="67" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/test_server_connection/MockDataEntry.kt" timestamp="1600324434770">
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/test_server_connection/JobImpl.kt" timestamp="1600322991299">
         <mark key="[" line="36" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/OrderStatusActivity.kt" timestamp="1600254724029">
-        <mark key="[" line="43" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/WayToGoActivity.kt" timestamp="1600254762446">
         <mark key="[" line="42" column="81" />
@@ -116,6 +117,12 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/CategoryItemsViewModel.kt" timestamp="1600258910011">
         <mark key="e" line="67" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/layout/fragment_test_server_connection.xml" timestamp="1600326553079">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyAdapter.java" timestamp="1600325520426" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -170,10 +177,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAob3RoZXIgIWlzIERhdGFFbnRyeUltcGwpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAobVRpdGxlICE9IG90aGVyLm1UaXRsZSkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG1UaXRsZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAobVZhbHVlPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAg</text>
+        <text>epoxyRecycler</text>
       </register>
       <register name="-" type="4">
-        <text>?.value</text>
+        <text>epoxyRecycler</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
