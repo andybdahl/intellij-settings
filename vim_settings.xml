@@ -91,29 +91,26 @@
         <mark key="." line="66" column="32" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_package_item.xml" timestamp="1600340208297">
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="59" column="35" />
-        <mark key="." line="59" column="35" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_package_item.xml" timestamp="1600342881975">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
         <mark key="^" line="138" column="71" />
+      </file>
+      <file name="/fragment.kt" timestamp="1600342752989">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1600333955268">
         <mark key="[" line="120" column="51" />
         <mark key="]" line="120" column="51" />
         <mark key="." line="120" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1600340900030">
-        <mark key="[" line="28" column="64" />
-        <mark key="]" line="26" column="68" />
-        <mark key="." line="26" column="67" />
-        <mark key="^" line="26" column="68" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1600342862343">
+        <mark key="[" line="54" column="106" />
+        <mark key="]" line="54" column="106" />
+        <mark key="." line="54" column="106" />
+        <mark key="^" line="86" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/layout/fragment_test_server_connection.xml" timestamp="1600326553079">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyRecyclerView.kt" timestamp="1600326541369" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionController.kt" timestamp="1600328194465">
         <mark key="[" line="39" column="18" />
         <mark key="]" line="39" column="18" />
@@ -129,8 +126,13 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/IItem.kt" timestamp="1600333323680">
         <mark key="[" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/repository/Repositories.kt" timestamp="1600341568039">
+        <mark key="[" line="334" column="79" />
+        <mark key="]" line="334" column="79" />
+        <mark key="." line="334" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_buy_camp.xml" timestamp="1600335075244" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageFragment.kt" timestamp="1600340689214">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageFragment.kt" timestamp="1600342512752">
         <mark key="[" line="33" column="35" />
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
@@ -196,10 +198,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>dk.makeable.cookbook.ui.fragments.packages.PackageModel</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>dk.makeable.cookbook.ui.fragments.packages.PackageModel</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
@@ -208,35 +210,37 @@
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vY29udGVudF9zcGFjaW5nX2RvdWJsZSI=</text>
+        <text>{
+        retur
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL09SREVSX09OTElORSIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHsKCiAgICBzdXNwZW5kIGZ1biB1cGRhdGVSb29tRGF0YSgpID0gd2l0aENvbnRleHQoRGlzcGF0Y2hlcnMuSU8pIHsKICAgICAgICAvLyBGZXRjaCBhbGwgcGxhbnMKICAgICAgICB2YWwgYWxsUGxhbnMgPSB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgeyBhbGwoKSB9CiAgICAgICAgLy8gTWFwIHRvIHJvb20gbW9kZWxzCgogICAgfQoKfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">b3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAob3RoZXIgIWlzIERhdGFFbnRyeUltcGwpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAobVRpdGxlICE9IG90aGVyLm1UaXRsZSkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG1UaXRsZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAobVZhbHVlPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAg</text>
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vY29udGVudF9zcGFjaW5nX2RvdWJsZSI=</text>
       </register>
       <register name="4" type="2">
-        <text>private fun logNewsVisit</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL09SREVSX09OTElORSIK</text>
       </register>
       <register name="5" type="4">
-        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
-            //</text>
+        <text encoding="base64">b3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAob3RoZXIgIWlzIERhdGFFbnRyeUltcGwpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAobVRpdGxlICE9IG90aGVyLm1UaXRsZSkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG1UaXRsZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAobVZhbHVlPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAg</text>
       </register>
-      <register name="6" type="4">
-        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
-            //</text>
+      <register name="6" type="2">
+        <text>private fun logNewsVisit</text>
       </register>
       <register name="7" type="4">
+        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
+            //</text>
+      </register>
+      <register name="8" type="4">
+        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
+            //</text>
+      </register>
+      <register name="9" type="4">
         <text>setTitle(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_TITLE)
                     setMessage(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_MESSAGE)
                     setNeutralButton(R.string.OK, null)</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
     </registers>
   </component>
