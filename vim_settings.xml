@@ -64,8 +64,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_item_page.xml" timestamp="1600336008690">
-        <mark key="[" line="17" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_item_page.xml" timestamp="1600337367586">
+        <mark key="[" line="15" column="42" />
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="30" />
@@ -92,10 +92,10 @@
         <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_package_item.xml" timestamp="1600335513548">
-        <mark key="[" line="112" column="12" />
-        <mark key="]" line="112" column="12" />
-        <mark key="." line="112" column="12" />
-        <mark key="^" line="130" column="71" />
+        <mark key="[" line="113" column="12" />
+        <mark key="]" line="113" column="12" />
+        <mark key="." line="113" column="12" />
+        <mark key="^" line="131" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1600333955268">
         <mark key="[" line="120" column="51" />
@@ -127,11 +127,8 @@
         <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_buy_camp.xml" timestamp="1600335075244" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageFragment.kt" timestamp="1600335918556">
-        <mark key="[" line="68" column="35" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="19" />
-        <mark key="^" line="71" column="20" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageFragment.kt" timestamp="1600337208364">
+        <mark key="[" line="48" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1600332427691">
         <mark key="[" line="0" column="0" />
