@@ -64,63 +64,79 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesEpoxyController.kt" timestamp="1600325422507">
-        <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyRecyclerView.kt" timestamp="1600326541369" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600260225825">
-        <mark key="'" line="43" column="17" />
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.3.0/1b8d55b17ab1f3f2f7571e4882b6f90f58232022/navigation-fragment-2.3.0-sources.jar!/androidx/navigation/fragment/NavHostFragment.java" timestamp="1600259786982" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionController.kt" timestamp="1600328194465">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="18" />
-        <mark key="^" line="87" column="45" />
-        <mark key="." line="39" column="18" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_item_page.xml" timestamp="1600336008690">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600329025264">
         <mark key="[" line="24" column="33" />
         <mark key="]" line="78" column="31" />
         <mark key="." line="78" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionDialogFragment.kt" timestamp="1600326641596">
-        <mark key="^" line="168" column="39" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/messages/MessagesFragment.kt" timestamp="1600331994371">
+        <mark key="i" line="22" column="60" />
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="44" column="48" />
+        <mark key="." line="44" column="48" />
+        <mark key="^" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionPresenterImpl.kt" timestamp="1600322744725" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyController.java" timestamp="1600325374354" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1600259839045">
-        <mark key="[" line="690" column="18" />
-        <mark key="]" line="690" column="18" />
-        <mark key="." line="690" column="18" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/search/SearchRecipesFragment.kt" timestamp="1600333717685">
+        <mark key="[" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.3.0/ce839850d38bec85312cf861969b4b32222043ba/navigation-runtime-2.3.0-sources.jar!/androidx/navigation/Navigation.java" timestamp="1600259823449" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/ItemsOverviewFragmentViewModel.kt" timestamp="1600258874935">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="8" />
-        <mark key="." line="47" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/packages/PackagePageFragment.kt" timestamp="1600332830582">
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="66" column="32" />
+        <mark key="." line="66" column="32" />
+        <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1600259201740">
-        <mark key="[" line="2622" column="36" />
-        <mark key="]" line="2622" column="36" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_package_item.xml" timestamp="1600335513548">
+        <mark key="[" line="112" column="12" />
+        <mark key="]" line="112" column="12" />
+        <mark key="." line="112" column="12" />
+        <mark key="^" line="130" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/test_server_connection/MockDataEntry.kt" timestamp="1600324434770">
-        <mark key="[" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/data/model/test_server_connection/JobImpl.kt" timestamp="1600322991299">
-        <mark key="[" line="36" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/controllers/Logger.kt" timestamp="1600262527171" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/CategoryItemsViewModel.kt" timestamp="1600258910011">
-        <mark key="e" line="67" column="11" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1600333955268">
+        <mark key="[" line="120" column="51" />
+        <mark key="]" line="120" column="51" />
+        <mark key="." line="120" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/layout/fragment_test_server_connection.xml" timestamp="1600326553079">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="13" />
         <mark key="." line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesEpoxyController.kt" timestamp="1600325422507">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyRecyclerView.kt" timestamp="1600326541369" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionController.kt" timestamp="1600328194465">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="87" column="45" />
+        <mark key="." line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1600334599643">
+        <mark key="[" line="30" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionDialogFragment.kt" timestamp="1600326641596">
+        <mark key="^" line="168" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/IItem.kt" timestamp="1600333323680">
+        <mark key="[" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_buy_camp.xml" timestamp="1600335075244" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageFragment.kt" timestamp="1600335918556">
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="19" />
+        <mark key="^" line="71" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1600332427691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_flow.xml" timestamp="1600334895568" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyAdapter.java" timestamp="1600325520426" />
     </filemarks>
     <jumps>
@@ -176,10 +192,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>buildModels(q)</text>
+        <text>fragment_webview</text>
       </register>
       <register name="-" type="4">
-        <text>buildModels(q)</text>
+        <text>fragment_webview</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
@@ -188,35 +204,35 @@
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">b3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAob3RoZXIgIWlzIERhdGFFbnRyeUltcGwpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAobVRpdGxlICE9IG90aGVyLm1UaXRsZSkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG1UaXRsZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAobVZhbHVlPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAg</text>
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vY29udGVudF9zcGFjaW5nX2RvdWJsZSI=</text>
       </register>
       <register name="2" type="2">
-        <text>private fun logNewsVisit</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL09SREVSX09OTElORSIK</text>
       </register>
       <register name="3" type="4">
-        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
-            //</text>
+        <text encoding="base64">b3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAob3RoZXIgIWlzIERhdGFFbnRyeUltcGwpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAobVRpdGxlICE9IG90aGVyLm1UaXRsZSkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG1UaXRsZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAobVZhbHVlPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAg</text>
       </register>
-      <register name="4" type="4">
-        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
-            //</text>
+      <register name="4" type="2">
+        <text>private fun logNewsVisit</text>
       </register>
       <register name="5" type="4">
+        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
+            //</text>
+      </register>
+      <register name="6" type="4">
+        <text>if (BuildConfig.EXPORTS_ENABLED) View.VISIBLE else View.GONE
+            //</text>
+      </register>
+      <register name="7" type="4">
         <text>setTitle(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_TITLE)
                     setMessage(R.string.APP_AND_ML_COMPATIBILITY_COMPATIBLE_BUT_OUTDATED_NONUPDATABLE_MESSAGE)
                     setNeutralButton(R.string.OK, null)</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXQ8QXBwPigpLmdldFN0cmluZyg=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGdldDxBcHA+KCkuZ2V0U3RyaW5nKA==</text>
       </register>
     </registers>
   </component>
