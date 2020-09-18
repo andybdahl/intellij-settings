@@ -64,20 +64,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.kt" timestamp="1600342752989">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/measurement/result/MeasurementResultPresenterImpl.kt" timestamp="1600426166177" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_item_page.xml" timestamp="1600347043134">
         <mark key="[" line="25" column="28" />
         <mark key="]" line="25" column="28" />
         <mark key="." line="25" column="28" />
         <mark key="^" line="20" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1600333955268">
-        <mark key="[" line="120" column="51" />
-        <mark key="]" line="120" column="51" />
-        <mark key="." line="120" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600421453846">
         <mark key="[" line="23" column="23" />
@@ -87,36 +78,22 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1600334599643">
         <mark key="[" line="30" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/test_server_connection/TestServerConnectionDialogFragment.kt" timestamp="1600427443204">
+        <mark key="[" line="148" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-rating/ratinglib/src/main/java/dk/makeable/ratinglib/MARating.kt" timestamp="1600423989054">
         <mark key="[" line="312" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/search/SearchRecipesFragment.kt" timestamp="1600333717685">
-        <mark key="[" line="36" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/repository/Repositories.kt" timestamp="1600341568039">
         <mark key="[" line="334" column="79" />
         <mark key="]" line="334" column="79" />
         <mark key="." line="334" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/AlgoliaSearchActivity.kt" timestamp="1600346064165">
-        <mark key="[" line="47" column="52" />
-        <mark key="]" line="55" column="13" />
-        <mark key="." line="55" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesPresenterImpl.kt" timestamp="1600419102322">
         <mark key="[" line="67" column="68" />
         <mark key="]" line="97" column="104" />
         <mark key="." line="97" column="103" />
         <mark key="^" line="97" column="104" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/LoginRepository.kt" timestamp="1600418244106">
-        <mark key="[" line="88" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1600345067193">
-        <mark key="[" line="37" column="64" />
-        <mark key="]" line="37" column="64" />
-        <mark key="." line="37" column="64" />
-        <mark key="^" line="86" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1600421030109" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_package_item.xml" timestamp="1600343289935">
@@ -133,6 +110,29 @@
         <mark key="]" line="107" column="52" />
         <mark key="." line="107" column="52" />
         <mark key="^" line="107" column="52" />
+      </file>
+      <file name="/fragment.kt" timestamp="1600342752989">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/measurement/result/MeasurementResultPresenterImpl.kt" timestamp="1600427229102" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1600333955268">
+        <mark key="[" line="120" column="51" />
+        <mark key="]" line="120" column="51" />
+        <mark key="." line="120" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/AlgoliaSearchActivity.kt" timestamp="1600346064165">
+        <mark key="[" line="47" column="52" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/LoginRepository.kt" timestamp="1600418244106">
+        <mark key="[" line="88" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1600345067193">
+        <mark key="[" line="37" column="64" />
+        <mark key="]" line="37" column="64" />
+        <mark key="." line="37" column="64" />
+        <mark key="^" line="86" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1600340320466">
         <mark key="[" line="0" column="0" />
