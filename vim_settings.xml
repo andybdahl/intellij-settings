@@ -64,12 +64,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1600332427691">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.kt" timestamp="1600342752989">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/measurement/result/MeasurementResultPresenterImpl.kt" timestamp="1600422256413" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_item_page.xml" timestamp="1600347043134">
         <mark key="[" line="25" column="28" />
         <mark key="]" line="25" column="28" />
@@ -81,20 +79,13 @@
         <mark key="]" line="120" column="51" />
         <mark key="." line="120" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600419518941">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="78" column="31" />
-        <mark key="." line="78" column="31" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600421453846">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1600334599643">
         <mark key="[" line="30" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/messages/MessagesFragment.kt" timestamp="1600331994371">
-        <mark key="i" line="22" column="60" />
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="44" column="48" />
-        <mark key="." line="44" column="48" />
-        <mark key="^" line="22" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/search/SearchRecipesFragment.kt" timestamp="1600333717685">
         <mark key="[" line="36" column="26" />
@@ -112,12 +103,6 @@
         <mark key="]" line="55" column="13" />
         <mark key="." line="55" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/packages/PackagePageFragment.kt" timestamp="1600332830582">
-        <mark key="[" line="66" column="32" />
-        <mark key="]" line="66" column="32" />
-        <mark key="." line="66" column="32" />
-        <mark key="^" line="39" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesPresenterImpl.kt" timestamp="1600419102322">
         <mark key="[" line="67" column="68" />
         <mark key="]" line="97" column="104" />
@@ -133,6 +118,7 @@
         <mark key="." line="37" column="64" />
         <mark key="^" line="86" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1600421030109" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_package_item.xml" timestamp="1600343289935">
         <mark key="[" line="71" column="47" />
         <mark key="]" line="30" column="12" />
@@ -205,10 +191,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>masterlinciwks</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>masterlinciwks</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
