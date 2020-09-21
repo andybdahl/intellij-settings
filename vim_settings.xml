@@ -64,21 +64,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1600677183432">
-        <mark key="[" line="163" column="29" />
-        <mark key="]" line="163" column="27" />
-        <mark key="." line="163" column="26" />
-        <mark key="^" line="163" column="27" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_item_page.xml" timestamp="1600681206828">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="20" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/plans/page/PlanPageEpoxyController.kt" timestamp="1600674433696" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_small_item.xml" timestamp="1600676528996">
-        <mark key="[" line="34" column="35" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1600682633742">
+        <mark key="[" line="151" column="69" />
+        <mark key="]" line="151" column="69" />
+        <mark key="." line="151" column="69" />
+        <mark key="^" line="164" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_small_item.xml" timestamp="1600680214450">
+        <mark key="[" line="28" column="34" />
         <mark key="]" line="34" column="35" />
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1600673719769">
-        <mark key="[" line="401" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/ItemsOverviewFragmentViewModel.kt" timestamp="1600678160638">
         <mark key="[" line="124" column="91" />
@@ -86,10 +88,10 @@
         <mark key="." line="124" column="94" />
         <mark key="^" line="124" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_item.xml" timestamp="1600677689368">
-        <mark key="[" line="90" column="102" />
-        <mark key="]" line="90" column="102" />
-        <mark key="." line="90" column="102" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_item.xml" timestamp="1600682035238">
+        <mark key="[" line="92" column="138" />
+        <mark key="]" line="92" column="102" />
+        <mark key="." line="92" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1600676181510">
         <mark key="[" line="19" column="55" />
@@ -97,25 +99,27 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/Carousel.java" timestamp="1600681984529" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/items/CategoryItemsViewModel.kt" timestamp="1600678135467">
         <mark key="[" line="86" column="91" />
         <mark key="]" line="86" column="91" />
         <mark key="." line="86" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1600676103439">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1600682937054">
         <mark key="'" line="136" column="110" />
-        <mark key="[" line="196" column="50" />
+        <mark key="[" line="128" column="49" />
         <mark key="]" line="196" column="50" />
         <mark key="^" line="196" column="53" />
         <mark key="." line="196" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/dimens.xml" timestamp="1600675876033">
-        <mark key="[" line="8" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/plans/all/AllPlansPresenterImpl.kt" timestamp="1600673899405" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/3.9.0/b97694c26292c9d455f3aa8c861ab1c8f2f7d993/epoxy-3.9.0-sources.jar!/com/airbnb/epoxy/EpoxyRecyclerView.kt" timestamp="1600676793521" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600678360038">
         <mark key="[" line="61" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/epoxy/NonCachingEpoxyRecyclerView.kt" timestamp="1600681194882">
+        <mark key="[" line="8" column="133" />
+        <mark key="]" line="8" column="133" />
+        <mark key="." line="8" column="133" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1600678139599">
         <mark key="[" line="372" column="93" />
@@ -129,11 +133,11 @@
         <mark key="." line="70" column="41" />
         <mark key="^" line="111" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_large_item.xml" timestamp="1600676608702">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_large_item.xml" timestamp="1600683321320">
         <mark key="[" line="45" column="35" />
         <mark key="]" line="45" column="35" />
         <mark key="." line="45" column="35" />
-        <mark key="^" line="45" column="37" />
+        <mark key="^" line="57" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/epoxy/NonCachingCarousel.kt" timestamp="1600676796141">
         <mark key="[" line="11" column="4" />
@@ -145,11 +149,8 @@
         <mark key="]" line="124" column="90" />
         <mark key="." line="124" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1600673722283">
-        <mark key="[" line="401" column="129" />
-        <mark key="]" line="400" column="38" />
-        <mark key="." line="400" column="38" />
-        <mark key="^" line="403" column="29" />
+      <file name="/fragment.java" timestamp="1600681178970">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -206,10 +207,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>0dp</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>0dp</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
