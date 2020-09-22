@@ -36,6 +36,12 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="alt r" />
