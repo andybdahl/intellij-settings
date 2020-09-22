@@ -77,7 +77,7 @@
         <mark key="^" line="164" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.0/a8b4f1baa61d83112d68bb4a3230d58b5972e3c3/kotlin-stdlib-common-1.4.0-sources.jar!/generated/_Collections.kt" timestamp="1600690760009" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1600756157406">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1600756801007">
         <mark key="[" line="162" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_small_item.xml" timestamp="1600691126544">
@@ -120,6 +120,9 @@
         <mark key="." line="197" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1600755743505" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/build.gradle" timestamp="1600756697487">
+        <mark key="[" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/epoxy/NonCachingEpoxyRecyclerView.kt" timestamp="1600681194882">
         <mark key="[" line="8" column="133" />
         <mark key="]" line="8" column="133" />
@@ -151,9 +154,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/ItemAndCategoryWrapper.kt" timestamp="1600691237161">
         <mark key="[" line="11" column="15" />
-      </file>
-      <file name="/fragment.java" timestamp="1600681178970">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
