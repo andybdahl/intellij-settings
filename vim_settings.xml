@@ -83,8 +83,8 @@
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1600694111860">
-        <mark key="[" line="158" column="45" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1600755438665">
+        <mark key="[" line="173" column="66" />
         <mark key="]" line="162" column="48" />
         <mark key="." line="162" column="48" />
       </file>
@@ -116,9 +116,7 @@
         <mark key="^" line="197" column="53" />
         <mark key="." line="197" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600678360038">
-        <mark key="[" line="61" column="4" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1600755743505" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/epoxy/NonCachingEpoxyRecyclerView.kt" timestamp="1600681194882">
         <mark key="[" line="8" column="133" />
         <mark key="]" line="8" column="133" />
