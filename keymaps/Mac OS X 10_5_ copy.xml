@@ -7,12 +7,6 @@
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateTODOToolWindow" />
-  <action id="Android.GenerateSignedApk">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
-  <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
