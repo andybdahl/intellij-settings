@@ -69,10 +69,6 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/android-billing/1.0.4/5d61cee085e5ff763f2e95ec3171015b913bf30d/android-billing-1.0.4-sources.jar!/dk/makeable/androidbillinglib/Billing.kt" timestamp="1600856811751">
-        <mark key="[" line="158" column="93" />
-        <mark key="]" line="158" column="93" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1600865677781">
         <mark key="[" line="171" column="55" />
         <mark key="]" line="170" column="50" />
@@ -94,6 +90,7 @@
       <file name="/fragment.kt" timestamp="1600859811745">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/smartadjust-android/app/src/main/res/layout/epoxy_binding_setting_360timer.xml" timestamp="1600866663268" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_workout_info_box.xml" timestamp="1600857432792">
         <mark key="[" line="83" column="51" />
         <mark key="]" line="83" column="51" />
@@ -136,17 +133,12 @@
       <file name="/Dummy.txt" timestamp="1600858227824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_workout_video_item.xml" timestamp="1600854192068">
-        <mark key="[" line="112" column="43" />
-        <mark key="]" line="112" column="43" />
-        <mark key="^" line="103" column="34" />
-        <mark key="." line="112" column="43" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_videoview_item.xml" timestamp="1600865271854">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/smartadjust-android/app/src/main/java/dk/makeable/dolsensors/util/BindingAdapters.kt" timestamp="1600866655126" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
