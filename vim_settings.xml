@@ -67,14 +67,16 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/ic_duration.xml" timestamp="1600844616242" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/cell_camp.xml" timestamp="1600845247438" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosView.kt" timestamp="1600844232870" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600846673241">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600847258656">
         <mark key="[" line="216" column="4" />
-        <mark key="]" line="216" column="74" />
-        <mark key="^" line="216" column="74" />
-        <mark key="." line="216" column="73" />
+        <mark key="]" line="221" column="0" />
+        <mark key="^" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_workout_videos.xml" timestamp="1600846875506">
-        <mark key="[" line="7" column="42" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_workout_videos.xml" timestamp="1600847094902">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosEpoxyController.kt" timestamp="1600845893139">
         <mark key="[" line="17" column="0" />
@@ -201,10 +203,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>news</text>
+        <text>releaseI</text>
       </register>
       <register name="-" type="4">
-        <text>news</text>
+        <text>releaseI</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
