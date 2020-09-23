@@ -73,8 +73,10 @@
         <mark key="[" line="158" column="93" />
         <mark key="]" line="158" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1600862987164">
-        <mark key="[" line="170" column="26" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1600865677781">
+        <mark key="[" line="171" column="55" />
+        <mark key="]" line="170" column="50" />
+        <mark key="." line="170" column="50" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/MediaController.java" timestamp="1600862984743" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/packages/PackagePageFragment.kt" timestamp="1600857684132" />
@@ -97,9 +99,6 @@
         <mark key="]" line="83" column="51" />
         <mark key="." line="83" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/di/PresenterModule.kt" timestamp="1600853827327">
-        <mark key="[" line="13" column="50" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/VideoView.java" timestamp="1600860707375" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingFragment.kt" timestamp="1600861581653">
         <mark key="[" line="32" column="61" />
@@ -110,12 +109,13 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_workout_video_listing.xml" timestamp="1600857256586">
         <mark key="[" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600858392102">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600865707944">
         <mark key="[" line="253" column="19" />
         <mark key="]" line="253" column="19" />
         <mark key="^" line="221" column="0" />
         <mark key="." line="253" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/smartadjust-android/app/build.gradle" timestamp="1600866222359" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingEpoxyController.kt" timestamp="1600861202002">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="59" />
@@ -142,10 +142,10 @@
         <mark key="^" line="103" column="34" />
         <mark key="." line="112" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_videoview_item.xml" timestamp="1600862617586">
-        <mark key="[" line="28" column="55" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_videoview_item.xml" timestamp="1600865271854">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -202,10 +202,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>timestamp_r</text>
+        <text>anchor</text>
       </register>
       <register name="-" type="4">
-        <text>timestamp_r</text>
+        <text>anchor</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
