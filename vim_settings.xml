@@ -76,8 +76,8 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/MkUniversetDB.kt" timestamp="1600779243028">
         <mark key="[" line="80" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/IWorkoutVideo.kt" timestamp="1600780943272">
-        <mark key="[" line="6" column="9" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/IWorkoutVideo.kt" timestamp="1600841322990">
+        <mark key="[" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/ContentElement.kt" timestamp="1600780114328" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/RoomConverters.kt" timestamp="1600780190950">
@@ -85,8 +85,8 @@
         <mark key="]" line="56" column="12" />
         <mark key="." line="56" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/repository/Repositories.kt" timestamp="1600782695744">
-        <mark key="[" line="357" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/repository/Repositories.kt" timestamp="1600841276852">
+        <mark key="[" line="366" column="59" />
         <mark key="]" line="357" column="8" />
         <mark key="^" line="356" column="9" />
         <mark key="." line="357" column="8" />
@@ -114,15 +114,15 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesOutOfRangePresenterImpl.kt" timestamp="1600781711308" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/room/RoomWorkoutVideo.kt" timestamp="1600780040013">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="41" column="24" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="24" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="45" column="24" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/workoutvideos/WorkoutVideosDao.kt" timestamp="1600782328805">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/workoutvideos/WorkoutVideosDao.kt" timestamp="1600841283833">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
         <mark key="^" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/MKDatabase.kt" timestamp="1600778798837">
@@ -183,10 +183,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>Title</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
