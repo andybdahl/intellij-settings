@@ -85,16 +85,20 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/IWorkoutVideo.kt" timestamp="1600841322990">
         <mark key="[" line="9" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosView.kt" timestamp="1600844232870" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/room/RoomWorkoutVideo.kt" timestamp="1600842718694">
         <mark key="[" line="59" column="48" />
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/workoutvideos/WorkoutVideosDao.kt" timestamp="1600843817833">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/workoutvideos/WorkoutVideosDao.kt" timestamp="1600844168772">
         <mark key="[" line="12" column="51" />
         <mark key="]" line="13" column="43" />
         <mark key="." line="13" column="43" />
         <mark key="^" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosEpoxyController.kt" timestamp="1600844244299">
+        <mark key="[" line="5" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/RoomConverters.kt" timestamp="1600780190950">
         <mark key="[" line="56" column="12" />

@@ -76,4 +76,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
+  <action id="template.create.XMLLayout XML File">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
 </keymap>
