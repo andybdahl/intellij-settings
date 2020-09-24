@@ -86,11 +86,10 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600865707944">
-        <mark key="[" line="253" column="19" />
-        <mark key="]" line="253" column="19" />
-        <mark key="^" line="221" column="0" />
-        <mark key="." line="253" column="19" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1600929064897">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="212" column="19" />
+        <mark key="." line="212" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_videoview_item.xml" timestamp="1600865271854">
         <mark key="[" line="32" column="39" />
@@ -99,11 +98,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesOutOfRangePresenterImpl.kt" timestamp="1600926979469">
         <mark key="[" line="40" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1600868894288">
-        <mark key="[" line="171" column="55" />
-        <mark key="]" line="170" column="50" />
-        <mark key="." line="170" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingEpoxyController.kt" timestamp="1600861202002">
         <mark key="[" line="13" column="59" />
@@ -126,6 +120,12 @@
         <mark key="[" line="19" column="5" />
         <mark key="]" line="19" column="5" />
         <mark key="." line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1600929037074">
+        <mark key="[" line="610" column="8" />
+        <mark key="]" line="609" column="50" />
+        <mark key="^" line="609" column="50" />
+        <mark key="." line="609" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/firestore/FirestoreWorkoutVideo.kt" timestamp="1600862320514">
         <mark key="[" line="53" column="28" />
