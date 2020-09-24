@@ -65,11 +65,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/WorkoutExercise.kt" timestamp="1600943822672">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/workoutvideos/WorkoutExerciseTimestamp.kt" timestamp="1600943963642">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="12" column="23" />
@@ -110,6 +105,7 @@
       <file name="/fragment.kt" timestamp="1600944977099">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/space_divider.xml" timestamp="1600950899627" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_String.kt" timestamp="1600946313321">
         <mark key="[" line="106" column="100" />
         <mark key="]" line="106" column="101" />
