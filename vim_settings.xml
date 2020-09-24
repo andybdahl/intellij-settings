@@ -12,6 +12,7 @@
         <entry>navigation</entry>
         <entry>logoutHelp</entry>
         <entry>:%s</entry>
+        <entry encoding="base64">XDxsaWdodF90ZXh0XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -75,8 +76,17 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailView.kt" timestamp="1600941723559">
-        <mark key="[" line="7" column="43" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/exo_player_start_overlay.xml" timestamp="1600948533821">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/bg_rounded_translucent_white.xml" timestamp="1600948485369">
+        <mark key="'" line="2" column="33" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1600946568098">
         <mark key="[" line="91" column="1" />
@@ -105,13 +115,10 @@
         <mark key="]" line="106" column="101" />
         <mark key="." line="106" column="101" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_text_item.xml" timestamp="1600941910412">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="19" column="40" />
-        <mark key="." line="19" column="31" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosPresenterImpl.kt" timestamp="1600947889055">
+        <mark key="[" line="33" column="85" />
+        <mark key="^" line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_workout_video_detail.xml" timestamp="1600941676152" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingPresenterImpl.kt" timestamp="1600944736338">
         <mark key="[" line="17" column="27" />
       </file>
@@ -119,29 +126,30 @@
         <mark key="[" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.3/ce865308416e74ca0d74f6fadc65a8d2777fbf0f/video-player-android-0.4.3-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1600945689342" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingFragment.kt" timestamp="1600941748267">
-        <mark key="]" line="90" column="8" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="90" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1600948388846">
+        <mark key="[" line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_workout_video_listing.xml" timestamp="1600941672468">
-        <mark key="[" line="13" column="47" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/exo_player_control_view.xml" timestamp="1600949316966">
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="22" />
+        <mark key="." line="63" column="22" />
+        <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/cell_camp_click_item.xml" timestamp="1600942623109">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1600942569646">
+      <file name="/Dummy.txt" timestamp="1600948256275">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/MarginItemDecoration.kt" timestamp="1600945503433">
         <mark key="[" line="64" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_exercise_timestamp_item.xml" timestamp="1600943711633">
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="58" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/MKApplication.kt" timestamp="1600949141782">
+        <mark key="[" line="141" column="12" />
+        <mark key="]" line="141" column="12" />
+        <mark key="." line="141" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_exercise_timestamp_item.xml" timestamp="1600947967370">
+        <mark key="[" line="108" column="57" />
+        <mark key="]" line="89" column="13" />
+        <mark key="." line="89" column="13" />
         <mark key="^" line="13" column="34" />
       </file>
     </filemarks>
@@ -194,18 +202,19 @@
       <jump line="102" column="48" filename="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/ml/measurement/perform/PerformSingleMeasurementFragment.kt" />
       <jump line="43" column="17" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" />
       <jump line="134" column="110" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" />
+      <jump line="2" column="33" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/bg_rounded_translucent_white.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>firstOrNull()</text>
+        <text>ExoMediaButton.Rewind</text>
       </register>
       <register name="-" type="4">
-        <text>firstOrNull()</text>
+        <text>ExoMediaButton.Rewind</text>
       </register>
       <register name="/" type="4">
-        <text>:%s</text>
+        <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
@@ -253,10 +262,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>:%s</last-search>
-      <last-offset>@async/@withContext/gc</last-offset>
-      <last-pattern>:%s</last-pattern>
-      <last-dir>1</last-dir>
+      <last-search encoding="base64">XDxsaWdodF90ZXh0XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsaWdodF90ZXh0XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
