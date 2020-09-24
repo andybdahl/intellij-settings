@@ -105,16 +105,16 @@
         <mark key="]" line="170" column="50" />
         <mark key="." line="170" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_workout_info_box.xml" timestamp="1600857432792">
-        <mark key="[" line="83" column="51" />
-        <mark key="]" line="83" column="51" />
-        <mark key="." line="83" column="51" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingEpoxyController.kt" timestamp="1600861202002">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
         <mark key="^" line="34" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600928217080">
+        <mark key="[" line="81" column="47" />
+        <mark key="]" line="81" column="47" />
+        <mark key="." line="81" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/repository/Repositories.kt" timestamp="1600859310469">
         <mark key="[" line="366" column="59" />
@@ -188,10 +188,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>anchor</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>anchor</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
