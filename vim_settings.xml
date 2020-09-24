@@ -64,6 +64,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makeabledk/video-player-android/0.4.3/ce865308416e74ca0d74f6fadc65a8d2777fbf0f/video-player-android-0.4.3-sources.jar!/dk/makeable/videoplayer/controller/VideoPlayerController.kt" timestamp="1600931680455" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingFragment.kt" timestamp="1600931276469">
         <mark key="[" line="64" column="17" />
         <mark key="]" line="35" column="61" />
@@ -80,9 +81,15 @@
         <mark key="]" line="100" column="25" />
         <mark key="." line="100" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingEpoxyController.kt" timestamp="1600931368840">
-        <mark key="[" line="27" column="27" />
-        <mark key="^" line="31" column="45" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1600932061629">
+        <mark key="[" line="178" column="55" />
+        <mark key="]" line="166" column="48" />
+        <mark key="." line="166" column="48" />
+        <mark key="^" line="167" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingEpoxyController.kt" timestamp="1600932237055">
+        <mark key="[" line="31" column="59" />
+        <mark key="^" line="30" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1600928217080">
         <mark key="[" line="81" column="47" />
@@ -101,9 +108,6 @@
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="/fragment.kt" timestamp="1600859811745">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/local.properties" timestamp="1600930687645">
         <mark key="[" line="13" column="50" />
       </file>
@@ -112,10 +116,11 @@
         <mark key="]" line="138" column="75" />
         <mark key="." line="138" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_videoview_item.xml" timestamp="1600865271854">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_videoview_item.xml" timestamp="1600931727530">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/devices/DevicesOutOfRangePresenterImpl.kt" timestamp="1600926979469">
         <mark key="[" line="40" column="12" />
@@ -175,10 +180,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;YOUR_TOKEN&quot;</text>
+        <text>match_pareciwnt</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;YOUR_TOKEN&quot;</text>
+        <text>match_pareciwnt</text>
       </register>
       <register name="/" type="4">
         <text>:%s</text>
