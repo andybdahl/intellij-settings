@@ -69,6 +69,12 @@
         <mark key="[" line="31" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/CameraBridgeViewBase.java" timestamp="1601029505326" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601036888727">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="44" />
+      </file>
       <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/res/layout/activity_main.xml" timestamp="1601025284819" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_single_image_circle_finder.xml" timestamp="1601036481169">
         <mark key="[" line="6" column="53" />
@@ -173,10 +179,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>capturedImage</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>capturedImage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
