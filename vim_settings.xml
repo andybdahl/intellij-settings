@@ -68,6 +68,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/build.gradle" timestamp="1601024344101">
         <mark key="[" line="27" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/imgproc/Imgproc.java" timestamp="1601027666602" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1601020814677">
         <mark key="[" line="142" column="8" />
         <mark key="]" line="129" column="37" />
@@ -89,11 +90,6 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1601019256123">
-        <mark key="[" line="31" column="66" />
-        <mark key="]" line="31" column="66" />
-        <mark key="." line="31" column="66" />
-      </file>
       <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601023016351">
         <mark key="[" line="425" column="8" />
         <mark key="]" line="425" column="18" />
@@ -103,7 +99,7 @@
       <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/build.gradle" timestamp="1601021211473">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/java/src/main/MainActivity.java" timestamp="1601025436937" />
+      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/java/src/main/MainActivity.java" timestamp="1601028435807" />
       <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/res/layout/activity_main.xml" timestamp="1601022805636">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
@@ -113,11 +109,10 @@
         <mark key="[" line="16" column="60" />
         <mark key="^" line="40" column="208" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601025771328">
-        <mark key="[" line="80" column="46" />
-        <mark key="]" line="80" column="47" />
-        <mark key="^" line="80" column="47" />
-        <mark key="." line="80" column="46" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601028360664">
+        <mark key="[" line="82" column="81" />
+        <mark key="]" line="82" column="81" />
+        <mark key="." line="82" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/JavaCamera2View.java" timestamp="1601025134813" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601025260157">
@@ -179,11 +174,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZnJhbWUgPSBvYmplY3Q6IENhbWVyYUJyaWRnZVZpZXdCYXNlLkN2Q2FtZXJhVmlld0ZyYW1lIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHJnYmEoKTogTWF0IHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBncmF5KCk6IE1hdCB7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="&quot;" type="4">
+        <text>input.rows() / 8.0</text>
       </register>
       <register name="-" type="4">
-        <text>CameraKitView</text>
+        <text>input.rows() / 8.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
