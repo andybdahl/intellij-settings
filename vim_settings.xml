@@ -66,7 +66,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/build.gradle" timestamp="1601024344101">
-        <mark key="[" line="27" column="59" />
+        <mark key="[" line="31" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/CameraBridgeViewBase.java" timestamp="1601029505326" />
       <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/res/layout/activity_main.xml" timestamp="1601025284819" />
@@ -98,14 +98,14 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601032216595">
-        <mark key="[" line="100" column="20" />
-        <mark key="]" line="100" column="20" />
-        <mark key="." line="100" column="20" />
-        <mark key="^" line="96" column="28" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601034114395">
+        <mark key="[" line="88" column="31" />
+        <mark key="]" line="103" column="72" />
+        <mark key="." line="103" column="71" />
+        <mark key="^" line="103" column="72" />
       </file>
       <file name="$USER_HOME$/Desktop/shape-detection/app/src/main/java/com/michaeltroger/shapedetection/MainActivity.java" timestamp="1601031583656" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601030554265">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601033892417">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="41" />
         <mark key="." line="33" column="41" />
@@ -167,10 +167,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>obj.labels.</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>obj.labels.</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
