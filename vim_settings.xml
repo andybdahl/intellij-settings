@@ -90,7 +90,7 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601023016351">
+      <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601028702237">
         <mark key="[" line="425" column="8" />
         <mark key="]" line="425" column="18" />
         <mark key="." line="425" column="17" />
@@ -109,10 +109,10 @@
         <mark key="[" line="16" column="60" />
         <mark key="^" line="40" column="208" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601028360664">
-        <mark key="[" line="82" column="81" />
-        <mark key="]" line="82" column="81" />
-        <mark key="." line="82" column="81" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601028990967">
+        <mark key="[" line="83" column="95" />
+        <mark key="]" line="83" column="95" />
+        <mark key="." line="83" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/JavaCamera2View.java" timestamp="1601025134813" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601025260157">
@@ -175,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>input.rows() / 8.0</text>
+        <text>40.0</text>
       </register>
       <register name="-" type="4">
-        <text>input.rows() / 8.0</text>
+        <text>40.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
