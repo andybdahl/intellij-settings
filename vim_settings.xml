@@ -70,6 +70,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/CameraBridgeViewBase.java" timestamp="1601029505326" />
       <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/res/layout/activity_main.xml" timestamp="1601025284819" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_single_image_circle_finder.xml" timestamp="1601036481169">
+        <mark key="[" line="6" column="53" />
+      </file>
       <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/build.gradle" timestamp="1601023249096">
         <mark key="'" line="20" column="8" />
         <mark key="[" line="6" column="8" />
@@ -98,7 +101,7 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601034114395">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601036417681">
         <mark key="[" line="88" column="31" />
         <mark key="]" line="103" column="72" />
         <mark key="." line="103" column="71" />
@@ -109,6 +112,9 @@
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="41" />
         <mark key="." line="33" column="41" />
+      </file>
+      <file name="/fragment.java" timestamp="1601036427448">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
