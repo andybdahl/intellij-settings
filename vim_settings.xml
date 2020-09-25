@@ -65,12 +65,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/build.gradle" timestamp="1601024344101">
+        <mark key="[" line="27" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1601020814677">
         <mark key="[" line="142" column="8" />
         <mark key="]" line="129" column="37" />
         <mark key="^" line="132" column="69" />
         <mark key="." line="129" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/res/layout/activity_main.xml" timestamp="1601025284819" />
       <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/build.gradle" timestamp="1601021251935">
         <mark key="[" line="17" column="52" />
       </file>
@@ -80,21 +84,26 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601023547659" />
+      <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/build.gradle" timestamp="1601023493146">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1601019256123">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="31" column="66" />
         <mark key="." line="31" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/gradle.properties" timestamp="1601021273356" />
       <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601023016351">
         <mark key="[" line="425" column="8" />
         <mark key="]" line="425" column="18" />
         <mark key="." line="425" column="17" />
         <mark key="^" line="425" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/java/src/main/MainActivity.java" timestamp="1601021541644" />
-      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/gradle.properties" timestamp="1601021269962" />
+      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/build.gradle" timestamp="1601021211473">
+        <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/java/src/main/MainActivity.java" timestamp="1601025436937" />
       <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/res/layout/activity_main.xml" timestamp="1601022805636">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
@@ -104,15 +113,15 @@
         <mark key="[" line="16" column="60" />
         <mark key="^" line="40" column="208" />
       </file>
-      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/openCVLibrary310/src/main/java/org/opencv/android/BaseLoaderCallback.java" timestamp="1601021571472" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/build.gradle" timestamp="1601023273469" />
-      <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/build.gradle" timestamp="1601023493146">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601025771328">
+        <mark key="[" line="80" column="46" />
+        <mark key="]" line="80" column="47" />
+        <mark key="^" line="80" column="47" />
+        <mark key="." line="80" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/build.gradle" timestamp="1601021211473">
-        <mark key="[" line="3" column="17" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/JavaCamera2View.java" timestamp="1601025134813" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601025260157">
+        <mark key="[" line="22" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -170,14 +179,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>maven {
-            url 'https://maven.google.com/'
-            name 'Google'
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZnJhbWUgPSBvYmplY3Q6IENhbWVyYUJyaWRnZVZpZXdCYXNlLkN2Q2FtZXJhVmlld0ZyYW1lIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHJnYmEoKTogTWF0IHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBncmF5KCk6IE1hdCB7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>cameraKitView</text>
+        <text>CameraKitView</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
@@ -185,11 +191,8 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="4">
-        <text>maven {
-            url 'https://maven.google.com/'
-            name 'Google'
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZnJhbWUgPSBvYmplY3Q6IENhbWVyYUJyaWRnZVZpZXdCYXNlLkN2Q2FtZXJhVmlld0ZyYW1lIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHJnYmEoKTogTWF0IHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBncmF5KCk6IE1hdCB7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="2" type="4">
         <text>maven {
@@ -198,14 +201,15 @@
         }</text>
       </register>
       <register name="3" type="4">
+        <text>maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }</text>
+      </register>
+      <register name="4" type="4">
         <text>videoView.getPlayerView().player?.addListener(object: Player.EventListener {
 
         })</text>
-      </register>
-      <register name="4" type="4">
-        <text>{
-        TODO(&quot;Not yet implemented&quot;)
-    }</text>
       </register>
       <register name="5" type="4">
         <text>{
@@ -223,10 +227,12 @@
     }</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cnVuIHJldHJ5SWZOZWVkZWRAewogICAgICAgICAgICAgICAgcmVwZWF0KDUpIHsgdHJ5TnVtYmVyIC0+CiAgICAgICAgICAgICAgICAgICAgcnVuQ2F0Y2hpbmcgewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcGFja2FnZUtleXMgPSBNS0FwcGxpY2F0aW9uLmRiLnBhY2thZ2VzUmVwby5hbGwodHJ1ZSkubWFwTm90TnVsbCB7IGl0LmtleSB9CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBwbGFuS2V5cyA9IE1LQXBwbGljYXRpb24uZGIucGxhbnNSZXBvc2l0b3J5LmFsbCh0cnVlKS5tYXAgeyBpdC5za3VJZCB9CgogICAgICAgICAgICAgICAgICAgICAgICB2YWwgY29uc3VtYWJsZVNLVXMgPSBzZXRPZjxTdHJpbmc+KCkKICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5vbkNvbnN1bWFibGVTS1VzID0gc2V0T2YoKnBhY2thZ2VLZXlzLnRvVHlwZWRBcnJheSgpLCAqcGxhbktleXMudG9UeXBlZEFycmF5KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIGxhdW5jaChEaXNwYXRjaGVycy5NYWluKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaWxsaW5nLmluaXRpYWxpemUoZ2V0PE1LQXBwbGljYXRpb24+KCksIGNvbnN1bWFibGVTS1VzLCBub25Db25zdW1hYmxlU0tVcywgZmFsc2UsIEJ1aWxkQ29uZmlnLkRFQlVHKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJJbml0aWFsaXplZCBiaWxsaW5nIikKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQHJldHJ5SWZOZWVkZWQgLy8gV2UgaW5pdGlhbGl6ZWQgQmlsbGluZyBzdWNjZXNzZnVsbHksIHJldHVybiBmcm9tIHJlcGVhdC4KICAgICAgICAgICAgICAgICAgICB9LnJlY292ZXJDYXRjaGluZyB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0cnlOdW1iZXIgPT0gNCkgeyAvLyBXZSB0cmllZCA1IHRpbWVzLCBhbmQgc3RpbGwgZmFpbGVkLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gSW5pdCBiaWxsaW5nIHRvIGxldCB1c2VycyBzZWUgdGhlaXIgcHVyY2hhc2VzIGV2ZW4gd2l0aG91dCBpbnRlcm5ldC4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkucG9zdCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQmlsbGluZy5pbml0aWFsaXplKGdldDxNS0FwcGxpY2F0aW9uPigpLCBzZXRPZigpLCBzZXRPZigpLCBmYWxzZSwgQnVpbGRDb25maWcuREVCVUcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5AcmV0cnlJZk5lZWRlZAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+        <text>{
+        TODO(&quot;Not yet implemented&quot;)
+    }</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHN1c3BlbmRDYW5jZWxsYWJsZUNvcm91dGluZSB7IGNhbmNlbGxhYmxlQ29udGludWF0aW9uIC0+CiAgICAgICAgQ29yb3V0aW5lU2NvcGUoY2FuY2VsbGFibGVDb250aW51YXRpb24uY29udGV4dCkubGF1bmNoKERpc3BhdGNoZXJzLklPKSB7CiAgICAgICAgICAgIHJ1biByZXRyeUlmTmVlZGVkQHsKICAgICAgICAgICAgICAgIHJlcGVhdCg1KSB7IHRyeU51bWJlciAtPgogICAgICAgICAgICAgICAgICAgIHJ1bkNhdGNoaW5nIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHBhY2thZ2VLZXlzID0gTUtBcHBsaWNhdGlvbi5kYi5wYWNrYWdlc1JlcG8uYWxsKHRydWUpLm1hcE5vdE51bGwgeyBpdC5rZXkgfQogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcGxhbktleXMgPSBNS0FwcGxpY2F0aW9uLmRiLnBsYW5zUmVwb3NpdG9yeS5hbGwodHJ1ZSkubWFwIHsgaXQuc2t1SWQgfQoKICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGNvbnN1bWFibGVTS1VzID0gc2V0T2Y8U3RyaW5nPigpCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBub25Db25zdW1hYmxlU0tVcyA9IHNldE9mKCpwYWNrYWdlS2V5cy50b1R5cGVkQXJyYXkoKSwgKnBsYW5LZXlzLnRvVHlwZWRBcnJheSgpKQogICAgICAgICAgICAgICAgICAgICAgICBsYXVuY2goRGlzcGF0Y2hlcnMuTWFpbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQmlsbGluZy5pbml0aWFsaXplKGdldDxNS0FwcGxpY2F0aW9uPigpLCBjb25zdW1hYmxlU0tVcywgbm9uQ29uc3VtYWJsZVNLVXMsIGZhbHNlLCBCdWlsZENvbmZpZy5ERUJVRykKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiSW5pdGlhbGl6ZWQgYmlsbGluZyIpCiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybkByZXRyeUlmTmVlZGVkIC8vIFdlIGluaXRpYWxpemVkIEJpbGxpbmcgc3VjY2Vzc2Z1bGx5LCByZXR1cm4gZnJvbSByZXBlYXQuCiAgICAgICAgICAgICAgICAgICAgfS5yZWNvdmVyQ2F0Y2hpbmcgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAodHJ5TnVtYmVyID09IDQpIHsgLy8gV2UgdHJpZWQgNSB0aW1lcywgYW5kIHN0aWxsIGZhaWxlZC4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEluaXQgYmlsbGluZyB0byBsZXQgdXNlcnMgc2VlIHRoZWlyIHB1cmNoYXNlcyBldmVuIHdpdGhvdXQgaW50ZXJuZXQuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYW5kbGVyKExvb3Blci5nZXRNYWluTG9vcGVyKCkpLnBvc3QgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpbGxpbmcuaW5pdGlhbGl6ZShnZXQ8TUtBcHBsaWNhdGlvbj4oKSwgc2V0T2YoKSwgc2V0T2YoKSwgZmFsc2UsIEJ1aWxkQ29uZmlnLkRFQlVHKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQHJldHJ5SWZOZWVkZWQKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoKERpc3BhdGNoZXJzLk1haW4pIHsKICAgICAgICAgICAgICAgIHVuUHVyY2hhc2VkSXRlbXNMaXZlRGF0YS5hZGRTb3VyY2UoQmlsbGluZy5nZXRQdXJjaGFzZXMoQmlsbGluZ0NsaWVudC5Ta3VUeXBlLklOQVBQKSkgeyBwdXJjaGFzZXM6IExpc3Q8UHVyY2hhc2U+PyAtPgogICAgICAgICAgICAgICAgICAgIHNldE93bmVkTm9uQ29uc3VtYWJsZUtleXMocHVyY2hhc2VzPy5tYXAgeyBpdC5za3UgfT8udG9TZXQoKSA/OiBzZXRPZigpKQogICAgICAgICAgICAgICAgICAgIGZldGNoVW5QdXJjaGFzZWRJdGVtcygpIC8vIFRyaWdnZXJzIGEgcG9zdCB0byB0aGUgaXRlbXNPdmVydmlld0xpdmVEYXRhLgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBjYW5jZWxsYWJsZUNvbnRpbnVhdGlvbi50YWtlSWYgeyBpdC5pc0FjdGl2ZSB9Py5yZXN1bWUoVW5pdCkKICAgICAgICB9CiAgICB9</text>
+        <text encoding="base64">cnVuIHJldHJ5SWZOZWVkZWRAewogICAgICAgICAgICAgICAgcmVwZWF0KDUpIHsgdHJ5TnVtYmVyIC0+CiAgICAgICAgICAgICAgICAgICAgcnVuQ2F0Y2hpbmcgewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcGFja2FnZUtleXMgPSBNS0FwcGxpY2F0aW9uLmRiLnBhY2thZ2VzUmVwby5hbGwodHJ1ZSkubWFwTm90TnVsbCB7IGl0LmtleSB9CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBwbGFuS2V5cyA9IE1LQXBwbGljYXRpb24uZGIucGxhbnNSZXBvc2l0b3J5LmFsbCh0cnVlKS5tYXAgeyBpdC5za3VJZCB9CgogICAgICAgICAgICAgICAgICAgICAgICB2YWwgY29uc3VtYWJsZVNLVXMgPSBzZXRPZjxTdHJpbmc+KCkKICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5vbkNvbnN1bWFibGVTS1VzID0gc2V0T2YoKnBhY2thZ2VLZXlzLnRvVHlwZWRBcnJheSgpLCAqcGxhbktleXMudG9UeXBlZEFycmF5KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIGxhdW5jaChEaXNwYXRjaGVycy5NYWluKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaWxsaW5nLmluaXRpYWxpemUoZ2V0PE1LQXBwbGljYXRpb24+KCksIGNvbnN1bWFibGVTS1VzLCBub25Db25zdW1hYmxlU0tVcywgZmFsc2UsIEJ1aWxkQ29uZmlnLkRFQlVHKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJJbml0aWFsaXplZCBiaWxsaW5nIikKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuQHJldHJ5SWZOZWVkZWQgLy8gV2UgaW5pdGlhbGl6ZWQgQmlsbGluZyBzdWNjZXNzZnVsbHksIHJldHVybiBmcm9tIHJlcGVhdC4KICAgICAgICAgICAgICAgICAgICB9LnJlY292ZXJDYXRjaGluZyB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0cnlOdW1iZXIgPT0gNCkgeyAvLyBXZSB0cmllZCA1IHRpbWVzLCBhbmQgc3RpbGwgZmFpbGVkLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gSW5pdCBiaWxsaW5nIHRvIGxldCB1c2VycyBzZWUgdGhlaXIgcHVyY2hhc2VzIGV2ZW4gd2l0aG91dCBpbnRlcm5ldC4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkucG9zdCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQmlsbGluZy5pbml0aWFsaXplKGdldDxNS0FwcGxpY2F0aW9uPigpLCBzZXRPZigpLCBzZXRPZigpLCBmYWxzZSwgQnVpbGRDb25maWcuREVCVUcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5AcmV0cnlJZk5lZWRlZAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
     </registers>
   </component>
