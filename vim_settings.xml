@@ -72,8 +72,10 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/version.extensions.gradle" timestamp="1601037100178">
         <mark key="[" line="170" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601039240079">
-        <mark key="[" line="119" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601040710226">
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="12" />
+        <mark key="." line="105" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/res/layout/activity_main.xml" timestamp="1601025284819" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_single_image_circle_finder.xml" timestamp="1601037662433">
@@ -82,7 +84,7 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601038823144">
+      <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601040135900">
         <mark key="[" line="425" column="8" />
         <mark key="]" line="425" column="18" />
         <mark key="." line="425" column="17" />
@@ -113,6 +115,9 @@
       </file>
       <file name="/fragment.java" timestamp="1601036427448">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/AndroidManifest.xml" timestamp="1601039881051">
+        <mark key="[" line="11" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -171,10 +176,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(0.0, 128.0, 255.0)</text>
+        <text>iMinRadius * 2.0/*</text>
       </register>
       <register name="-" type="4">
-        <text>(0.0, 128.0, 255.0)</text>
+        <text>iMinRadius * 2.0/*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
