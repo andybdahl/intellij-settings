@@ -65,10 +65,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingFragment.kt" timestamp="1601279900381">
-        <mark key="[" line="80" column="26" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingFragment.kt" timestamp="1601282254164">
+        <mark key="[" line="61" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/CameraBridgeViewBase.java" timestamp="1601029505326" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/plans/all/AllPlansPresenterImpl.kt" timestamp="1601282474470">
+        <mark key="[" line="43" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/version.extensions.gradle" timestamp="1601037100178">
         <mark key="[" line="170" column="8" />
       </file>
@@ -79,11 +81,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1601279708424">
-        <mark key="[" line="119" column="32" />
-        <mark key="]" line="129" column="37" />
-        <mark key="^" line="132" column="69" />
-        <mark key="." line="129" column="37" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1601282236413">
+        <mark key="[" line="70" column="73" />
+        <mark key="]" line="70" column="73" />
+        <mark key="^" line="137" column="69" />
+        <mark key="." line="70" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_single_image_circle_finder.xml" timestamp="1601274944951">
         <mark key="[" line="57" column="53" />
@@ -92,7 +94,7 @@
         <mark key="." line="77" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingPresenter.kt" timestamp="1601279978433">
-        <mark key="[" line="7" column="61" />
+        <mark key="[" line="6" column="61" />
       </file>
       <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601040135900">
         <mark key="[" line="425" column="8" />
@@ -102,11 +104,21 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/packages/PackagePageFragment.kt" timestamp="1601280389084" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_package_page.xml" timestamp="1601279749853" />
-      <file name="$USER_HOME$/Desktop/shape-detection/build.gradle" timestamp="1601031370134">
-        <mark key="[" line="16" column="17" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_Billing.kt" timestamp="1601282977381">
+        <mark key="[" line="25" column="79" />
+        <mark key="]" line="25" column="79" />
+        <mark key="." line="25" column="79" />
+        <mark key="^" line="39" column="70" />
       </file>
       <file name="$USER_HOME$/Desktop/arcore-measurement/app/src/main/java/com/shibuiwilliam/arcoremeasurement/Measurement.kt" timestamp="1601276551498">
         <mark key="[" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/plans/page/PlanPagePresenterImpl.kt" timestamp="1601282344264" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/controllers/Logger.kt" timestamp="1601281826419">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="147" column="105" />
+        <mark key="." line="147" column="104" />
+        <mark key="^" line="147" column="105" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601038196263">
         <mark key="[" line="88" column="31" />
@@ -114,16 +126,18 @@
         <mark key="." line="103" column="71" />
         <mark key="^" line="103" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/shape-detection/app/src/main/java/com/michaeltroger/shapedetection/MainActivity.java" timestamp="1601031583656" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601033892417">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="41" />
         <mark key="." line="33" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingPresenterImpl.kt" timestamp="1601280390612">
-        <mark key="[" line="39" column="27" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingPresenterImpl.kt" timestamp="1601282524187">
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="72" column="68" />
+        <mark key="." line="72" column="68" />
+        <mark key="^" line="57" column="124" />
       </file>
-      <file name="/fragment.java" timestamp="1601036427448">
+      <file name="/fragment.java" timestamp="1601281745083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/AndroidManifest.xml" timestamp="1601039881051">
@@ -186,10 +200,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getOrNull()?</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>getOrNull()?</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
