@@ -13,6 +13,8 @@
         <entry>logoutHelp</entry>
         <entry>:%s</entry>
         <entry encoding="base64">XDxsaWdodF90ZXh0XD4=</entry>
+        <entry encoding="base64">XDxwcmltYXJ5X3RleHRcPg==</entry>
+        <entry encoding="base64">XDw9XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -75,21 +77,9 @@
         <mark key="[" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/MyMessagingService.kt" timestamp="1601293647643">
-        <mark key="[" line="39" column="46" />
-        <mark key="]" line="39" column="101" />
-        <mark key="." line="39" column="101" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1601282236413">
-        <mark key="[" line="70" column="73" />
-        <mark key="]" line="70" column="73" />
-        <mark key="^" line="137" column="69" />
-        <mark key="." line="70" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601292612903">
-        <mark key="[" line="161" column="61" />
-        <mark key="]" line="160" column="71" />
-        <mark key="^" line="160" column="71" />
-        <mark key="." line="160" column="70" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="101" />
+        <mark key="." line="38" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosFragment.kt" timestamp="1601290593074">
         <mark key="[" line="75" column="66" />
@@ -97,11 +87,15 @@
         <mark key="." line="75" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601292367554" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601293474764">
-        <mark key="[" line="530" column="141" />
-        <mark key="]" line="530" column="141" />
-        <mark key="." line="530" column="141" />
-        <mark key="^" line="531" column="58" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/colors.xml" timestamp="1601295649258" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/repository/Repositories.kt" timestamp="1601294433089">
+        <mark key="[" line="182" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601293915001" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_small_item.xml" timestamp="1601295110729">
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_Billing.kt" timestamp="1601292182797">
         <mark key="[" line="18" column="69" />
@@ -111,16 +105,13 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosPresenterImpl.kt" timestamp="1601288974994">
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/repository/controllers/Logger.kt" timestamp="1601281826419">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="147" column="105" />
-        <mark key="." line="147" column="104" />
-        <mark key="^" line="147" column="105" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/activity_main.xml" timestamp="1601292855001">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="25" column="5" />
         <mark key="." line="25" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxycontrollers/ItemsOverviewFragmentController.kt" timestamp="1601295537130">
+        <mark key="[" line="68" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingPresenterImpl.kt" timestamp="1601289984794">
         <mark key="[" line="50" column="33" />
@@ -131,8 +122,11 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/dimens.xml" timestamp="1601293152408">
         <mark key="[" line="13" column="87" />
       </file>
-      <file name="/fragment.java" timestamp="1601281745083">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/ic_free_recipe.xml" timestamp="1601296005196">
+        <mark key="'" line="24" column="36" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -186,18 +180,19 @@
       <jump line="134" column="110" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" />
       <jump line="2" column="33" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/bg_rounded_translucent_white.xml" />
       <jump line="23" column="8" filename="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/build.gradle" />
+      <jump line="24" column="36" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/ic_free_recipe.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>skuId</text>
+        <text>0.6</text>
       </register>
       <register name="-" type="4">
-        <text>skuId</text>
+        <text>0.6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
+        <text encoding="base64">XDw9XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
@@ -252,9 +247,9 @@ Do</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsaWdodF90ZXh0XD4=</last-search>
+      <last-search encoding="base64">XDw9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWdodF90ZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDw9XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
