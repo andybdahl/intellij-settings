@@ -72,11 +72,11 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/version.extensions.gradle" timestamp="1601037100178">
         <mark key="[" line="170" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601275164492">
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="58" column="24" />
-        <mark key="^" line="55" column="9" />
-        <mark key="." line="58" column="24" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601276095178">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="27" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/res/layout/activity_main.xml" timestamp="1601025284819" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_single_image_circle_finder.xml" timestamp="1601274944951">
@@ -177,10 +177,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>100.0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>100.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
@@ -188,13 +188,17 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="8">
+        <text>Do
+Do</text>
+      </register>
+      <register name="2" type="4">
         <text>(
                         0.0,
                         255.0, 0.0
                     )</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>// Find circles in bitmap, create a new bitmap as a result, and show the result in the [processedImageView]
         val mat = Mat()
         Utils.bitmapToMat(bitmap, mat)
@@ -202,14 +206,8 @@
 
         mat.release()</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZnJhbWUgPSBvYmplY3Q6IENhbWVyYUJyaWRnZVZpZXdCYXNlLkN2Q2FtZXJhVmlld0ZyYW1lIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHJnYmEoKTogTWF0IHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBncmF5KCk6IE1hdCB7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="4" type="4">
-        <text>maven {
-            url 'https://maven.google.com/'
-            name 'Google'
-        }</text>
       </register>
       <register name="5" type="4">
         <text>maven {
@@ -218,14 +216,15 @@
         }</text>
       </register>
       <register name="6" type="4">
+        <text>maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }</text>
+      </register>
+      <register name="7" type="4">
         <text>videoView.getPlayerView().player?.addListener(object: Player.EventListener {
 
         })</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-        TODO(&quot;Not yet implemented&quot;)
-    }</text>
       </register>
       <register name="8" type="4">
         <text>{
