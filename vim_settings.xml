@@ -65,25 +65,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/build.gradle" timestamp="1601024344101">
-        <mark key="[" line="31" column="59" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingFragment.kt" timestamp="1601279900381">
+        <mark key="[" line="80" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/CameraBridgeViewBase.java" timestamp="1601029505326" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/version.extensions.gradle" timestamp="1601037100178">
         <mark key="[" line="170" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_workout_video_listing.xml" timestamp="1601279819081" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601278563507">
         <mark key="[" line="158" column="48" />
         <mark key="]" line="23" column="41" />
         <mark key="^" line="25" column="30" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/res/layout/activity_main.xml" timestamp="1601025284819" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1601279708424">
+        <mark key="[" line="119" column="32" />
+        <mark key="]" line="129" column="37" />
+        <mark key="^" line="132" column="69" />
+        <mark key="." line="129" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/res/layout/activity_single_image_circle_finder.xml" timestamp="1601274944951">
         <mark key="[" line="57" column="53" />
         <mark key="]" line="77" column="11" />
         <mark key="^" line="77" column="11" />
         <mark key="." line="77" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingPresenter.kt" timestamp="1601279978433">
+        <mark key="[" line="7" column="61" />
       </file>
       <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/src/main/java/com/example/harsimar/opencvandroid_circledetector/MainActivity.java" timestamp="1601040135900">
         <mark key="[" line="425" column="8" />
@@ -91,19 +100,13 @@
         <mark key="." line="425" column="17" />
         <mark key="^" line="425" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/real_time_circle_detection_android/CircleDetection/CircleDetection/src/main/java/src/main/MainActivity.java" timestamp="1601028435807" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/android/JavaCamera2View.java" timestamp="1601025134813" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/sdk/java/src/org/opencv/imgproc/Imgproc.java" timestamp="1601027666602" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/packages/PackagePageFragment.kt" timestamp="1601280389084" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_package_page.xml" timestamp="1601279749853" />
       <file name="$USER_HOME$/Desktop/shape-detection/build.gradle" timestamp="1601031370134">
         <mark key="[" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/arcore-measurement/app/src/main/java/com/shibuiwilliam/arcoremeasurement/Measurement.kt" timestamp="1601276551498">
         <mark key="[" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/app/build.gradle" timestamp="1601023493146">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="29" column="44" />
-        <mark key="." line="29" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/MainActivity.kt" timestamp="1601038196263">
         <mark key="[" line="88" column="31" />
@@ -116,6 +119,9 @@
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="41" />
         <mark key="." line="33" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingPresenterImpl.kt" timestamp="1601280390612">
+        <mark key="[" line="39" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1601036427448">
         <mark key="[" line="0" column="0" />
@@ -180,10 +186,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>50.0</text>
+        <text>getOrNull()?</text>
       </register>
       <register name="-" type="4">
-        <text>50.0</text>
+        <text>getOrNull()?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWdodF90ZXh0XD4=</text>
@@ -191,17 +197,20 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
+      <register name="2" type="8">
         <text>Do
 Do</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>(
                         0.0,
                         255.0, 0.0
                     )</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>// Find circles in bitmap, create a new bitmap as a result, and show the result in the [processedImageView]
         val mat = Mat()
         Utils.bitmapToMat(bitmap, mat)
@@ -209,14 +218,8 @@ Do</text>
 
         mat.release()</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZnJhbWUgPSBvYmplY3Q6IENhbWVyYUJyaWRnZVZpZXdCYXNlLkN2Q2FtZXJhVmlld0ZyYW1lIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHJnYmEoKTogTWF0IHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBncmF5KCk6IE1hdCB7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="5" type="4">
-        <text>maven {
-            url 'https://maven.google.com/'
-            name 'Google'
-        }</text>
       </register>
       <register name="6" type="4">
         <text>maven {
@@ -225,14 +228,15 @@ Do</text>
         }</text>
       </register>
       <register name="7" type="4">
+        <text>maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }</text>
+      </register>
+      <register name="8" type="4">
         <text>videoView.getPlayerView().player?.addListener(object: Player.EventListener {
 
         })</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-        TODO(&quot;Not yet implemented&quot;)
-    }</text>
       </register>
       <register name="9" type="4">
         <text>{
