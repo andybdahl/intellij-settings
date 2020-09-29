@@ -76,6 +76,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1601380017852">
         <mark key="[" line="223" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601380673502" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_OrgJson.kt" timestamp="1601298705790">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="10" />
@@ -100,12 +101,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/algolia/AlgoliaRecipeCategoryView.kt" timestamp="1601298125340" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/ingredients/all/IngredientsEpoxyController.kt" timestamp="1601299768796" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/ic_free_recipe.xml" timestamp="1601297907488">
-        <mark key="'" line="24" column="36" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_category_items.xml" timestamp="1601299500336">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="30" />
