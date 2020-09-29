@@ -76,16 +76,14 @@
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1601360730824">
-        <mark key="[" line="180" column="67" />
-        <mark key="]" line="180" column="67" />
-        <mark key="." line="180" column="67" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1601364682179">
+        <mark key="[" line="174" column="31" />
+        <mark key="]" line="174" column="31" />
+        <mark key="." line="174" column="31" />
+        <mark key="^" line="186" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/search/SearchRecipesFragment.kt" timestamp="1601297492910">
         <mark key="[" line="36" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/FavoriteItemsFragment.kt" timestamp="1601297392137">
-        <mark key="[" line="37" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_OrgJson.kt" timestamp="1601298705790">
         <mark key="[" line="5" column="4" />
@@ -93,20 +91,20 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_spinner_item.xml" timestamp="1601359614894">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/spinner_dropdown_item.xml" timestamp="1601363671683">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_spinner_item.xml" timestamp="1601364830050">
         <mark key="[" line="36" column="40" />
         <mark key="]" line="36" column="40" />
         <mark key="^" line="36" column="49" />
         <mark key="." line="36" column="40" />
       </file>
-      <file name="/fragment.kt" timestamp="1601298838659">
+      <file name="/fragment.kt" timestamp="1601364226574">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/items/ItemWithInfoModel.kt" timestamp="1601297382960">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="45" />
-        <mark key="^" line="31" column="31" />
-        <mark key="." line="40" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/algolia/AlgoliaRecipeCategoryView.kt" timestamp="1601298125340" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/ingredients/all/IngredientsEpoxyController.kt" timestamp="1601299768796" />
@@ -122,6 +120,13 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601365384731">
+        <mark key="i" line="156" column="61" />
+        <mark key="[" line="158" column="48" />
+        <mark key="]" line="23" column="41" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="23" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/cell_algolia_search_item.xml" timestamp="1601298191861">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="9" />
@@ -133,7 +138,7 @@
         <mark key="." line="82" column="20" />
         <mark key="^" line="87" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601300140609">
+      <file name="/Dummy.txt" timestamp="1601363460245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/items/FavouriteItem.kt" timestamp="1601297502522">
@@ -203,10 +208,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Sortering</text>
+        <text>super.getv(position, convertView, parent)</text>
       </register>
       <register name="-" type="4">
-        <text>Sortering</text>
+        <text>super.getv(position, convertView, parent)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -214,30 +219,33 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-            TODO(&quot;Not yet implemented&quot;)
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">PGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgphbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgphbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cgo8L2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQ+</text>
       </register>
       <register name="2" type="4">
         <text>{
             TODO(&quot;Not yet implemented&quot;)
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>{
+            TODO(&quot;Not yet implemented&quot;)
+        }</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>Do
 Do</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(
                         0.0,
                         255.0, 0.0
                     )</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>// Find circles in bitmap, create a new bitmap as a result, and show the result in the [processedImageView]
         val mat = Mat()
         Utils.bitmapToMat(bitmap, mat)
@@ -245,14 +253,8 @@ Do</text>
 
         mat.release()</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZnJhbWUgPSBvYmplY3Q6IENhbWVyYUJyaWRnZVZpZXdCYXNlLkN2Q2FtZXJhVmlld0ZyYW1lIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIHJnYmEoKTogTWF0IHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBncmF5KCk6IE1hdCB7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text>maven {
-            url 'https://maven.google.com/'
-            name 'Google'
-        }</text>
       </register>
       <register name="9" type="4">
         <text>maven {
