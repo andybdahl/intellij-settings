@@ -139,7 +139,9 @@
       <file name="/Dummy.txt" timestamp="1601363460245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1601373551566" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1601376915543">
+        <mark key="[" line="404" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/AllItemsFragment.kt" timestamp="1601361783461">
         <mark key="[" line="140" column="51" />
         <mark key="]" line="113" column="31" />
