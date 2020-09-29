@@ -82,9 +82,6 @@
         <mark key="." line="174" column="31" />
         <mark key="^" line="186" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/search/SearchRecipesFragment.kt" timestamp="1601297492910">
-        <mark key="[" line="36" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_OrgJson.kt" timestamp="1601298705790">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="10" />
@@ -97,6 +94,7 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1601373540799" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_spinner_item.xml" timestamp="1601364830050">
         <mark key="[" line="36" column="40" />
         <mark key="]" line="36" column="40" />
@@ -120,7 +118,7 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601365384731">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dralle-demo-android/app/src/main/java/dk/makeable/dralledemo/SingleImageCircleFinderActivity.kt" timestamp="1601373356194">
         <mark key="i" line="156" column="61" />
         <mark key="[" line="158" column="48" />
         <mark key="]" line="23" column="41" />
@@ -141,9 +139,7 @@
       <file name="/Dummy.txt" timestamp="1601363460245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/epoxymodels/items/FavouriteItem.kt" timestamp="1601297502522">
-        <mark key="[" line="28" column="34" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1601373551566" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/AllItemsFragment.kt" timestamp="1601361783461">
         <mark key="[" line="140" column="51" />
         <mark key="]" line="113" column="31" />
