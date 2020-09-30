@@ -67,6 +67,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1601460330244">
+        <mark key="[" line="40" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/attachment_close_button_background.xml" timestamp="1601459814311" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_like.xml" timestamp="1601460027338">
+        <mark key="[" line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1601455271558">
         <mark key="[" line="219" column="66" />
       </file>
@@ -76,30 +83,25 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601446782012">
         <mark key="[" line="124" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601457985709">
-        <mark key="[" line="80" column="21" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601460375479">
+        <mark key="[" line="203" column="45" />
         <mark key="]" line="80" column="21" />
         <mark key="." line="80" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1601387019239" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_String.kt" timestamp="1601385455834">
-        <mark key="[" line="117" column="33" />
-        <mark key="]" line="114" column="81" />
-        <mark key="." line="114" column="81" />
-        <mark key="^" line="122" column="19" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_dislike.xml" timestamp="1601460169802">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1601457623053">
-        <mark key="[" line="77" column="38" />
-        <mark key="]" line="77" column="38" />
-        <mark key="." line="77" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/ICategory.kt" timestamp="1601386877772">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1601459626573">
+        <mark key="[" line="205" column="40" />
+        <mark key="]" line="205" column="40" />
+        <mark key="." line="205" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/version.extensions.gradle" timestamp="1601449191334" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601384687427">
-        <mark key="[" line="253" column="63" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/fragment_webview_bottom_sheet_dialog.xml" timestamp="1601459355911" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/dialogs/guide/InputMachineIdAlertDialog.kt" timestamp="1601457923385">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="32" />
@@ -113,21 +115,19 @@
         <mark key="[" line="94" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/RoomItemWithRoomCategories.kt" timestamp="1601386921411" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/IItem.kt" timestamp="1601386862528" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/CategoryItemsFragment.kt" timestamp="1601385580161">
-        <mark key="[" line="102" column="36" />
+      <file name="/Dummy.txt" timestamp="1601459868939">
+        <mark key="[" line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601449285450">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_looking.xml" timestamp="1601460224988">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601456579993">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601459492644">
         <mark key="[" line="23" column="36" />
         <mark key="]" line="39" column="53" />
         <mark key="." line="39" column="52" />
         <mark key="^" line="39" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1601384599351">
-        <mark key="[" line="158" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -187,10 +187,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>InputMachineIdAlertDialogB</text>
+        <text>content_spacing_quarter</text>
       </register>
       <register name="-" type="4">
-        <text>InputMachineIdAlertDialogB</text>
+        <text>content_spacing_quarter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
