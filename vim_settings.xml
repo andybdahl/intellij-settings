@@ -82,7 +82,9 @@
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/activity_login.xml" timestamp="1601449763535" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/activity_login.xml" timestamp="1601450013745">
+        <mark key="[" line="94" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/RoomItemWithRoomCategories.kt" timestamp="1601386921411" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/IItem.kt" timestamp="1601386862528" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601384154219">
@@ -100,8 +102,8 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601446782012">
         <mark key="[" line="124" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601449826706">
-        <mark key="[" line="7" column="9" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601450046897">
+        <mark key="[" line="50" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1601384599351">
         <mark key="[" line="158" column="91" />
