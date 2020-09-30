@@ -83,10 +83,11 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601446782012">
         <mark key="[" line="124" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601460375479">
-        <mark key="[" line="203" column="45" />
-        <mark key="]" line="80" column="21" />
-        <mark key="." line="80" column="21" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601461207179">
+        <mark key="[" line="204" column="45" />
+        <mark key="]" line="209" column="8" />
+        <mark key="." line="209" column="7" />
+        <mark key="^" line="209" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1601387019239" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_dislike.xml" timestamp="1601460169802">
