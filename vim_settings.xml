@@ -67,8 +67,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1601460330244">
-        <mark key="[" line="40" column="47" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1601464883732">
+        <mark key="'" line="115" column="38" />
+        <mark key="[" line="107" column="51" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/attachment_close_button_background.xml" timestamp="1601459814311" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_like.xml" timestamp="1601460027338">
@@ -83,11 +87,10 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601446782012">
         <mark key="[" line="124" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601461207179">
-        <mark key="[" line="204" column="45" />
-        <mark key="]" line="209" column="8" />
-        <mark key="." line="209" column="7" />
-        <mark key="^" line="209" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601465777397">
+        <mark key="[" line="150" column="8" />
+        <mark key="]" line="232" column="17" />
+        <mark key="." line="232" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1601387019239" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_dislike.xml" timestamp="1601460169802">
@@ -115,7 +118,6 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/activity_login.xml" timestamp="1601450013745">
         <mark key="[" line="94" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/RoomItemWithRoomCategories.kt" timestamp="1601386921411" />
       <file name="/Dummy.txt" timestamp="1601459868939">
         <mark key="[" line="0" column="1" />
       </file>
@@ -124,11 +126,13 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601459492644">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="39" column="53" />
-        <mark key="." line="39" column="52" />
-        <mark key="^" line="39" column="53" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601464781709">
+        <mark key="[" line="88" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/fragment_guide.xml" timestamp="1601465787855">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="12" />
+        <mark key="." line="82" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -183,15 +187,16 @@
       <jump line="2" column="33" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/bg_rounded_translucent_white.xml" />
       <jump line="23" column="8" filename="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/build.gradle" />
       <jump line="24" column="36" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/ic_free_recipe.xml" />
+      <jump line="90" column="38" filename="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>content_spacing_quarter</text>
+        <text>tools</text>
       </register>
       <register name="-" type="4">
-        <text>content_spacing_quarter</text>
+        <text>tools</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
