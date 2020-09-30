@@ -76,8 +76,10 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601446782012">
         <mark key="[" line="124" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601452146740">
-        <mark key="[" line="75" column="39" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601457985709">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="21" />
+        <mark key="." line="80" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/items/ItemsDao.kt" timestamp="1601387019239" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/Extensions_String.kt" timestamp="1601385455834">
@@ -86,8 +88,10 @@
         <mark key="." line="114" column="81" />
         <mark key="^" line="122" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1601454254936">
-        <mark key="[" line="156" column="33" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1601457623053">
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="77" column="38" />
+        <mark key="." line="77" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/room/ICategory.kt" timestamp="1601386877772">
         <mark key="[" line="12" column="0" />
@@ -96,10 +100,11 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601384687427">
         <mark key="[" line="253" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/dialogs/guide/InputMachineIdAlertDialog.kt" timestamp="1601454647011">
-        <mark key="[" line="22" column="94" />
-        <mark key="]" line="22" column="94" />
-        <mark key="." line="22" column="94" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/dialogs/guide/InputMachineIdAlertDialog.kt" timestamp="1601457923385">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/build.gradle" timestamp="1601455205104">
         <mark key="[" line="21" column="8" />
@@ -115,11 +120,11 @@
       <file name="/Dummy.txt" timestamp="1601449285450">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601454169274">
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="35" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601456579993">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="39" column="53" />
+        <mark key="." line="39" column="52" />
+        <mark key="^" line="39" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-billing/androidbillinglib/src/main/java/dk/makeable/androidbillinglib/Billing.kt" timestamp="1601384599351">
         <mark key="[" line="158" column="91" />
@@ -182,10 +187,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJlcXVpcmVBY3Rpdml0eSgpLmxheW91dEluZmxhdGVyLmluZmxhdGUoKQ==</text>
+        <text>InputMachineIdAlertDialogB</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlcXVpcmVBY3Rpdml0eSgpLmxheW91dEluZmxhdGVyLmluZmxhdGUoKQ==</text>
+        <text>InputMachineIdAlertDialogB</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -193,49 +198,44 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRTdHlsZShEaWFsb2dGcmFnbWVudC5TVFlMRV9OT1JNQUwsIFIuc3R5bGUuVGhlbWVfQXBwQ29tcGF0X0xpZ2h0X0RpYWxvZ19BbGVydCkK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">cmV0dXJuIGlmIChzaG93c0RpYWxvZykKICAgICAgICAgICAgc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBlbHNlCiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>{
+        return super.getTheme()
+    }</text>
+      </register>
+      <register name="4" type="4">
+        <text>{
+        return super.getTheme()
+    }</text>
+      </register>
+      <register name="5" type="4">
         <text>{
         TODO(&quot;Not yet implemented&quot;)
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>{
         ret
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgphbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgphbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cgo8L2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQ+</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-            TODO(&quot;Not yet implemented&quot;)
-        }</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-            TODO(&quot;Not yet implemented&quot;)
-        }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="7" type="8">
-        <text>Do
-Do</text>
-      </register>
       <register name="8" type="4">
-        <text>(
-                        0.0,
-                        255.0, 0.0
-                    )</text>
+        <text>{
+            TODO(&quot;Not yet implemented&quot;)
+        }</text>
       </register>
       <register name="9" type="4">
-        <text>// Find circles in bitmap, create a new bitmap as a result, and show the result in the [processedImageView]
-        val mat = Mat()
-        Utils.bitmapToMat(bitmap, mat)
-
-
-        mat.release()</text>
+        <text>{
+            TODO(&quot;Not yet implemented&quot;)
+        }</text>
       </register>
     </registers>
   </component>
