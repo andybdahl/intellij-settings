@@ -74,11 +74,15 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/attachment_close_button_background.xml" timestamp="1601459814311" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_like.xml" timestamp="1601460027338">
         <mark key="[" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601471061240" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601473030521">
+        <mark key="[" line="193" column="16" />
+        <mark key="]" line="193" column="16" />
+        <mark key="." line="193" column="15" />
+        <mark key="^" line="193" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601467411531">
         <mark key="[" line="139" column="0" />
       </file>
@@ -88,10 +92,13 @@
         <mark key="]" line="232" column="17" />
         <mark key="." line="232" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_edit_measurements.xml" timestamp="1601473250919">
+        <mark key="[" line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/space_divider.xml" timestamp="1601470297849">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_edit_measurement_row.xml" timestamp="1601470335721">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_edit_measurement_row.xml" timestamp="1601471740903">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="35" />
         <mark key="." line="25" column="35" />
@@ -103,23 +110,17 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1601459626573">
-        <mark key="[" line="205" column="40" />
-        <mark key="]" line="205" column="40" />
-        <mark key="." line="205" column="40" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/line_divider.xml" timestamp="1601471859927">
+        <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601471287510">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="41" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601473179088">
+        <mark key="[" line="86" column="18" />
+        <mark key="]" line="86" column="18" />
+        <mark key="." line="86" column="18" />
+        <mark key="^" line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/fragment_webview_bottom_sheet_dialog.xml" timestamp="1601459355911" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/dialogs/guide/InputMachineIdAlertDialog.kt" timestamp="1601457923385">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="41" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601472829527">
+        <mark key="[" line="301" column="50" />
       </file>
       <file name="/Dummy.txt" timestamp="1601470449822">
         <mark key="[" line="0" column="0" />
@@ -129,9 +130,17 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_group_edit_measurements_table.xml" timestamp="1601471837069">
+        <mark key="c" line="40" column="38" />
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="34" />
+        <mark key="." line="54" column="34" />
+        <mark key="^" line="59" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601464781709">
         <mark key="[" line="88" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_measurements_status.xml" timestamp="1601473010122" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/fragment_guide.xml" timestamp="1601465787855">
         <mark key="[" line="82" column="12" />
         <mark key="]" line="82" column="12" />
@@ -196,10 +205,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>rowIndex</text>
+        <text>bgImg</text>
       </register>
       <register name="-" type="4">
-        <text>rowIndex</text>
+        <text>bgImg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -207,16 +216,16 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>{
+        TODO(&quot;Not yet implemented&quot;)
+    }</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZXRTdHlsZShEaWFsb2dGcmFnbWVudC5TVFlMRV9OT1JNQUwsIFIuc3R5bGUuVGhlbWVfQXBwQ29tcGF0X0xpZ2h0X0RpYWxvZ19BbGVydCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIGlmIChzaG93c0RpYWxvZykKICAgICAgICAgICAgc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBlbHNlCiAgICAgICAgICAgIA==</text>
-      </register>
       <register name="3" type="4">
-        <text>{
-        return super.getTheme()
-    }</text>
+        <text encoding="base64">cmV0dXJuIGlmIChzaG93c0RpYWxvZykKICAgICAgICAgICAgc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBlbHNlCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="4">
         <text>{
@@ -225,21 +234,21 @@
       </register>
       <register name="5" type="4">
         <text>{
-        TODO(&quot;Not yet implemented&quot;)
+        return super.getTheme()
     }</text>
       </register>
       <register name="6" type="4">
         <text>{
+        TODO(&quot;Not yet implemented&quot;)
+    }</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
         ret
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgphbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgphbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cgo8L2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQ+</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-            TODO(&quot;Not yet implemented&quot;)
-        }</text>
       </register>
       <register name="9" type="4">
         <text>{
