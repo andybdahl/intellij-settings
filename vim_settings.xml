@@ -95,8 +95,8 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/build.gradle" timestamp="1601531553062">
         <mark key="[" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_edit_measurements.xml" timestamp="1601532491144">
-        <mark key="[" line="21" column="36" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_edit_measurements.xml" timestamp="1601533423992">
+        <mark key="[" line="19" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/space_divider.xml" timestamp="1601470297849">
         <mark key="[" line="5" column="23" />
@@ -110,11 +110,12 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/line_divider.xml" timestamp="1601471859927">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601473179088">
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="18" />
-        <mark key="." line="86" column="18" />
-        <mark key="^" line="49" column="23" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601535040116">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="157" column="73" />
+        <mark key="]" line="157" column="73" />
+        <mark key="^" line="70" column="37" />
+        <mark key="." line="157" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601472829527">
         <mark key="[" line="301" column="50" />
@@ -197,15 +198,17 @@
       <jump line="23" column="8" filename="$USER_HOME$/Desktop/OpenCV-Android-Circle-Detector-App/build.gradle" />
       <jump line="24" column="36" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/ic_free_recipe.xml" />
       <jump line="90" column="38" filename="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" />
+      <jump line="155" column="113" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" />
+      <jump line="148" column="0" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bgImg</text>
+        <text>Navle</text>
       </register>
       <register name="-" type="4">
-        <text>bgImg</text>
+        <text>Navle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
