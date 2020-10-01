@@ -67,64 +67,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1601464883732">
-        <mark key="'" line="115" column="38" />
-        <mark key="[" line="107" column="51" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1601470449822">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601467411531">
-        <mark key="[" line="139" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/line_divider.xml" timestamp="1601471859927">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_group_edit_measurements_table.xml" timestamp="1601471837069">
-        <mark key="c" line="40" column="38" />
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="34" />
-        <mark key="." line="54" column="34" />
-        <mark key="^" line="59" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601540138896">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="206" column="12" />
-        <mark key="]" line="206" column="12" />
-        <mark key="^" line="76" column="37" />
-        <mark key="." line="206" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1601464781709">
-        <mark key="[" line="88" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601465777397">
-        <mark key="[" line="150" column="8" />
-        <mark key="]" line="232" column="17" />
-        <mark key="." line="232" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/build.gradle" timestamp="1601531553062">
-        <mark key="[" line="4" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_edit_measurements.xml" timestamp="1601533423992">
-        <mark key="[" line="19" column="55" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601544635277">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="181" column="40" />
+        <mark key="]" line="195" column="44" />
+        <mark key="^" line="176" column="50" />
+        <mark key="." line="195" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601472829527">
         <mark key="[" line="301" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601540536469">
-        <mark key="[" line="77" column="56" />
-        <mark key="]" line="77" column="56" />
-        <mark key="." line="77" column="56" />
-        <mark key="^" line="77" column="60" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601543932175">
+        <mark key="[" line="374" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/space_divider.xml" timestamp="1601470297849">
-        <mark key="[" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_edit_measurement_row.xml" timestamp="1601538566705">
-        <mark key="[" line="66" column="37" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601543597765">
+        <mark key="[" line="98" column="201" />
+        <mark key="]" line="98" column="201" />
+        <mark key="." line="98" column="201" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601532372995">
         <mark key="[" line="45" column="15" />
@@ -133,10 +95,41 @@
         <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/items/Item.kt" timestamp="1601539893878" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/fragment_guide.xml" timestamp="1601465787855">
-        <mark key="[" line="82" column="12" />
-        <mark key="]" line="82" column="12" />
-        <mark key="." line="82" column="12" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1601541868720">
+        <mark key="[" line="430" column="27" />
+        <mark key="]" line="430" column="27" />
+        <mark key="." line="430" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1601470449822">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/camps/CampWrapper.kt" timestamp="1601541232889" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_group_edit_measurements_table.xml" timestamp="1601471837069">
+        <mark key="c" line="40" column="38" />
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="34" />
+        <mark key="." line="54" column="34" />
+        <mark key="^" line="59" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/build.gradle" timestamp="1601531553062">
+        <mark key="[" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/camps/CampRecordMeasurements.kt" timestamp="1601541931761">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_edit_measurements.xml" timestamp="1601533423992">
+        <mark key="[" line="19" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/space_divider.xml" timestamp="1601470297849">
+        <mark key="[" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_edit_measurement_row.xml" timestamp="1601538566705">
+        <mark key="[" line="66" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1601541877297">
+        <mark key="[" line="430" column="27" />
+        <mark key="]" line="430" column="27" />
+        <mark key="." line="430" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -199,10 +192,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.roundToInt()</text>
+        <text>toIntOrNull</text>
       </register>
       <register name="-" type="4">
-        <text>.roundToInt()</text>
+        <text>toIntOrNull</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
