@@ -70,9 +70,12 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/line_divider.xml" timestamp="1601471859927">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601547913464">
-        <mark key="'" line="194" column="0" />
-        <mark key="[" line="170" column="25" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601550380838">
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="203" column="84" />
+        <mark key="]" line="68" column="117" />
+        <mark key="^" line="68" column="117" />
+        <mark key="." line="68" column="116" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601472829527">
         <mark key="[" line="301" column="50" />
@@ -190,10 +193,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Int</text>
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
