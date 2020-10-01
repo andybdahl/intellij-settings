@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/line_divider.xml" timestamp="1601471859927">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601550380838">
-        <mark key="'" line="196" column="0" />
-        <mark key="[" line="203" column="84" />
-        <mark key="]" line="68" column="117" />
-        <mark key="^" line="68" column="117" />
-        <mark key="." line="68" column="116" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601552099436">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="190" column="53" />
+        <mark key="]" line="249" column="47" />
+        <mark key="^" line="249" column="60" />
+        <mark key="." line="249" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601472829527">
         <mark key="[" line="301" column="50" />
@@ -83,11 +83,11 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601543932175">
         <mark key="[" line="374" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601547522117">
-        <mark key="[" line="87" column="64" />
-        <mark key="]" line="87" column="70" />
-        <mark key="." line="87" column="69" />
-        <mark key="^" line="87" column="70" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601551930982">
+        <mark key="[" line="110" column="79" />
+        <mark key="]" line="110" column="79" />
+        <mark key="." line="110" column="79" />
+        <mark key="^" line="84" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601532372995">
         <mark key="[" line="45" column="15" />
@@ -111,6 +111,11 @@
         <mark key="]" line="54" column="34" />
         <mark key="." line="54" column="34" />
         <mark key="^" line="59" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601552169242">
+        <mark key="[" line="150" column="8" />
+        <mark key="]" line="232" column="17" />
+        <mark key="." line="232" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/build.gradle" timestamp="1601531553062">
         <mark key="[" line="4" column="31" />
@@ -193,10 +198,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>listOf(*splitsRows.toTypedArray(), *lengthRows.toTypedArray(), *weightsRows.toTypedArray())</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>listOf(*splitsRows.toTypedArray(), *lengthRows.toTypedArray(), *weightsRows.toTypedArray())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
