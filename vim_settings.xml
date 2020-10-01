@@ -70,13 +70,6 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/line_divider.xml" timestamp="1601471859927">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_group_edit_measurements_table.xml" timestamp="1601471837069">
-        <mark key="c" line="40" column="38" />
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="34" />
-        <mark key="." line="54" column="34" />
-        <mark key="^" line="59" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601555086831">
         <mark key="'" line="203" column="0" />
         <mark key="[" line="190" column="53" />
@@ -104,6 +97,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601543932175">
         <mark key="[" line="374" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/build.gradle" timestamp="1601557047552" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601551930982">
         <mark key="[" line="110" column="79" />
         <mark key="]" line="110" column="79" />
@@ -118,6 +112,7 @@
         <mark key="]" line="430" column="27" />
         <mark key="." line="430" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1601557067311" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601532372995">
         <mark key="[" line="45" column="15" />
       </file>
