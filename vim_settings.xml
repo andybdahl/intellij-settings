@@ -101,21 +101,16 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/space_divider.xml" timestamp="1601470297849">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_edit_measurement_row.xml" timestamp="1601471740903">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="61" column="35" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_edit_measurement_row.xml" timestamp="1601538256472" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/drawable/line_divider.xml" timestamp="1601471859927">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601537500816">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="191" column="62" />
-        <mark key="]" line="191" column="62" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601538082256">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="183" column="62" />
+        <mark key="]" line="183" column="62" />
         <mark key="^" line="70" column="37" />
-        <mark key="." line="191" column="62" />
+        <mark key="." line="183" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601472829527">
         <mark key="[" line="301" column="50" />
@@ -205,10 +200,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Resultat</text>
+        <text>.Borderless</text>
       </register>
       <register name="-" type="4">
-        <text>Resultat</text>
+        <text>.Borderless</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
