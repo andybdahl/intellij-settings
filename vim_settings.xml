@@ -81,6 +81,9 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" timestamp="1601639941783">
+        <mark key="[" line="158" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1601637522822">
         <mark key="[" line="421" column="30" />
       </file>
@@ -92,6 +95,9 @@
         <mark key="]" line="35" column="19" />
         <mark key="^" line="35" column="19" />
         <mark key="." line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/build.gradle" timestamp="1601639841282">
+        <mark key="[" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/ArrayAdapter.java" timestamp="1601634787322" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1601633284857">
@@ -108,12 +114,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/ingredients/detail/IngredientDetailEpoxyController.kt" timestamp="1601636081310">
         <mark key="[" line="49" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601632368228">
-        <mark key="[" line="685" column="32" />
-        <mark key="]" line="685" column="32" />
-        <mark key="^" line="685" column="37" />
-        <mark key="." line="685" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/CategoryItemsFragment.kt" timestamp="1601638534880">
         <mark key="[" line="66" column="84" />
