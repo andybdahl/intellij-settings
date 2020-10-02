@@ -67,12 +67,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601624351552">
-        <mark key="'" line="250" column="0" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="223" column="29" />
-        <mark key="." line="223" column="29" />
-        <mark key="^" line="188" column="27" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601630251419">
+        <mark key="'" line="255" column="0" />
+        <mark key="[" line="235" column="20" />
+        <mark key="]" line="235" column="20" />
+        <mark key="." line="235" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601629976782">
+        <mark key="[" line="317" column="8" />
+        <mark key="]" line="317" column="8" />
+        <mark key="." line="317" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/FlowInputFragment.kt" timestamp="1601620861750">
         <mark key="[" line="255" column="14" />
@@ -86,8 +90,14 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/attendee/AttendeeRecordActivityViewModel.kt" timestamp="1601620684853">
         <mark key="[" line="53" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601551930982">
-        <mark key="[" line="110" column="79" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/ProgressBarDialogFragment.kt" timestamp="1601630221868">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="33" column="33" />
+        <mark key="^" line="33" column="33" />
+        <mark key="." line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601628106489">
+        <mark key="[" line="80" column="178" />
         <mark key="]" line="110" column="79" />
         <mark key="." line="110" column="79" />
         <mark key="^" line="84" column="70" />
@@ -99,27 +109,23 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601619010439">
         <mark key="[" line="763" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1601541868720">
-        <mark key="[" line="430" column="27" />
-        <mark key="]" line="430" column="27" />
-        <mark key="." line="430" column="27" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/fragment_duration_picker_bottomsheet_dialog.xml" timestamp="1601627506324">
+        <mark key="[" line="134" column="53" />
+        <mark key="]" line="134" column="53" />
+        <mark key="." line="134" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/BaseActivity.kt" timestamp="1601617772893">
         <mark key="[" line="25" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/MeasurementsFlowActivity.kt" timestamp="1601620906437" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/MeasurementsFlowActivity.kt" timestamp="1601629740976" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601626695876">
+        <mark key="[" line="340" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/flows/mk_fit/MKFitCampExerciseSubmitFragment.kt" timestamp="1601627001249" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601620242093">
         <mark key="[" line="150" column="8" />
         <mark key="]" line="232" column="17" />
         <mark key="." line="232" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/camps/CampRecordMeasurements.kt" timestamp="1601541931761">
-        <mark key="[" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1601541877297">
-        <mark key="[" line="430" column="27" />
-        <mark key="]" line="430" column="27" />
-        <mark key="." line="430" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/FullscreenModalDialogFragment.kt" timestamp="1601619017492" />
     </filemarks>
@@ -183,10 +189,14 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>val spinnerDialog = ProgressBarDialogFragment.newInstance(R.string.UPLOADING_INFO).dialog?.apply {
+                        isCancelable = false
+                        show()
+//                        show(supportFragmentManager, &quot;spinner&quot;)
+                    }</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>android:label=&quot;ProgressBarDialogFragment&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -195,43 +205,45 @@
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
       <register name="1" type="4">
+        <text>val spinnerDialog = ProgressBarDialogFragment.newInstance(R.string.UPLOADING_INFO).dialog?.apply {
+                        isCancelable = false
+                        show()
+//                        show(supportFragmentManager, &quot;spinner&quot;)
+                    }</text>
+      </register>
+      <register name="2" type="2">
+        <text />
+      </register>
+      <register name="3" type="4">
         <text>{
         TODO(&quot;Not yet implemented&quot;)
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZXRTdHlsZShEaWFsb2dGcmFnbWVudC5TVFlMRV9OT1JNQUwsIFIuc3R5bGUuVGhlbWVfQXBwQ29tcGF0X0xpZ2h0X0RpYWxvZ19BbGVydCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmV0dXJuIGlmIChzaG93c0RpYWxvZykKICAgICAgICAgICAgc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBlbHNlCiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>{
-        return super.getTheme()
-    }</text>
-      </register>
       <register name="5" type="4">
-        <text>{
-        return super.getTheme()
-    }</text>
+        <text encoding="base64">cmV0dXJuIGlmIChzaG93c0RpYWxvZykKICAgICAgICAgICAgc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBlbHNlCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="6" type="4">
         <text>{
-        TODO(&quot;Not yet implemented&quot;)
+        return super.getTheme()
     }</text>
       </register>
       <register name="7" type="4">
         <text>{
-        ret
+        return super.getTheme()
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgphbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgphbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cgo8L2FuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQ+</text>
+      <register name="8" type="4">
+        <text>{
+        TODO(&quot;Not yet implemented&quot;)
+    }</text>
       </register>
       <register name="9" type="4">
         <text>{
-            TODO(&quot;Not yet implemented&quot;)
-        }</text>
+        ret
+    }</text>
       </register>
     </registers>
   </component>
