@@ -67,12 +67,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601619314291">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="153" column="79" />
-        <mark key="]" line="153" column="79" />
-        <mark key="." line="153" column="79" />
-        <mark key="^" line="186" column="27" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601621739234">
+        <mark key="'" line="250" column="0" />
+        <mark key="[" line="223" column="29" />
+        <mark key="]" line="223" column="29" />
+        <mark key="." line="223" column="29" />
+        <mark key="^" line="188" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/FlowInputFragment.kt" timestamp="1601620861750">
+        <mark key="[" line="255" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601543932175">
         <mark key="[" line="374" column="67" />
@@ -80,8 +83,8 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/build.gradle" timestamp="1601557832874">
         <mark key="[" line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/attendee/AttendeeRecordActivityViewModel.kt" timestamp="1601619655706">
-        <mark key="[" line="55" column="20" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/attendee/AttendeeRecordActivityViewModel.kt" timestamp="1601620684853">
+        <mark key="[" line="53" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601551930982">
         <mark key="[" line="110" column="79" />
@@ -93,9 +96,6 @@
         <mark key="[" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/OnBackPressedFragment.kt" timestamp="1601617608867" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/camps/CampRecord.kt" timestamp="1601538750459">
-        <mark key="[" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601619010439">
         <mark key="[" line="763" column="12" />
       </file>
@@ -107,16 +107,14 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/BaseActivity.kt" timestamp="1601617772893">
         <mark key="[" line="25" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601617969021">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/MeasurementsFlowActivity.kt" timestamp="1601620906437" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1601620242093">
         <mark key="[" line="150" column="8" />
         <mark key="]" line="232" column="17" />
         <mark key="." line="232" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/camps/CampRecordMeasurements.kt" timestamp="1601541931761">
         <mark key="[" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_edit_measurement_row.xml" timestamp="1601538566705">
-        <mark key="[" line="66" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1601541877297">
         <mark key="[" line="430" column="27" />
@@ -185,10 +183,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>OnBackPressedListener</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>OnBackPressedListener</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
