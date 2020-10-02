@@ -67,9 +67,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601621739234">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601624351552">
         <mark key="'" line="250" column="0" />
-        <mark key="[" line="223" column="29" />
+        <mark key="[" line="249" column="0" />
         <mark key="]" line="223" column="29" />
         <mark key="." line="223" column="29" />
         <mark key="^" line="188" column="27" />
