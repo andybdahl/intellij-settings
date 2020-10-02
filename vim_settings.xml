@@ -94,12 +94,6 @@
         <mark key="." line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/ArrayAdapter.java" timestamp="1601634787322" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/pages/MoreItemsViewModel.kt" timestamp="1601632118063">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="24" column="50" />
-        <mark key="^" line="24" column="50" />
-        <mark key="." line="24" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1601633284857">
         <mark key="[" line="259" column="53" />
         <mark key="]" line="259" column="53" />
@@ -111,11 +105,6 @@
         <mark key="]" line="37" column="36" />
         <mark key="^" line="37" column="36" />
         <mark key="." line="37" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/model/user/NewsMoreItem.kt" timestamp="1601632157136">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/ingredients/detail/IngredientDetailEpoxyController.kt" timestamp="1601636081310">
         <mark key="[" line="49" column="46" />
