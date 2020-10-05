@@ -70,9 +70,6 @@
       <file name="/Dummy.txt" timestamp="1601889382959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/CampPageFragment.kt" timestamp="1601641190764">
-        <mark key="[" line="340" column="36" />
-      </file>
       <file name="/fragment.kt" timestamp="1601890800452">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,6 +80,10 @@
         <mark key="." line="316" column="45" />
         <mark key="^" line="316" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/build.gradle" timestamp="1601900790301">
+        <mark key="[" line="35" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1601900777789" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/database/BinaryMeasurementDao.kt" timestamp="1601881768486">
         <mark key="[" line="48" column="33" />
         <mark key="]" line="49" column="7" />
@@ -98,9 +99,6 @@
         <mark key="]" line="98" column="114" />
         <mark key="." line="98" column="114" />
         <mark key="^" line="105" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601641228738">
-        <mark key="[" line="374" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601892406990">
         <mark key="[" line="279" column="77" />
@@ -129,6 +127,9 @@
         <mark key="^" line="130" column="96" />
         <mark key="." line="130" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/build.gradle" timestamp="1601900812563">
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/MeasurementsBubbleView.kt" timestamp="1601878320785">
         <mark key="[" line="26" column="80" />
       </file>
@@ -149,12 +150,6 @@
         <mark key="]" line="40" column="8" />
         <mark key="^" line="27" column="34" />
         <mark key="." line="40" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/CategoryItemsFragment.kt" timestamp="1601641127237">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="66" column="84" />
-        <mark key="^" line="105" column="20" />
-        <mark key="." line="66" column="84" />
       </file>
     </filemarks>
     <jumps>
