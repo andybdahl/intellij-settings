@@ -74,6 +74,9 @@
         <mark key="^" line="187" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-v23/styles.xml" timestamp="1601635379535" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1601879613574">
+        <mark key="[" line="220" column="154" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/spinner_dropdown_item.xml" timestamp="1601634433623">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="26" />
@@ -113,9 +116,6 @@
         <mark key="]" line="66" column="84" />
         <mark key="^" line="105" column="20" />
         <mark key="." line="66" column="84" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1601634160196">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/spinner_item.xml" timestamp="1601635115478">
         <mark key="[" line="1" column="1" />
