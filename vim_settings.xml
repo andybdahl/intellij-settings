@@ -78,6 +78,9 @@
         <mark key="." line="186" column="101" />
         <mark key="^" line="187" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601884378882">
+        <mark key="[" line="24" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1601880457036">
         <mark key="[" line="220" column="154" />
       </file>
@@ -105,7 +108,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/MeasurementsBubbleView.kt" timestamp="1601878320785">
         <mark key="[" line="26" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/work/SyncMeasurementsWorker.kt" timestamp="1601884012311">
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/work/SyncMeasurementsWorker.kt" timestamp="1601884060252">
         <mark key="[" line="98" column="114" />
         <mark key="]" line="98" column="114" />
         <mark key="." line="98" column="114" />
@@ -126,11 +129,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1601637514483">
         <mark key="[" line="421" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/styles.xml" timestamp="1601635697362">
-        <mark key="[" line="267" column="86" />
-        <mark key="]" line="278" column="37" />
-        <mark key="." line="278" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/MessageBubbleView.kt" timestamp="1601641252793">
         <mark key="[" line="39" column="0" />
