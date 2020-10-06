@@ -130,10 +130,11 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/config/TicketsConfig.kt" timestamp="1601982783450">
-        <mark key="[" line="17" column="30" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/config/TicketsConfig.kt" timestamp="1601983485170">
+        <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsViewModel.kt" timestamp="1601972047983">
         <mark key="'" line="88" column="93" />
@@ -152,11 +153,11 @@
         <mark key="]" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601983000361">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="45" column="43" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601983607222">
+        <mark key="[" line="100" column="84" />
+        <mark key="]" line="100" column="84" />
         <mark key="^" line="16" column="113" />
-        <mark key="." line="45" column="43" />
+        <mark key="." line="100" column="84" />
       </file>
     </filemarks>
     <jumps>
@@ -220,10 +221,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>latestSubTicket</text>
+        <text encoding="base64">IFZpZXcuT25DbGlja0xpc3RlbmVyIHsgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>latestSubTicket</text>
+        <text encoding="base64">IFZpZXcuT25DbGlja0xpc3RlbmVyIHsgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpIH0=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
