@@ -67,12 +67,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1601889382959">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1601890800452">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601899508563">
         <mark key="'" line="267" column="0" />
         <mark key="[" line="238" column="35" />
@@ -80,31 +74,78 @@
         <mark key="." line="316" column="45" />
         <mark key="^" line="316" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/build.gradle" timestamp="1601900790301">
-        <mark key="[" line="35" column="74" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/build.gradle" timestamp="1601902962422">
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="42" column="63" />
+        <mark key="^" line="42" column="68" />
+        <mark key="." line="42" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1601900777789" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/database/BinaryMeasurementDao.kt" timestamp="1601881768486">
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="49" column="7" />
-        <mark key="." line="49" column="7" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1601904360957">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+        <mark key="." line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/QuestionsFragment.kt" timestamp="1601903018219">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/camps.xml" timestamp="1601891547405">
         <mark key="[" line="317" column="8" />
         <mark key="]" line="317" column="8" />
         <mark key="." line="317" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/domain/repository/work/SyncMeasurementsWorker.kt" timestamp="1601884060252">
-        <mark key="[" line="98" column="114" />
-        <mark key="]" line="98" column="114" />
-        <mark key="." line="98" column="114" />
-        <mark key="^" line="105" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601892406990">
         <mark key="[" line="279" column="77" />
         <mark key="]" line="279" column="77" />
         <mark key="." line="279" column="77" />
         <mark key="^" line="277" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/TooEarlyActivity.kt" timestamp="1601890648089">
+        <mark key="[" line="129" column="27" />
+        <mark key="]" line="130" column="96" />
+        <mark key="^" line="130" column="96" />
+        <mark key="." line="130" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/build.gradle" timestamp="1601900812563">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Question.kt" timestamp="1601965873932">
+        <mark key="[" line="74" column="77" />
+        <mark key="]" line="74" column="77" />
+        <mark key="^" line="93" column="17" />
+        <mark key="." line="74" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601887976598">
+        <mark key="[" line="141" column="4" />
+        <mark key="]" line="141" column="4" />
+        <mark key="^" line="685" column="37" />
+        <mark key="." line="141" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/ActivityProvider.kt" timestamp="1601887449165">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="40" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1601902686381">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1601890800452">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Answer.kt" timestamp="1601965863079">
+        <mark key="[" line="65" column="77" />
+        <mark key="]" line="65" column="77" />
+        <mark key="." line="65" column="77" />
+        <mark key="^" line="67" column="123" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/QuestionsViewModel.kt" timestamp="1601965773222">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="59" column="16" />
+        <mark key="." line="59" column="16" />
+        <mark key="^" line="48" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/navigation/tooearly.xml" timestamp="1601890560921">
         <mark key="[" line="7" column="5" />
@@ -118,38 +159,22 @@
         <mark key="^" line="163" column="38" />
         <mark key="." line="168" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1601885576082">
-        <mark key="[" line="20" column="40" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/util/Query+LiveData.kt" timestamp="1601903548443">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/camps/TooEarlyActivity.kt" timestamp="1601890648089">
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="130" column="96" />
-        <mark key="^" line="130" column="96" />
-        <mark key="." line="130" column="95" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601904273695">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/build.gradle" timestamp="1601900812563">
-        <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/MeasurementsBubbleView.kt" timestamp="1601878320785">
-        <mark key="[" line="26" column="80" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/activities/MainActivity.kt" timestamp="1601887976598">
-        <mark key="[" line="141" column="4" />
-        <mark key="]" line="141" column="4" />
-        <mark key="^" line="685" column="37" />
-        <mark key="." line="141" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/MessageBubbleView.kt" timestamp="1601641252793">
-        <mark key="[" line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/java/dk/makeable/metricorr/ui/main/MainActivity.kt" timestamp="1601880457036">
-        <mark key="[" line="220" column="154" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/ActivityProvider.kt" timestamp="1601887449165">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="8" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="40" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/util/Document+LiveData.kt" timestamp="1601903663189">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="25" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -211,11 +236,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYW1wc0dyYXBoRGlyZWN0aW9ucy5hY3Rpb25HbG9iYWxEdXJhdGlvblBpY2tlckJvdHRvbXNoZWV0RGlhbG9nKAogICAgICAgICAgICAgICAgICAgICAgICBjb25maWcsIGxpc3RlbmVyCiAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>questionsDocumentsLiveData.value?.documents</text>
       </register>
       <register name="-" type="4">
-        <text>args.measurementsStatus.backgroundImageUrl)</text>
+        <text>questionsDocumentsLiveData.value?.documents</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -224,39 +249,37 @@
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYW1wc0dyYXBoRGlyZWN0aW9ucy5hY3Rpb25HbG9iYWxEdXJhdGlvblBpY2tlckJvdHRvbXNoZWV0RGlhbG9nKAogICAgICAgICAgICAgICAgICAgICAgICBjb25maWcsIGxpc3RlbmVyCiAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGF1dGhvckltYWdlVXJsID0gc25hcC5nZXRTdHJpbmcoUXVlc3RlZWVlZWVlZWVlZWVlKQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">b2JqZWN0IDogRHVyYXRpb25QaWNrZXJCb3R0b21zaGVldERpYWxvZy5MaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkR1cmF0aW9uU2VsZWN0ZWQoZHVyYXRpb25TZWNvbmRzOiBMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVyYXRpb25TZWNvbmRzLnRvSW50KCkubGV0IHsgbmV3SW50IC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1cGRhdGVQYWlyID0gcm93LnVwZGF0ZXIuZ2V0VXBkYXRhYmxlUGFpcihuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBlbmRpbmdEYXRhTWFwW3VwZGF0ZVBhaXIuZmlyc3RdID0gdXBkYXRlUGFpci5zZWNvbmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1JvdyA9IChjb250cm9sbGVyLmN1cnJlbnREYXRhISFbdGFibGVJbmRleF0ucm93c1tyb3dJbmRleF0udXBkYXRlciBhcyBFZGl0TWVhc3VyZW1lbnRzRXBveHlDb250cm9sbGVyLlJvd1VwZGF0ZXI8SW50PikuY29weShuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBuZXdEYXRhID0gY29udHJvbGxlci5jdXJyZW50RGF0YSEhLnRvTXV0YWJsZUxpc3QoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcm93cyA9IGdldCh0YWJsZUluZGV4KS5yb3dzLnRvTXV0YWJsZUxpc3QoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93c1tyb3dJbmRleF0gPSBuZXdSb3cKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgbmV3VGFibGUgPSB0aGlzW3RhYmxlSW5kZXhdLnVwZGF0ZXIuY29weShyb3dzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpc1t0YWJsZUluZGV4XSA9IG5ld1RhYmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlci5zZXREYXRhKG5ld0RhdGEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIC8+</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL3Rvb2Vhcmx5Ig==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYW1wc0dyYXBoRGlyZWN0aW9ucy5hY3Rpb25HbG9iYWxEdXJhdGlvblBpY2tlckJvdHRvbXNoZWV0RGlhbG9nKAogICAgICAgICAgICAgICAgICAgICAgICBjb25maWcsIGxpc3RlbmVyCiAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5maW5kTmF2Q29udHJvbGxlcihSLmlkLmFjdGl2aXR5X21haW5fbmF2X2hvc3RfY29udGFpbmVyKQ==</text>
+        <text encoding="base64">b2JqZWN0IDogRHVyYXRpb25QaWNrZXJCb3R0b21zaGVldERpYWxvZy5MaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkR1cmF0aW9uU2VsZWN0ZWQoZHVyYXRpb25TZWNvbmRzOiBMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVyYXRpb25TZWNvbmRzLnRvSW50KCkubGV0IHsgbmV3SW50IC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1cGRhdGVQYWlyID0gcm93LnVwZGF0ZXIuZ2V0VXBkYXRhYmxlUGFpcihuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBlbmRpbmdEYXRhTWFwW3VwZGF0ZVBhaXIuZmlyc3RdID0gdXBkYXRlUGFpci5zZWNvbmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1JvdyA9IChjb250cm9sbGVyLmN1cnJlbnREYXRhISFbdGFibGVJbmRleF0ucm93c1tyb3dJbmRleF0udXBkYXRlciBhcyBFZGl0TWVhc3VyZW1lbnRzRXBveHlDb250cm9sbGVyLlJvd1VwZGF0ZXI8SW50PikuY29weShuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBuZXdEYXRhID0gY29udHJvbGxlci5jdXJyZW50RGF0YSEhLnRvTXV0YWJsZUxpc3QoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcm93cyA9IGdldCh0YWJsZUluZGV4KS5yb3dzLnRvTXV0YWJsZUxpc3QoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93c1tyb3dJbmRleF0gPSBuZXdSb3cKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgbmV3VGFibGUgPSB0aGlzW3RhYmxlSW5kZXhdLnVwZGF0ZXIuY29weShyb3dzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpc1t0YWJsZUluZGV4XSA9IG5ld1RhYmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlci5zZXREYXRhKG5ld0RhdGEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBmaW5kTmF2Q29udHJvbGxlcigp</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL3Rvb2Vhcmx5Ig==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5maW5kTmF2Q29udHJvbGxlcihSLmlkLmFjdGl2aXR5X21haW5fbmF2X2hvc3RfY29udGFpbmVyKQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBmaW5kTmF2Q29udHJvbGxlcigp</text>
+      </register>
+      <register name="8" type="4">
         <text>{
         return badge
     }</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>val spinnerDialog = ProgressBarDialogFragment.newInstance(R.string.UPLOADING_INFO).dialog?.apply {
                         isCancelable = false
                         show()
 //                        show(supportFragmentManager, &quot;spinner&quot;)
                     }</text>
-      </register>
-      <register name="8" type="2">
-        <text />
-      </register>
-      <register name="9" type="4">
-        <text>{
-        TODO(&quot;Not yet implemented&quot;)
-    }</text>
       </register>
     </registers>
   </component>
