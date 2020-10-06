@@ -67,18 +67,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/EditMeasurementsFragment.kt" timestamp="1601899508563">
-        <mark key="'" line="267" column="0" />
-        <mark key="[" line="238" column="35" />
-        <mark key="]" line="316" column="0" />
-        <mark key="." line="316" column="45" />
-        <mark key="^" line="316" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/build.gradle" timestamp="1601972228024">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="63" />
-        <mark key="^" line="49" column="68" />
-        <mark key="." line="49" column="63" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/build.gradle" timestamp="1601974055738">
+        <mark key="[" line="59" column="62" />
+        <mark key="]" line="59" column="62" />
+        <mark key="^" line="59" column="77" />
+        <mark key="." line="59" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Ticket.kt" timestamp="1601971473805">
         <mark key="[" line="12" column="13" />
@@ -92,25 +85,25 @@
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/util/ImageView+DataBinding.kt" timestamp="1601975807977">
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="12" column="46" />
+        <mark key="." line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/QuestionsFragment.kt" timestamp="1601969351397">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601972285830">
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601973626856">
         <mark key="[" line="55" column="41" />
         <mark key="]" line="55" column="41" />
         <mark key="^" line="55" column="41" />
         <mark key="." line="55" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601892406990">
-        <mark key="[" line="279" column="77" />
-        <mark key="]" line="279" column="77" />
-        <mark key="." line="279" column="77" />
-        <mark key="^" line="277" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/build.gradle" timestamp="1601900812563">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/build.gradle" timestamp="1601973547702">
+        <mark key="[" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Question.kt" timestamp="1601965873932">
         <mark key="[" line="74" column="77" />
@@ -118,8 +111,26 @@
         <mark key="^" line="93" column="17" />
         <mark key="." line="74" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601972348765">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1601975360188">
+        <mark key="[" line="72" column="56" />
+        <mark key="]" line="72" column="57" />
+        <mark key="." line="72" column="56" />
+        <mark key="^" line="72" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1601975694148">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/drawable/img_placeholder.xml" timestamp="1601975856026">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_tickets.xml" timestamp="1601973772457">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Answer.kt" timestamp="1601969088667">
         <mark key="[" line="58" column="17" />
@@ -132,13 +143,6 @@
         <mark key="]" line="25" column="45" />
         <mark key="." line="25" column="45" />
         <mark key="^" line="25" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/view_too_early.xml" timestamp="1601892382474">
-        <mark key="a" line="163" column="37" />
-        <mark key="[" line="168" column="73" />
-        <mark key="]" line="168" column="73" />
-        <mark key="^" line="163" column="38" />
-        <mark key="." line="168" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsViewModel.kt" timestamp="1601972047983">
         <mark key="'" line="88" column="93" />
@@ -153,10 +157,10 @@
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601904273695">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/activity_main.xml" timestamp="1601974203103">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/util/Document+LiveData.kt" timestamp="1601903663189">
         <mark key="[" line="25" column="41" />
@@ -164,8 +168,11 @@
         <mark key="." line="25" column="41" />
         <mark key="^" line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601972198708">
-        <mark key="[" line="12" column="52" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601975322498">
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -229,10 +236,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>tickets</text>
+        <text>200dp</text>
       </register>
       <register name="-" type="4">
-        <text>tickets</text>
+        <text>200dp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -240,38 +247,32 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGF1dGhvckltYWdlVXJsID0gc25hcC5nZXRTdHJpbmcoUXVlc3RlZWVlZWVlZWVlZWVlKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgZGF0YQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIC8+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYW1wc0dyYXBoRGlyZWN0aW9ucy5hY3Rpb25HbG9iYWxEdXJhdGlvblBpY2tlckJvdHRvbXNoZWV0RGlhbG9nKAogICAgICAgICAgICAgICAgICAgICAgICBjb25maWcsIGxpc3RlbmVyCiAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGF1dGhvckltYWdlVXJsID0gc25hcC5nZXRTdHJpbmcoUXVlc3RlZWVlZWVlZWVlZWVlKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">b2JqZWN0IDogRHVyYXRpb25QaWNrZXJCb3R0b21zaGVldERpYWxvZy5MaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkR1cmF0aW9uU2VsZWN0ZWQoZHVyYXRpb25TZWNvbmRzOiBMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVyYXRpb25TZWNvbmRzLnRvSW50KCkubGV0IHsgbmV3SW50IC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1cGRhdGVQYWlyID0gcm93LnVwZGF0ZXIuZ2V0VXBkYXRhYmxlUGFpcihuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBlbmRpbmdEYXRhTWFwW3VwZGF0ZVBhaXIuZmlyc3RdID0gdXBkYXRlUGFpci5zZWNvbmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1JvdyA9IChjb250cm9sbGVyLmN1cnJlbnREYXRhISFbdGFibGVJbmRleF0ucm93c1tyb3dJbmRleF0udXBkYXRlciBhcyBFZGl0TWVhc3VyZW1lbnRzRXBveHlDb250cm9sbGVyLlJvd1VwZGF0ZXI8SW50PikuY29weShuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBuZXdEYXRhID0gY29udHJvbGxlci5jdXJyZW50RGF0YSEhLnRvTXV0YWJsZUxpc3QoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcm93cyA9IGdldCh0YWJsZUluZGV4KS5yb3dzLnRvTXV0YWJsZUxpc3QoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93c1tyb3dJbmRleF0gPSBuZXdSb3cKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgbmV3VGFibGUgPSB0aGlzW3RhYmxlSW5kZXhdLnVwZGF0ZXIuY29weShyb3dzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpc1t0YWJsZUluZGV4XSA9IG5ld1RhYmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlci5zZXREYXRhKG5ld0RhdGEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIC8+</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL3Rvb2Vhcmx5Ig==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYW1wc0dyYXBoRGlyZWN0aW9ucy5hY3Rpb25HbG9iYWxEdXJhdGlvblBpY2tlckJvdHRvbXNoZWV0RGlhbG9nKAogICAgICAgICAgICAgICAgICAgICAgICBjb25maWcsIGxpc3RlbmVyCiAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5maW5kTmF2Q29udHJvbGxlcihSLmlkLmFjdGl2aXR5X21haW5fbmF2X2hvc3RfY29udGFpbmVyKQ==</text>
+        <text encoding="base64">b2JqZWN0IDogRHVyYXRpb25QaWNrZXJCb3R0b21zaGVldERpYWxvZy5MaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkR1cmF0aW9uU2VsZWN0ZWQoZHVyYXRpb25TZWNvbmRzOiBMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVyYXRpb25TZWNvbmRzLnRvSW50KCkubGV0IHsgbmV3SW50IC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1cGRhdGVQYWlyID0gcm93LnVwZGF0ZXIuZ2V0VXBkYXRhYmxlUGFpcihuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBlbmRpbmdEYXRhTWFwW3VwZGF0ZVBhaXIuZmlyc3RdID0gdXBkYXRlUGFpci5zZWNvbmQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1JvdyA9IChjb250cm9sbGVyLmN1cnJlbnREYXRhISFbdGFibGVJbmRleF0ucm93c1tyb3dJbmRleF0udXBkYXRlciBhcyBFZGl0TWVhc3VyZW1lbnRzRXBveHlDb250cm9sbGVyLlJvd1VwZGF0ZXI8SW50PikuY29weShuZXdJbnQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBuZXdEYXRhID0gY29udHJvbGxlci5jdXJyZW50RGF0YSEhLnRvTXV0YWJsZUxpc3QoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcm93cyA9IGdldCh0YWJsZUluZGV4KS5yb3dzLnRvTXV0YWJsZUxpc3QoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93c1tyb3dJbmRleF0gPSBuZXdSb3cKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgbmV3VGFibGUgPSB0aGlzW3RhYmxlSW5kZXhdLnVwZGF0ZXIuY29weShyb3dzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpc1t0YWJsZUluZGV4XSA9IG5ld1RhYmxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlci5zZXREYXRhKG5ld0RhdGEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBmaW5kTmF2Q29udHJvbGxlcigp</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBhcHA6bmF2R3JhcGg9IkBuYXZpZ2F0aW9uL3Rvb2Vhcmx5Ig==</text>
       </register>
       <register name="8" type="4">
-        <text>{
-        return badge
-    }</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5maW5kTmF2Q29udHJvbGxlcihSLmlkLmFjdGl2aXR5X21haW5fbmF2X2hvc3RfY29udGFpbmVyKQ==</text>
       </register>
       <register name="9" type="4">
-        <text>val spinnerDialog = ProgressBarDialogFragment.newInstance(R.string.UPLOADING_INFO).dialog?.apply {
-                        isCancelable = false
-                        show()
-//                        show(supportFragmentManager, &quot;spinner&quot;)
-                    }</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBmaW5kTmF2Q29udHJvbGxlcigp</text>
       </register>
     </registers>
   </component>
