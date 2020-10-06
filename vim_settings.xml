@@ -73,7 +73,7 @@
         <mark key="^" line="59" column="77" />
         <mark key="." line="59" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Ticket.kt" timestamp="1601971473805">
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Ticket.kt" timestamp="1601979168416">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
@@ -107,10 +107,10 @@
         <mark key="[" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1601978264139">
-        <mark key="[" line="119" column="34" />
-        <mark key="]" line="119" column="34" />
-        <mark key="." line="119" column="34" />
-        <mark key="^" line="54" column="37" />
+        <mark key="[" line="124" column="34" />
+        <mark key="]" line="124" column="34" />
+        <mark key="." line="124" column="34" />
+        <mark key="^" line="58" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/drawable/bg_sub_ticket.xml" timestamp="1601977876550">
         <mark key="[" line="5" column="27" />
@@ -153,11 +153,11 @@
         <mark key="]" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601978802003">
-        <mark key="[" line="29" column="86" />
-        <mark key="]" line="29" column="87" />
-        <mark key="^" line="29" column="87" />
-        <mark key="." line="29" column="86" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601979338161">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="30" column="87" />
+        <mark key="^" line="30" column="87" />
+        <mark key="." line="30" column="86" />
       </file>
     </filemarks>
     <jumps>
