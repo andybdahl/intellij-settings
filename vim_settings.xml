@@ -73,11 +73,11 @@
         <mark key="^" line="60" column="77" />
         <mark key="." line="60" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/model/Ticket.kt" timestamp="1601986962196">
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="94" column="40" />
-        <mark key="." line="94" column="40" />
-        <mark key="^" line="26" column="31" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1601990573032">
+        <mark key="[" line="279" column="77" />
+        <mark key="]" line="279" column="77" />
+        <mark key="." line="279" column="77" />
+        <mark key="^" line="277" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/build.gradle" timestamp="1601987165353">
         <mark key="[" line="12" column="56" />
@@ -85,18 +85,11 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime-ktx/2.3.0/4d2da12a557444e5706dd6ca99f059ec099a45de/navigation-runtime-ktx-2.3.0-sources.jar!/androidx/navigation/NavHost.kt" timestamp="1601988019851" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1601981319352">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="121" column="33" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1601990727766">
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="120" column="33" />
         <mark key="^" line="58" column="37" />
-        <mark key="." line="121" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/local.properties" timestamp="1601987071419" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/config/TicketsConfig.kt" timestamp="1601984124086">
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="31" column="7" />
+        <mark key="." line="120" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/package-info.java" timestamp="1601989155132">
         <mark key="[" line="2" column="47" />
@@ -111,44 +104,47 @@
         <mark key="]" line="33" column="28" />
         <mark key="." line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/util/ImageView+DataBinding.kt" timestamp="1601982117643">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="30" column="69" />
-        <mark key="." line="17" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1601987141372">
-        <mark key="[" line="55" column="41" />
-        <mark key="]" line="55" column="41" />
-        <mark key="^" line="55" column="41" />
-        <mark key="." line="55" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/navigation/tickets_graph.xml" timestamp="1601987399605">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_ticket_detail.xml" timestamp="1601987528386">
-        <mark key="[" line="3" column="40" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/4.1.0/8aefcacbd7cc6321f1480f5b26412ec431a75047/epoxy-4.1.0-sources.jar!/com/airbnb/epoxy/stickyheader/StickyHeaderLinearLayoutManager.kt" timestamp="1601989852090" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_ticket_detail.xml" timestamp="1601989930964">
+        <mark key="[" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/4.1.0/8aefcacbd7cc6321f1480f5b26412ec431a75047/epoxy-4.1.0-sources.jar!/com/airbnb/epoxy/TypedEpoxyController.java" timestamp="1601989230490" />
       <file name="/Dummy.txt" timestamp="1601987203990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/build.gradle" timestamp="1601987150698" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketDetailFragment.kt" timestamp="1601988186976">
-        <mark key="'" line="14" column="13" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="24" column="49" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_tickets.xml" timestamp="1601989929085">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.2.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.2.0-sources.jar!/androidx/lifecycle/MediatorLiveData.java" timestamp="1601990949292" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsViewModel.kt" timestamp="1601991270093">
+        <mark key="'" line="93" column="93" />
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="73" column="126" />
+        <mark key="^" line="73" column="17" />
+        <mark key="." line="73" column="126" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketDetailFragment.kt" timestamp="1601990506407">
+        <mark key="'" line="55" column="13" />
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="83" column="70" />
+        <mark key="." line="83" column="69" />
+        <mark key="^" line="83" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/epoxy_binding_sub_ticket_item.xml" timestamp="1601989189350">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601989572786">
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1601991445198">
         <mark key="[" line="46" column="24" />
         <mark key="]" line="22" column="8" />
         <mark key="^" line="16" column="113" />
@@ -217,10 +213,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IGxpc3RPZihpdCwgaXQuY29weSh0aWNrZXRUZXh0ID0gInRpY2tldCAke1JhbmRvbS5uZXh0SW50KDEwMCl9IikpIH0uZmxhdHRlbigp</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IGxpc3RPZihpdCwgaXQuY29weSh0aWNrZXRUZXh0ID0gInRpY2tldCAke1JhbmRvbS5uZXh0SW50KDEwMCl9IikpIH0uZmxhdHRlbigp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
