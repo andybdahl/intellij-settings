@@ -67,6 +67,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/styles.xml" timestamp="1602072912911">
+        <mark key="[" line="19" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/TicketsViewModel.kt" timestamp="1602069919976" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sub_ticket_item.xml" timestamp="1602071486292">
         <mark key="[" line="14" column="42" />
@@ -75,10 +78,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build/generated/source/navigation-args/debug/dk/makeable/askxdemo/ui/CreateTicketFragmentDirections.kt" timestamp="1602070392633" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build/generated/source/navigation-args/debug/dk/makeable/ticketlib/TicketsGraphDirections.kt" timestamp="1602070795790" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1602071633008">
-        <mark key="[" line="88" column="58" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1602073060722">
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="118" column="12" />
+        <mark key="." line="118" column="12" />
+        <mark key="^" line="42" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_tickets.xml" timestamp="1602072031705">
         <mark key="[" line="20" column="28" />
@@ -104,6 +108,9 @@
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1602072634992">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -168,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>@android:color/white</text>
+        <text>app</text>
       </register>
       <register name="-" type="4">
-        <text>@android:color/white</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
