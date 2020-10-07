@@ -70,13 +70,13 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_create_ticket.xml" timestamp="1602054759428">
         <mark key="[" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/build.gradle" timestamp="1602063945323">
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/build.gradle" timestamp="1602066953542">
         <mark key="[" line="65" column="20" />
         <mark key="]" line="60" column="62" />
         <mark key="^" line="60" column="77" />
         <mark key="." line="60" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/CreateTicketFragment.kt" timestamp="1602066532597">
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/CreateTicketFragment.kt" timestamp="1602066921325">
         <mark key="[" line="63" column="59" />
         <mark key="]" line="63" column="59" />
         <mark key="." line="63" column="59" />
@@ -100,6 +100,9 @@
         <mark key="[" line="47" column="20" />
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build.gradle" timestamp="1602066955682">
+        <mark key="[" line="33" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1602064389235">
         <mark key="[" line="34" column="36" />
@@ -130,7 +133,6 @@
         <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-adapters/4.0.1/bbab938bc84a5cc7b5e2adc3ecdf929f1e260787/databinding-adapters-4.0.1-sources.jar!/androidx/databinding/adapters/TextViewBindingAdapter.java" timestamp="1602065154094" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.2.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.2.0-sources.jar!/androidx/lifecycle/MediatorLiveData.java" timestamp="1601990949292" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsViewModel.kt" timestamp="1601992093673">
         <mark key="'" line="93" column="93" />
         <mark key="[" line="78" column="36" />
