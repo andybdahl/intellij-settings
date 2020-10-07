@@ -82,7 +82,6 @@
         <mark key="." line="279" column="77" />
         <mark key="^" line="277" column="59" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime-ktx/2.3.0/4d2da12a557444e5706dd6ca99f059ec099a45de/navigation-runtime-ktx-2.3.0-sources.jar!/androidx/navigation/NavHost.kt" timestamp="1601988019851" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/CreateTicketFragment.kt" timestamp="1602056387696">
         <mark key="[" line="55" column="7" />
         <mark key="]" line="28" column="43" />
@@ -94,6 +93,12 @@
         <mark key="]" line="34" column="38" />
         <mark key="^" line="34" column="38" />
         <mark key="." line="34" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/epoxy_binding_sender_identification_model.xml" timestamp="1602063355584">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/package-info.java" timestamp="1601989155132">
         <mark key="[" line="2" column="47" />
@@ -118,7 +123,7 @@
         <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/epoxy/4.1.0/8aefcacbd7cc6321f1480f5b26412ec431a75047/epoxy-4.1.0-sources.jar!/com/airbnb/epoxy/TypedEpoxyController.java" timestamp="1601989230490" />
-      <file name="/Dummy.txt" timestamp="1602054688843">
+      <file name="/Dummy.txt" timestamp="1602063060667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_tickets.xml" timestamp="1602055580385">
@@ -216,10 +221,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFNlbmRlcklkZW50aWZpY2F0aW9uRXh0cmFjdG9yID0g</text>
+        <text>TextWatcher</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFNlbmRlcklkZW50aWZpY2F0aW9uRXh0cmFjdG9yID0g</text>
+        <text>TextWatcher</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
