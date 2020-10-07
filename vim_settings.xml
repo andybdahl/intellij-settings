@@ -83,10 +83,11 @@
         <mark key="^" line="277" column="59" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime-ktx/2.3.0/4d2da12a557444e5706dd6ca99f059ec099a45de/navigation-runtime-ktx-2.3.0-sources.jar!/androidx/navigation/NavHost.kt" timestamp="1601988019851" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/CreateTicketFragment.kt" timestamp="1602054873859">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/CreateTicketFragment.kt" timestamp="1602056387696">
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="43" />
+        <mark key="^" line="28" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1602053977253">
         <mark key="[" line="32" column="21" />
@@ -120,7 +121,7 @@
       <file name="/Dummy.txt" timestamp="1602054688843">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_tickets.xml" timestamp="1602054768104">
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/layout/fragment_tickets.xml" timestamp="1602055580385">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="29" />
         <mark key="^" line="8" column="39" />
@@ -146,7 +147,7 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1602054793787">
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/ui/TicketsFragment.kt" timestamp="1602055626208">
         <mark key="[" line="46" column="24" />
         <mark key="]" line="22" column="8" />
         <mark key="^" line="16" column="113" />
@@ -215,10 +216,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text encoding="base64">IFNlbmRlcklkZW50aWZpY2F0aW9uRXh0cmFjdG9yID0g</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text encoding="base64">IFNlbmRlcklkZW50aWZpY2F0aW9uRXh0cmFjdG9yID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
