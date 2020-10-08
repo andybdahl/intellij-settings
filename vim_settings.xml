@@ -72,57 +72,60 @@
         <mark key="]" line="69" column="34" />
         <mark key="." line="69" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602144743797">
-        <mark key="[" line="132" column="16" />
-        <mark key="]" line="132" column="16" />
-        <mark key="." line="132" column="16" />
-        <mark key="^" line="113" column="20" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/Database.kt" timestamp="1602153638192">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/selector_color_ccent.xml" timestamp="1602140988432">
-        <mark key="[" line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/util/Extensions_Lifecycle.kt" timestamp="1602139966441">
-        <mark key="[" line="54" column="45" />
-        <mark key="]" line="54" column="45" />
-        <mark key="." line="54" column="45" />
-        <mark key="^" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/adapters/GuideAdapter.kt" timestamp="1602146428734" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/camps/MeasurementsStatusDialogFragment.kt" timestamp="1602148781908">
-        <mark key="[" line="125" column="40" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/build.gradle" timestamp="1602154065412" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1602152569720" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/4.0.1/21ba4bea48332decab2ce996a1160240ac36d335/databinding-runtime-4.0.1-sources.jar!/androidx/databinding/ObservableBoolean.java" timestamp="1602140558331" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1602153269827" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/dao/TrackingSubjectsDao.kt" timestamp="1602153996162">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1602154047780">
+        <mark key="[" line="58" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/MKDatabase.kt" timestamp="1602153625862">
+        <mark key="[" line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/util/BindingAdapters.kt" timestamp="1602152629103" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_DZApi.kt" timestamp="1602149960500" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/model/AnswerItem.kt" timestamp="1602146909673">
-        <mark key="[" line="48" column="50" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1602140967734">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/di/dbModule.kt" timestamp="1602153565707" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1602152534483">
         <mark key="^" line="95" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/views/ThemedWebViews.kt" timestamp="1602152934183">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/d38861c5e1656c5eb1890b1fa149510f38aa5d42/lifecycle-common-2.2.0-sources.jar!/androidx/lifecycle/Lifecycle.java" timestamp="1602139982514" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602153265232">
-        <mark key="[" line="85" column="107" />
-        <mark key="]" line="85" column="107" />
-        <mark key="." line="85" column="107" />
-        <mark key="^" line="85" column="92" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/AppModule.kt" timestamp="1602154120893">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/assets/Data/Locales/Danish.xml" timestamp="1602142065195" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/BaseDao.kt" timestamp="1602148938317">
-        <mark key="[" line="28" column="3" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602154643017">
+        <mark key="[" line="117" column="51" />
+        <mark key="]" line="117" column="51" />
+        <mark key="." line="117" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602149766596">
-        <mark key="[" line="11" column="63" />
-        <mark key="]" line="190" column="47" />
-        <mark key="." line="190" column="47" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/RoomDatabase.kt" timestamp="1602153633454">
+        <mark key="[" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/App.kt" timestamp="1602154148414">
+        <mark key="[" line="52" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/MKDatabase.kt" timestamp="1602153671342" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/BaseDao.kt" timestamp="1602154359195" />
+      <file name="/fragment.java" timestamp="1602153686211">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/model/TrackingSubjectSuggestion.kt" timestamp="1602153845122">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -189,10 +192,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>insert</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>insert</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
