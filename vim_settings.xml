@@ -73,10 +73,13 @@
         <mark key="." line="35" column="60" />
         <mark key="^" line="35" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/styles.xml" timestamp="1602076601345">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/styles.xml" timestamp="1602077634785">
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1602077619949">
+        <mark key="[" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d7d6871f786fb11186e0d688b493778/jetified-Matisse-v0.5.3-beta5/res/values/values.xml" timestamp="1602073841479" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sub_ticket_item.xml" timestamp="1602076747275">
@@ -85,7 +88,6 @@
         <mark key="." line="37" column="12" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build/generated/source/navigation-args/debug/dk/makeable/askxdemo/ui/CreateTicketFragmentDirections.kt" timestamp="1602070392633" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build/generated/source/navigation-args/debug/dk/makeable/ticketlib/TicketsGraphDirections.kt" timestamp="1602070795790" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1602076073549">
         <mark key="[" line="55" column="26" />
@@ -99,10 +101,10 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build.gradle" timestamp="1602071345442">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="4" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build.gradle" timestamp="1602077606231">
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="53" column="4" />
+        <mark key="." line="53" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/TicketsConfig.kt" timestamp="1602074734550">
         <mark key="[" line="40" column="0" />
@@ -110,8 +112,10 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sender_identification_model.xml" timestamp="1602077241909">
-        <mark key="[" line="25" column="42" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sender_identification_model.xml" timestamp="1602077533587">
+        <mark key="[" line="44" column="43" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="35" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602073577567" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1602074613837">
@@ -128,6 +132,7 @@
       <file name="/Dummy.txt" timestamp="1602072634992">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/layout/fragment_login.xml" timestamp="1602077499935" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -191,10 +196,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CallToAction</text>
+        <text>NoActionBar</text>
       </register>
       <register name="-" type="4">
-        <text>CallToAction</text>
+        <text>NoActionBar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
