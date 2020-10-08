@@ -117,7 +117,9 @@
         <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602073577567" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602137104077">
+        <mark key="[" line="47" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1602074613837">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="32" column="36" />
