@@ -72,10 +72,10 @@
         <mark key="]" line="62" column="32" />
         <mark key="." line="62" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602144026952">
-        <mark key="[" line="130" column="42" />
-        <mark key="]" line="130" column="42" />
-        <mark key="." line="130" column="42" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602144743797">
+        <mark key="[" line="132" column="16" />
+        <mark key="]" line="132" column="16" />
+        <mark key="." line="132" column="16" />
         <mark key="^" line="113" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/values/styles.xml" timestamp="1602077220564">
@@ -118,10 +118,10 @@
         <mark key="." line="94" column="34" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/d38861c5e1656c5eb1890b1fa149510f38aa5d42/lifecycle-common-2.2.0-sources.jar!/androidx/lifecycle/Lifecycle.java" timestamp="1602139982514" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602143851639">
-        <mark key="[" line="235" column="49" />
-        <mark key="]" line="102" column="97" />
-        <mark key="." line="102" column="97" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602144928027">
+        <mark key="[" line="255" column="17" />
+        <mark key="]" line="255" column="17" />
+        <mark key="." line="255" column="17" />
         <mark key="^" line="90" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/assets/Data/Locales/Danish.xml" timestamp="1602142065195" />
@@ -206,10 +206,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>LookingAround</text>
+        <text>.setOnClickLookingAround {</text>
       </register>
       <register name="-" type="4">
-        <text>LookingAround</text>
+        <text>.setOnClickLookingAround {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
