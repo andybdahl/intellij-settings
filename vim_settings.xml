@@ -67,10 +67,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602149934108">
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="69" column="34" />
-        <mark key="." line="69" column="34" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602156191151">
+        <mark key="[" line="109" column="58" />
+        <mark key="]" line="109" column="58" />
+        <mark key="." line="109" column="58" />
+        <mark key="^" line="109" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/Database.kt" timestamp="1602153638192">
         <mark key="[" line="14" column="26" />
@@ -192,10 +193,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>insert</text>
+        <text>iwwtrackingSubject</text>
       </register>
       <register name="-" type="4">
-        <text>insert</text>
+        <text>iwwtrackingSubject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
