@@ -67,10 +67,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602140337916">
-        <mark key="[" line="91" column="55" />
-        <mark key="]" line="91" column="55" />
-        <mark key="." line="91" column="55" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602142431039">
+        <mark key="[" line="131" column="136" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602139132699" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/values/styles.xml" timestamp="1602077220564">
@@ -113,18 +113,13 @@
         <mark key="." line="94" column="34" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/d38861c5e1656c5eb1890b1fa149510f38aa5d42/lifecycle-common-2.2.0-sources.jar!/androidx/lifecycle/Lifecycle.java" timestamp="1602139982514" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602140691998">
-        <mark key="[" line="96" column="97" />
-        <mark key="]" line="96" column="97" />
-        <mark key="." line="96" column="97" />
-        <mark key="^" line="85" column="56" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602142789542">
+        <mark key="[" line="93" column="44" />
+        <mark key="]" line="102" column="97" />
+        <mark key="." line="102" column="97" />
+        <mark key="^" line="90" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_tickets.xml" timestamp="1602076409085">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="19" column="40" />
-      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/assets/Data/Locales/Danish.xml" timestamp="1602142065195" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build.gradle" timestamp="1602077606231">
         <mark key="[" line="46" column="54" />
         <mark key="]" line="53" column="4" />
@@ -135,8 +130,10 @@
         <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602138034745">
-        <mark key="[" line="47" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602141593662">
+        <mark key="[" line="184" column="67" />
+        <mark key="]" line="189" column="47" />
+        <mark key="." line="189" column="47" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/d38861c5e1656c5eb1890b1fa149510f38aa5d42/lifecycle-common-2.2.0-sources.jar!/androidx/lifecycle/LifecycleObserver.java" timestamp="1602139791394" />
     </filemarks>
@@ -204,10 +201,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbnRpbnVlRW5hYmw=</text>
+        <text>val title: CharSequence, val hint: CharSequence, val save: CharSequence, val continueNoId: CharSequence</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbnRpbnVlRW5hYmw=</text>
+        <text>val title: CharSequence, val hint: CharSequence, val save: CharSequence, val continueNoId: CharSequence</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
