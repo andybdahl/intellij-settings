@@ -67,7 +67,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602148569402">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602149934108">
         <mark key="[" line="69" column="34" />
         <mark key="]" line="69" column="34" />
         <mark key="." line="69" column="34" />
@@ -100,38 +100,34 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1602077619949">
         <mark key="[" line="20" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_DZApi.kt" timestamp="1602149960500" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/model/AnswerItem.kt" timestamp="1602146909673">
         <mark key="[" line="48" column="50" />
       </file>
       <file name="/Dummy.txt" timestamp="1602140967734">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1602140529213">
-        <mark key="[" line="94" column="34" />
-        <mark key="]" line="94" column="35" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1602150180835">
+        <mark key="[" line="76" column="13" />
+        <mark key="]" line="76" column="13" />
         <mark key="^" line="94" column="35" />
-        <mark key="." line="94" column="34" />
+        <mark key="." line="76" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/d38861c5e1656c5eb1890b1fa149510f38aa5d42/lifecycle-common-2.2.0-sources.jar!/androidx/lifecycle/Lifecycle.java" timestamp="1602139982514" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602146266211">
-        <mark key="[" line="242" column="19" />
-        <mark key="]" line="255" column="17" />
-        <mark key="." line="255" column="17" />
-        <mark key="^" line="90" column="56" />
+        <mark key="[" line="231" column="19" />
+        <mark key="]" line="244" column="17" />
+        <mark key="." line="244" column="17" />
+        <mark key="^" line="79" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/assets/Data/Locales/Danish.xml" timestamp="1602142065195" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/domain/database/BaseDao.kt" timestamp="1602148938317">
         <mark key="[" line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build.gradle" timestamp="1602077606231">
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="53" column="4" />
-        <mark key="." line="53" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602141593662">
-        <mark key="[" line="184" column="67" />
-        <mark key="]" line="189" column="47" />
-        <mark key="." line="189" column="47" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602149766596">
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="190" column="47" />
+        <mark key="." line="190" column="47" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/d38861c5e1656c5eb1890b1fa149510f38aa5d42/lifecycle-common-2.2.0-sources.jar!/androidx/lifecycle/LifecycleObserver.java" timestamp="1602139791394" />
     </filemarks>
@@ -199,10 +195,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>private val answer: Answer</text>
+        <text>androidx.appcompat.widget.AppCompatEditTex</text>
       </register>
       <register name="-" type="4">
-        <text>private val answer: Answer</text>
+        <text>androidx.appcompat.widget.AppCompatEditTex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
