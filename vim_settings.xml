@@ -70,21 +70,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602166468016">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602226086819">
         <mark key="'" line="89" column="55" />
-        <mark key="[" line="76" column="68" />
-        <mark key="]" line="75" column="14" />
-        <mark key="." line="75" column="13" />
+        <mark key="[" line="72" column="59" />
+        <mark key="]" line="72" column="59" />
+        <mark key="." line="72" column="59" />
         <mark key="^" line="75" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602165177383">
-        <mark key="[" line="156" column="57" />
-        <mark key="]" line="156" column="57" />
-        <mark key="." line="156" column="57" />
-        <mark key="^" line="113" column="20" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602226393446">
+        <mark key="[" line="154" column="35" />
+        <mark key="]" line="154" column="35" />
+        <mark key="." line="154" column="35" />
+        <mark key="^" line="154" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/DZApi.kt" timestamp="1602157868133" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/ActivityCallbacks.kt" timestamp="1602157588571" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1602162221750">
+        <mark key="[" line="42" column="47" />
+        <mark key="^" line="96" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/AppModule.kt" timestamp="1602159217554">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/views/ThemedWebViews.kt" timestamp="1602163334459">
+        <mark key="[" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602226482349">
+        <mark key="d" line="287" column="75" />
+        <mark key="[" line="325" column="48" />
+        <mark key="]" line="325" column="48" />
+        <mark key="." line="325" column="48" />
+        <mark key="^" line="273" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/dao/TrackingSubjectsDao.kt" timestamp="1602160045411">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1602163557575">
         <mark key="[" line="212" column="60" />
         <mark key="]" line="212" column="60" />
@@ -93,37 +116,11 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/build.gradle" timestamp="1602156895655">
         <mark key="[" line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/AppModule.kt" timestamp="1602159217554">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" timestamp="1602158901912" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602165405718">
-        <mark key="[" line="287" column="63" />
-        <mark key="]" line="287" column="63" />
-        <mark key="." line="287" column="63" />
-        <mark key="^" line="285" column="40" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.2.0/87ad54b3a3ab3e83595fd66749e92beaf8123dd9/lifecycle-process-2.2.0-sources.jar!/androidx/lifecycle/ProcessLifecycleOwner.java" timestamp="1602159333851" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/App.kt" timestamp="1602159552296">
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/dao/TrackingSubjectsDao.kt" timestamp="1602160045411">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="5" />
-        <mark key="^" line="11" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/ThemedWebViews.kt" timestamp="1602163408478" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageFragment.kt" timestamp="1602163380716" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/assets/Data/Locales/English.xml" timestamp="1602166023315" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1602162221750">
-        <mark key="[" line="42" column="47" />
-        <mark key="^" line="96" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/views/ThemedWebViews.kt" timestamp="1602163334459">
-        <mark key="[" line="65" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/ThemedWebViews.kt" timestamp="1602226741929">
+        <mark key="[" line="35" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/fragment_guide.xml" timestamp="1602162360465">
         <mark key="[" line="74" column="57" />
@@ -196,10 +193,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>GUI_Survey_Title</text>
+        <text encoding="base64">IH0uc2V0T25DbGlja0lnbm9yZSB7</text>
       </register>
       <register name="-" type="4">
-        <text>GUI_Survey_Title</text>
+        <text encoding="base64">IH0uc2V0T25DbGlja0lnbm9yZSB7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
