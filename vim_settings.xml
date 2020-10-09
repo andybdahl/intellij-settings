@@ -70,24 +70,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602229099855">
-        <mark key="[" line="132" column="49" />
-        <mark key="]" line="132" column="49" />
-        <mark key="." line="132" column="49" />
-        <mark key="^" line="153" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_wrong_guide.xml" timestamp="1602229131396">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/dateutils/build.gradle" timestamp="1602230671941" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/util/Extensions_Lifecycle.kt" timestamp="1602229817394" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/util/Extensions_Lifecycle.kt" timestamp="1602233502862" />
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/values/dimens.xml" timestamp="1602231612193" />
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindingAdapters_ImageView.kt" timestamp="1602231375376" />
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindingAdapters_ImageView.kt" timestamp="1602233343063" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1602231941014" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/ActivityCallbacks.kt" timestamp="1602229618618">
         <mark key="[" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1602233589199">
+        <mark key="[" line="249" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/generalutils/src/main/java/dk/makeable/generalutils/GeneralUtils.kt" timestamp="1602230300196" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/ThemedWebViews.kt" timestamp="1602232443008">
@@ -102,17 +94,19 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/drawable/ic_looking.xml" timestamp="1602229169684">
         <mark key="[" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/util/Extensions_AssetPicker.kt" timestamp="1602228134184">
-        <mark key="[" line="35" column="79" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/AppOwner.kt" timestamp="1602234864036">
+        <mark key="[" line="81" column="88" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/views/ThemedWebViews.kt" timestamp="1602228113089">
-        <mark key="[" line="310" column="12" />
-        <mark key="]" line="310" column="12" />
-        <mark key="." line="310" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/AppOwner.kt" timestamp="1602229712241" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindgigAdapters.kt" timestamp="1602231464230" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-adapters/4.0.1/bbab938bc84a5cc7b5e2adc3ecdf929f1e260787/databinding-adapters-4.0.1-sources.jar!/androidx/databinding/adapters/TextViewBindingAdapter.java" timestamp="1602230408880" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.2.0/87ad54b3a3ab3e83595fd66749e92beaf8123dd9/lifecycle-process-2.2.0-sources.jar!/androidx/lifecycle/ProcessLifecycleOwner.java" timestamp="1602233557934" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/App.kt" timestamp="1602234516444">
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="85" column="8" />
+        <mark key="." line="85" column="8" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -181,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>normal</text>
+        <text>Timber.d(</text>
       </register>
       <register name="-" type="4">
-        <text>normal</text>
+        <text>Timber.d(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -192,40 +186,43 @@
       <register name="0" type="4">
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBmdW4gdGh1bWJzRG93bkJ1dHRvbigpOiBCdXR0b25Db25maWc/ID0gbnVsbCAvLyBDdXJyZW50bHkgbm90IHVzZWQKICAgICAgICBmdW4gZXllQnV0dG9uKGFuc3dlclR5cGU6IEFuc3dlclR5cGUpOiBCdXR0b25Db25maWc/ID0gd2hlbihhbnN3ZXJUeXBlKSB7CiAgICAgICAgICAgIEFuc3dlclR5cGUuQUNUSU9OIC0+IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfSnVzdEFUZXN0KCkpKSB7CiAgICAgICAgICAgICAgICBEWkFwaS5yb290LmVuZ2luZUNvbnRyb2xsZXIuZHJvcFNlc3Npb24oKQogICAgICAgICAgICB9CiAgICAgICAgICAgIEFuc3dlclR5cGUuUFJPR1JFU1MsIEFuc3dlclR5cGUuUVVFU1RJT04gLT4gQnV0dG9uQ29uZmlnKERaQXBpLmdldFN0cmluZyhMb2NhbGVUYWcuR1VJX1N1cnZleV9Xcm9uZ0d1aWRlKCkpKSB7CiAgICAgICAgICAgICAgICBEWkFwaS5yb290LmVuZ2luZUNvbnRyb2xsZXIuZHJvcFNlc3Npb24oKQo=</text>
+      <register name="1" type="4">
+        <text>fun a() {
+        ProcessLifecycleOwner.get()
+            .lifecycle
+            .on
+
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBmdW4gdGh1bWJzRG93bkJ1dHRvbigpOiBCdXR0b25Db25maWc/ID0gbnVsbCAvLyBDdXJyZW50bHkgbm90IHVzZWQKICAgICAgICBmdW4gZXllQnV0dG9uKGFuc3dlclR5cGU6IEFuc3dlclR5cGUpOiBCdXR0b25Db25maWc/ID0gd2hlbihhbnN3ZXJUeXBlKSB7CiAgICAgICAgICAgIEFuc3dlclR5cGUuQUNUSU9OIC0+IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfSnVzdEFUZXN0KCkpKSB7CiAgICAgICAgICAgICAgICBEWkFwaS5yb290LmVuZ2luZUNvbnRyb2xsZXIuZHJvcFNlc3Npb24oKQogICAgICAgICAgICB9CiAgICAgICAgICAgIEFuc3dlclR5cGUuUFJPR1JFU1MsIEFuc3dlclR5cGUuUVVFU1RJT04gLT4gQnV0dG9uQ29uZmlnKERaQXBpLmdldFN0cmluZyhMb2NhbGVUYWcuR1VJX1N1cnZleV9Xcm9uZ0d1aWRlKCkpKSB7CiAgICAgICAgICAgICAgICBEWkFwaS5yb290LmVuZ2luZUNvbnRyb2xsZXIuZHJvcFNlc3Npb24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IzAwMDAwMDAwMDAwMDAwMDAK</text>
+        <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>thumbsDownBtn
-thumbsDownBtn
-thumbsDownBtn</text>
+      <register name="5" type="2">
+        <text encoding="base64">IzAwMDAwMDAwMDAwMDAwMDAK</text>
       </register>
       <register name="6" type="8">
         <text>thumbsDownBtn
 thumbsDownBtn
 thumbsDownBtn</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="8">
+        <text>thumbsDownBtn
+thumbsDownBtn
+thumbsDownBtn</text>
+      </register>
+      <register name="8" type="4">
         <text>{ // QUESTION
 
             }</text>
       </register>
-      <register name="8" type="4">
-        <text>{ // PROGRESS
-            }</text>
-      </register>
       <register name="9" type="4">
-        <text>{ // ACTION
-                AnswerType.ACTION
+        <text>{ // PROGRESS
             }</text>
       </register>
     </registers>
