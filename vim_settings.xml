@@ -86,6 +86,7 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/metricorr-android/app/src/main/res/values/dimens.xml" timestamp="1602231612193" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindingAdapters_ImageView.kt" timestamp="1602233343063" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/util/databinding/BindingAdapters.kt" timestamp="1602231941014" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/styles.xml" timestamp="1602244578582" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/views/ThemedWebViews.kt" timestamp="1602232443008">
         <mark key="[" line="35" column="68" />
       </file>
@@ -94,7 +95,6 @@
         <mark key="]" line="72" column="37" />
         <mark key="." line="72" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/dateutils/src/main/java/com/dantracker/app/dateutils/DateUtils.kt" timestamp="1602230653341" />
       <file name="/fragment.kt" timestamp="1602239094964">
         <mark key="[" line="0" column="0" />
       </file>
