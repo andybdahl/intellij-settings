@@ -111,6 +111,7 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindgigAdapters.kt" timestamp="1602231464230" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.2.0/87ad54b3a3ab3e83595fd66749e92beaf8123dd9/lifecycle-process-2.2.0-sources.jar!/androidx/lifecycle/ProcessLifecycleOwner.java" timestamp="1602233557934" />
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/generalutils/src/main/java/dk/makeable/generalutils/Extensions_Lifecycle.kt" timestamp="1602246577976" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/App.kt" timestamp="1602234516444">
         <mark key="[" line="85" column="8" />
         <mark key="]" line="85" column="8" />
