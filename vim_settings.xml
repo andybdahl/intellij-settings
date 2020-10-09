@@ -77,11 +77,11 @@
         <mark key="." line="72" column="59" />
         <mark key="^" line="75" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602227243285">
-        <mark key="[" line="170" column="47" />
-        <mark key="]" line="154" column="35" />
-        <mark key="." line="154" column="35" />
-        <mark key="^" line="154" column="45" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602227677537">
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="153" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_input_machine_id.xml" timestamp="1602162221750">
         <mark key="[" line="42" column="47" />
@@ -95,12 +95,12 @@
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/views/ThemedWebViews.kt" timestamp="1602163334459">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602227218146">
-        <mark key="d" line="287" column="75" />
-        <mark key="[" line="299" column="47" />
-        <mark key="]" line="325" column="48" />
-        <mark key="." line="325" column="48" />
-        <mark key="^" line="273" column="20" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602227777550">
+        <mark key="d" line="290" column="75" />
+        <mark key="[" line="118" column="28" />
+        <mark key="]" line="328" column="48" />
+        <mark key="." line="328" column="48" />
+        <mark key="^" line="276" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/domain/database/dao/TrackingSubjectsDao.kt" timestamp="1602160045411">
         <mark key="[" line="9" column="8" />
@@ -193,10 +193,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IH0uc2V0T25DbGlja0lnbm9yZSB7</text>
+        <text>content_spacing_normal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IH0uc2V0T25DbGlja0lnbm9yZSB7</text>
+        <text>content_spacing_normal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
