@@ -98,7 +98,8 @@
       <file name="/fragment.kt" timestamp="1602239094964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602239127367">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/AndroidManifest.xml" timestamp="1602240677069" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602241622492">
         <mark key="[" line="98" column="52" />
         <mark key="]" line="98" column="52" />
         <mark key="." line="98" column="52" />
@@ -109,7 +110,6 @@
         <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/bindingadapters/src/main/java/dk/makeable/bindingadapters/BindgigAdapters.kt" timestamp="1602231464230" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-adapters/4.0.1/bbab938bc84a5cc7b5e2adc3ecdf929f1e260787/databinding-adapters-4.0.1-sources.jar!/androidx/databinding/adapters/TextViewBindingAdapter.java" timestamp="1602230408880" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.2.0/87ad54b3a3ab3e83595fd66749e92beaf8123dd9/lifecycle-process-2.2.0-sources.jar!/androidx/lifecycle/ProcessLifecycleOwner.java" timestamp="1602233557934" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/App.kt" timestamp="1602234516444">
         <mark key="[" line="85" column="8" />
