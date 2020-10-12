@@ -96,12 +96,12 @@
         <mark key="]" line="91" column="42" />
         <mark key="." line="91" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/CreateTicketViewModel.kt" timestamp="1602497472928">
-        <mark key="'" line="27" column="49" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="39" column="29" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/CreateTicketViewModel.kt" timestamp="1602497481803">
+        <mark key="'" line="28" column="49" />
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="40" />
+        <mark key="^" line="28" column="33" />
+        <mark key="." line="50" column="40" />
       </file>
       <file name="/fragment.kt" timestamp="1602493742657">
         <mark key="[" line="0" column="35" />
@@ -214,10 +214,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
