@@ -107,10 +107,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-ktx/app/.gitignore" timestamp="1602247425062" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-ktx/app/src/main/java/dk/makeable/androidktxsample/MainActivity.kt" timestamp="1602247555747" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/TicketsConfig.kt" timestamp="1602491125098">
-        <mark key="[" line="46" column="38" />
-        <mark key="]" line="46" column="38" />
-        <mark key="." line="46" column="38" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/TicketsConfig.kt" timestamp="1602492014053">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="65" column="33" />
+        <mark key="." line="65" column="33" />
+        <mark key="^" line="32" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sender_identification_model.xml" timestamp="1602490722852">
         <mark key="[" line="28" column="28" />
@@ -200,10 +201,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CharSequence</text>
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>CharSequence</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
@@ -212,6 +213,16 @@
         <text encoding="base64">KG1zZzogTWVzc2FnZSkgLT4gVW5pdCw=</text>
       </register>
       <register name="1" type="4">
+        <text>{
+            TODO(&quot;Not yet implemented&quot;)
+        }</text>
+      </register>
+      <register name="2" type="4">
+        <text>{
+            TODO(&quot;Not yet implemented&quot;)
+        }</text>
+      </register>
+      <register name="3" type="4">
         <text>fun a() {
         ProcessLifecycleOwner.get()
             .lifecycle
@@ -219,36 +230,27 @@
 
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBmdW4gdGh1bWJzRG93bkJ1dHRvbigpOiBCdXR0b25Db25maWc/ID0gbnVsbCAvLyBDdXJyZW50bHkgbm90IHVzZWQKICAgICAgICBmdW4gZXllQnV0dG9uKGFuc3dlclR5cGU6IEFuc3dlclR5cGUpOiBCdXR0b25Db25maWc/ID0gd2hlbihhbnN3ZXJUeXBlKSB7CiAgICAgICAgICAgIEFuc3dlclR5cGUuQUNUSU9OIC0+IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfSnVzdEFUZXN0KCkpKSB7CiAgICAgICAgICAgICAgICBEWkFwaS5yb290LmVuZ2luZUNvbnRyb2xsZXIuZHJvcFNlc3Npb24oKQogICAgICAgICAgICB9CiAgICAgICAgICAgIEFuc3dlclR5cGUuUFJPR1JFU1MsIEFuc3dlclR5cGUuUVVFU1RJT04gLT4gQnV0dG9uQ29uZmlnKERaQXBpLmdldFN0cmluZyhMb2NhbGVUYWcuR1VJX1N1cnZleV9Xcm9uZ0d1aWRlKCkpKSB7CiAgICAgICAgICAgICAgICBEWkFwaS5yb290LmVuZ2luZUNvbnRyb2xsZXIuZHJvcFNlc3Npb24oKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmdW4gdGh1bWJzVXBCdXR0b24oKTogQnV0dG9uQ29uZmlnPyA9IEJ1dHRvbkNvbmZpZyhEWkFwaS5nZXRTdHJpbmcoTG9jYWxlVGFnLkdVSV9TdXJ2ZXlfU29sdmVkKCkpKSB7CiAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5jdXJyZW50U3RlcCgpLmFuc3dlcnM/LmZpcnN0T3JOdWxsIHsgaXQudHlwZSA9PSBjb20uZGV6aWRlLmxndGNvcmUuQW5zd2VyVHlwZS5BQ1RJT05fQU5TV0VSX1lFUyB9Py5sZXQgeyB5ZXNBbnN3ZXIgLT4KICAgICAgICAgICAgICAgIERaQXBpLnJvb3QuZW5naW5lQ29udHJvbGxlci5maW5kTW9zdEVmZmljaWVudFN0ZXAoeWVzQW5zd2VyKQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IzAwMDAwMDAwMDAwMDAwMDAK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>thumbsDownBtn
 thumbsDownBtn
 thumbsDownBtn</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>thumbsDownBtn
 thumbsDownBtn
 thumbsDownBtn</text>
-      </register>
-      <register name="8" type="4">
-        <text>{ // QUESTION
-
-            }</text>
-      </register>
-      <register name="9" type="4">
-        <text>{ // PROGRESS
-            }</text>
       </register>
     </registers>
   </component>
