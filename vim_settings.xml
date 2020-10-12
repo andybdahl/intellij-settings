@@ -76,11 +76,11 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1602508335264">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="37" column="81" />
-        <mark key="." line="37" column="81" />
-        <mark key="^" line="27" column="15" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/java/dk/makeable/askxdemo/MainActivity.kt" timestamp="1602510130757">
+        <mark key="[" line="45" column="50" />
+        <mark key="]" line="45" column="50" />
+        <mark key="." line="45" column="50" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/colors.xml" timestamp="1602507937490" />
       <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/attendee/AttendeeRecordActivityViewModel.kt" timestamp="1602505706625" />
@@ -109,11 +109,6 @@
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/model/Ticket.kt" timestamp="1602500391747">
-        <mark key="[" line="70" column="38" />
-        <mark key="]" line="70" column="38" />
-        <mark key="." line="70" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/CreateTicketViewModel.kt" timestamp="1602502706898">
         <mark key="[" line="41" column="89" />
         <mark key="]" line="38" column="63" />
@@ -130,10 +125,15 @@
         <mark key="]" line="134" column="33" />
         <mark key="." line="134" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_tickets.xml" timestamp="1602510183902">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/util/Query+LiveData.kt" timestamp="1602500624147">
         <mark key="[" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/TicketsConfig.kt" timestamp="1602508528721">
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/TicketsConfig.kt" timestamp="1602510118719">
         <mark key="[" line="132" column="83" />
         <mark key="]" line="132" column="83" />
         <mark key="." line="132" column="83" />
@@ -216,10 +216,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;Tilføj billede&quot;</text>
+        <text>?attr/actionBarSize</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Tilføj billede&quot;</text>
+        <text>?attr/actionBarSize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
