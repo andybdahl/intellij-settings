@@ -75,27 +75,19 @@
         <mark key="]" line="138" column="54" />
         <mark key="." line="138" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602237171698">
-        <mark key="[" line="161" column="28" />
-        <mark key="]" line="161" column="28" />
-        <mark key="^" line="134" column="45" />
-        <mark key="." line="161" column="28" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/styles.xml" timestamp="1602490597393">
+        <mark key="[" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/styles.xml" timestamp="1602490490338">
-        <mark key="[" line="28" column="48" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_ticket_image_selection_model.xml" timestamp="1602490714542">
+        <mark key="[" line="25" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-ktx/android-epoxy-ktx/build.gradle" timestamp="1602483977491">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_ticket_detail.xml" timestamp="1602490365075">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-      </file>
-      <file name="/fragment.kt" timestamp="1602239094964">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/strings.xml" timestamp="1602490844447">
+        <mark key="[" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/AndroidManifest.xml" timestamp="1602240677069" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_create_ticket.xml" timestamp="1602490374858">
@@ -108,32 +100,37 @@
         <mark key="]" line="98" column="52" />
         <mark key="." line="98" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/di/AppOwner.kt" timestamp="1602234864036">
-        <mark key="[" line="81" column="88" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_tickets.xml" timestamp="1602490357178">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.2.0/87ad54b3a3ab3e83595fd66749e92beaf8123dd9/lifecycle-process-2.2.0-sources.jar!/androidx/lifecycle/ProcessLifecycleOwner.java" timestamp="1602233557934" />
-      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/generalutils/src/main/java/dk/makeable/generalutils/Extensions_Lifecycle.kt" timestamp="1602246577976" />
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-ktx/app/.gitignore" timestamp="1602247425062" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/App.kt" timestamp="1602234516444">
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="85" column="8" />
-        <mark key="." line="85" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-ktx/app/src/main/java/dk/makeable/androidktxsample/MainActivity.kt" timestamp="1602247555747" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build/intermediates/packaged_res/debug/values/values.xml" timestamp="1602490404782">
-        <mark key="[" line="2" column="48" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/TicketsConfig.kt" timestamp="1602491125098">
+        <mark key="[" line="46" column="38" />
+        <mark key="]" line="46" column="38" />
+        <mark key="." line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sender_identification_model.xml" timestamp="1602489866404">
-        <mark key="[" line="24" column="53" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sender_identification_model.xml" timestamp="1602490722852">
+        <mark key="[" line="28" column="28" />
         <mark key="]" line="37" column="29" />
         <mark key="." line="37" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/TicketsFragment.kt" timestamp="1602491014508">
+        <mark key="[" line="65" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_ticket_detail.xml" timestamp="1602490365075">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1602490837140">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Frameworks/Android/android-utils/generalutils/src/main/java/dk/makeable/generalutils/Extensions_Lifecycle.kt" timestamp="1602246577976" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build/intermediates/packaged_res/debug/values/values.xml" timestamp="1602490404782">
+        <mark key="[" line="2" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -203,10 +200,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kcm9pZDpiYWNrZ3JvdW5kPSIjRDhEOEQ4IiA=</text>
+        <text>CharSequence</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kcm9pZDpiYWNrZ3JvdW5kPSIjRDhEOEQ4IiA=</text>
+        <text>CharSequence</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
