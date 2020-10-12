@@ -70,10 +70,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602238014314">
-        <mark key="[" line="141" column="36" />
-        <mark key="]" line="87" column="96" />
-        <mark key="." line="87" column="96" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" timestamp="1602487694846">
+        <mark key="[" line="138" column="54" />
+        <mark key="]" line="138" column="54" />
+        <mark key="." line="138" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/layout/dialog_exit_survey.xml" timestamp="1602237171698">
         <mark key="[" line="161" column="28" />
@@ -98,7 +98,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/AndroidManifest.xml" timestamp="1602240677069" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602241622492">
+      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/ui/fragments/guide/GuideFragment.kt" timestamp="1602487620316">
         <mark key="[" line="98" column="52" />
         <mark key="]" line="98" column="52" />
         <mark key="." line="98" column="52" />
@@ -185,10 +185,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>epoxyVersion</text>
+        <text>().modifyCurrentSubject</text>
       </register>
       <register name="-" type="4">
-        <text>epoxyVersion</text>
+        <text>().modifyCurrentSubject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
