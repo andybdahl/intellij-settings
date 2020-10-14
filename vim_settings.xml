@@ -70,6 +70,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/listing/WorkoutVideoListingFragment.kt" timestamp="1602676066884">
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="22" />
+        <mark key="." line="83" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/app/src/main/res/values/styles.xml" timestamp="1602570964442">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="44" />
@@ -82,14 +87,14 @@
         <mark key="." line="45" column="50" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/colors.xml" timestamp="1602507937490" />
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/viewmodels/attendee/AttendeeRecordActivityViewModel.kt" timestamp="1602505706625" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/detail/WorkoutVideoDetailFragment.kt" timestamp="1602676121234">
+        <mark key="[" line="34" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/values/styles.xml" timestamp="1602662199503">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/build.gradle" timestamp="1602507867833" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/TicketsFragment.kt" timestamp="1602664710723">
         <mark key="[" line="118" column="42" />
         <mark key="]" line="118" column="42" />
@@ -101,37 +106,34 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_ticket_detail.xml" timestamp="1602506145872">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/strings.xml" timestamp="1602675002191">
+        <mark key="[" line="439" column="322" />
+      </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/layout/epoxy_binding_quick_purchase_item.xml" timestamp="1602674867343">
+        <mark key="[" line="98" column="52" />
+        <mark key="]" line="98" column="52" />
+        <mark key="." line="98" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/model/Ticket.kt" timestamp="1602577277717">
         <mark key="[" line="70" column="38" />
         <mark key="]" line="70" column="38" />
         <mark key="." line="70" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/CreateTicketViewModel.kt" timestamp="1602502706898">
-        <mark key="[" line="41" column="89" />
-        <mark key="]" line="38" column="63" />
-        <mark key="^" line="38" column="63" />
-        <mark key="." line="38" column="62" />
+      <file name="/fragment.kt" timestamp="1602675842422">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/CreateTicketFragment.kt" timestamp="1602508605635">
         <mark key="[" line="74" column="18" />
         <mark key="]" line="74" column="18" />
         <mark key="." line="74" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_main_ticket_item.xml" timestamp="1602503140270">
-        <mark key="[" line="134" column="33" />
-        <mark key="]" line="134" column="33" />
-        <mark key="." line="134" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/fragment_tickets.xml" timestamp="1602510183902">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values-da/strings.xml" timestamp="1602675015637" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/mvp/workoutvideos/all/WorkoutVideosPresenterImpl.kt" timestamp="1602675859573" />
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/build/intermediates/packaged_res/debug/values/values.xml" timestamp="1602570063741">
         <mark key="[" line="2" column="48" />
       </file>
@@ -141,14 +143,17 @@
         <mark key="." line="132" column="83" />
         <mark key="^" line="119" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/res/values/styles.xml" timestamp="1602507832838" />
       <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/dimens.xml" timestamp="1602507945239" />
+      <file name="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" timestamp="1602675558423">
+        <mark key="[" line="138" column="8" />
+        <mark key="]" line="138" column="8" />
+        <mark key="." line="138" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/res/layout/epoxy_binding_sender_identification_model.xml" timestamp="1602508921328">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="37" column="29" />
         <mark key="." line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/res/values/styles.xml" timestamp="1602507896763" />
     </filemarks>
     <jumps>
       <jump line="122" column="23" filename="$USER_HOME$/Documents/Makeable/Android/sund-med-wulff-android/app/build.gradle" />
@@ -213,15 +218,16 @@
       <jump line="85" column="32" filename="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" />
       <jump line="88" column="55" filename="$USER_HOME$/Documents/Makeable/Android/dezide-android/app/src/main/java/dk/makeable/dezide/dezide_api/extensions/Extensions_GuideFragment.kt" />
       <jump line="23" column="49" filename="$USER_HOME$/Documents/Makeable/Android/ask-x-demo-android/ticketlib/src/main/java/dk/makeable/ticketlib/ui/CreateTicketViewModel.kt" />
+      <jump line="76" column="36" filename="$USER_HOME$/Documents/Makeable/Android/mk-universet-app-2-0-android/app/src/main/java/dk/makeable/cookbook/ui/fragments/items/ItemPageViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?attr/actionBarSize</text>
+        <text encoding="base64">bmF2QXJnczxXb3Jrb3V0VmlkZW9MaXN0aW5nRnJhZ21lbnRBcmdzPigpLnZhbHVl</text>
       </register>
       <register name="-" type="4">
-        <text>?attr/actionBarSize</text>
+        <text encoding="base64">bmF2QXJnczxXb3Jrb3V0VmlkZW9MaXN0aW5nRnJhZ21lbnRBcmdzPigpLnZhbHVl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw9XD4=</text>
