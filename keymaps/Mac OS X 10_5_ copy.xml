@@ -13,6 +13,9 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="AndroidExtractStyleAction">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
