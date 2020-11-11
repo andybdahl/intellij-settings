@@ -16,6 +16,9 @@
   <action id="AndroidExtractStyleAction">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
