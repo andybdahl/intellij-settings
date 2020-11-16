@@ -59,6 +59,9 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
   <action id="StringManipulation.ToPascalCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="alt dollar" />
   </action>
@@ -78,9 +81,15 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleBookmark7" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl meta alt o_with_slash" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl meta alt minus" />
   </action>
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="shift alt f5" />
