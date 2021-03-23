@@ -7,6 +7,8 @@
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateTODOToolWindow" />
+  <action id="Android.Designer.IssueNotificationAction" />
+  <action id="Android.Designer.ToggleDeviceOrientation" />
   <action id="Android.GenerateSignedApk">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
