@@ -43,6 +43,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="GotoBookmark7" />
+  <action id="GotoRelated" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
@@ -54,8 +55,20 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
