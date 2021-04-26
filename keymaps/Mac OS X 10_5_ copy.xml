@@ -51,6 +51,9 @@
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="IntroduceActionsGroup">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
