@@ -3,7 +3,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-sw600dp/fragment_epg_daily.xml" value="0.26484375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_series_detail.xml" value="0.401953125" />
+        <entry key="app/src/main/res/layout/fragment_epg_daily.xml" value="0.353125" />
         <entry key="app/src/main/res/layout/fragment_series_detail.xml" value="0.5190217391304348" />
         <entry key="app/src/main/res/layout/series_episode_item.xml" value="0.5359375" />
       </map>
