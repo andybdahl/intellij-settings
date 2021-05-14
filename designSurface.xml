@@ -3,11 +3,24 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-sw600dp/epg_base_layout.xml" value="0.24609375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_epg_daily.xml" value="0.26484375" />
+        <entry key="app/src/main/res/layout-sw600dp/fragment_epg_filter.xml" value="0.24609375" />
+        <entry key="app/src/main/res/layout-sw600dp/fragment_epg_generic_filter_list.xml" value="0.24609375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_series_detail.xml" value="0.401953125" />
+        <entry key="app/src/main/res/layout/epg_base_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_epg_daily.xml" value="0.353125" />
+        <entry key="app/src/main/res/layout/fragment_epg_filter.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_epg_generic_filter_list.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_epg_live.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_search_results.xml" value="0.328125" />
         <entry key="app/src/main/res/layout/fragment_series_detail.xml" value="0.5190217391304348" />
         <entry key="app/src/main/res/layout/series_episode_item.xml" value="0.5359375" />
+        <entry key="app/src/simba/res/layout-sw600dp/fragment_epg_daily.xml" value="0.1" />
+        <entry key="app/src/simba/res/layout/fragment_epg_daily.xml" value="0.1" />
+        <entry key="app/src/simba/res/layout/fragment_epg_live.xml" value="0.1" />
+        <entry key="app/src/simba/res/layout/fragment_search_results.xml" value="0.328125" />
       </map>
     </option>
   </component>
