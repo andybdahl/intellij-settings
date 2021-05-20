@@ -7,7 +7,7 @@
         <entry key="app/src/main/res/layout-sw600dp/fragment_epg_daily.xml" value="0.26484375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_epg_filter.xml" value="0.24609375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_epg_generic_filter_list.xml" value="0.24609375" />
-        <entry key="app/src/main/res/layout-sw600dp/fragment_movie_detail.xml" value="0.265234375" />
+        <entry key="app/src/main/res/layout-sw600dp/fragment_movie_detail.xml" value="0.40234375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_series_detail.xml" value="0.401953125" />
         <entry key="app/src/main/res/layout/epg_base_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_epg_daily.xml" value="0.353125" />
