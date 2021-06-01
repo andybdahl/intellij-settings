@@ -14,6 +14,7 @@
         <entry key="app/src/main/res/layout/fragment_epg_filter.xml" value="0.328125" />
         <entry key="app/src/main/res/layout/fragment_epg_generic_filter_list.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/fragment_epg_live.xml" value="0.328125" />
+        <entry key="app/src/main/res/layout/fragment_favorite_lists.xml" value="0.5223958333333333" />
         <entry key="app/src/main/res/layout/fragment_forgot_password_bottom_sheet.xml" value="0.2708333333333333" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.328125" />
         <entry key="app/src/main/res/layout/fragment_movie_detail.xml" value="0.3945578231292517" />
@@ -26,6 +27,8 @@
         <entry key="app/src/main/res/layout/view_content_item_landscape.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_content_item_movie.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/view_content_item_portrait.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.346875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.346875" />
         <entry key="app/src/simba/res/layout-sw600dp/fragment_epg_daily.xml" value="0.1" />
         <entry key="app/src/simba/res/layout/fragment_epg_daily.xml" value="0.1" />
         <entry key="app/src/simba/res/layout/fragment_epg_live.xml" value="0.1" />
