@@ -11,6 +11,7 @@
         <entry key="app/src/main/res/layout-sw600dp/fragment_epg_generic_filter_list.xml" value="0.24609375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_movie_detail.xml" value="0.3941747572815534" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_series_detail.xml" value="0.401953125" />
+        <entry key="app/src/main/res/layout/activity_local_player.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/epg_base_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_channel_and_genre_view_pager.xml" value="0.42691903259726605" />
         <entry key="app/src/main/res/layout/fragment_epg_daily.xml" value="0.353125" />
@@ -26,6 +27,7 @@
         <entry key="app/src/main/res/layout/fragment_search_results.xml" value="0.328125" />
         <entry key="app/src/main/res/layout/fragment_series_detail.xml" value="0.5190217391304348" />
         <entry key="app/src/main/res/layout/fragment_sort_channels_list.xml" value="0.5364583333333334" />
+        <entry key="app/src/main/res/layout/include_player_buttons.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/series_episode_item.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_content_item.xml" value="0.3541666666666667" />
         <entry key="app/src/main/res/layout/view_content_item_landscape.xml" value="0.1" />
