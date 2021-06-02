@@ -12,9 +12,11 @@
         <entry key="app/src/main/res/layout-sw600dp/fragment_movie_detail.xml" value="0.3941747572815534" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_series_detail.xml" value="0.401953125" />
         <entry key="app/src/main/res/layout/epg_base_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_channel_and_genre_view_pager.xml" value="0.42691903259726605" />
         <entry key="app/src/main/res/layout/fragment_epg_daily.xml" value="0.353125" />
         <entry key="app/src/main/res/layout/fragment_epg_filter.xml" value="0.328125" />
         <entry key="app/src/main/res/layout/fragment_epg_generic_filter_list.xml" value="0.5364583333333334" />
+        <entry key="app/src/main/res/layout/fragment_epg_genre_and_channel.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/fragment_epg_live.xml" value="0.328125" />
         <entry key="app/src/main/res/layout/fragment_favorite_lists.xml" value="0.5223958333333333" />
         <entry key="app/src/main/res/layout/fragment_forgot_password_bottom_sheet.xml" value="0.2708333333333333" />
