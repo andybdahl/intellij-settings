@@ -28,6 +28,7 @@
         <entry key="app/src/main/res/layout/fragment_series_detail.xml" value="0.5190217391304348" />
         <entry key="app/src/main/res/layout/fragment_sort_channels_list.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/include_player_buttons.xml" value="0.5364583333333334" />
+        <entry key="app/src/main/res/layout/include_player_information.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/series_episode_item.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_content_item.xml" value="0.3541666666666667" />
         <entry key="app/src/main/res/layout/view_content_item_landscape.xml" value="0.1" />
