@@ -38,6 +38,7 @@
         <entry key="app/src/main/res/layout/fragment_sort_channels_list.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/include_player_buttons.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/include_player_information.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/request_view.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/series_episode_item.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/stripe_provider_item.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/tracking_view.xml" value="0.3546875" />
