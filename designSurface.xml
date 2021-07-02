@@ -53,6 +53,7 @@
         <entry key="app/src/main/res/layout/view_content_item_movie.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/view_content_item_portrait.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_content_item_program.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_program_dynamic_size.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_content_item_provider.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_content_item_provider_dynamic_size.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_content_item_series.xml" value="0.5359375" />
@@ -66,6 +67,7 @@
         <entry key="app/src/simba/res/layout/fragment_epg_live.xml" value="0.1" />
         <entry key="app/src/simba/res/layout/fragment_search_results.xml" value="0.328125" />
         <entry key="app/src/simba/res/layout/view_content_item_movie.xml" value="0.5359375" />
+        <entry key="app/src/simba/res/layout/view_content_item_movie_dynamic_size.xml" value="0.5359375" />
         <entry key="app/src/stofaDevelopment/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5515625" />
         <entry key="app/src/stofaDevelopment/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.5515625" />
       </map>
