@@ -49,6 +49,7 @@
         <entry key="app/src/main/res/layout/view_channel_shortcut.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_content_item.xml" value="0.3541666666666667" />
         <entry key="app/src/main/res/layout/view_content_item_channel.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_channel_dynamic_size.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_content_item_landscape.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_content_item_movie.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/view_content_item_portrait.xml" value="0.1" />
@@ -57,6 +58,7 @@
         <entry key="app/src/main/res/layout/view_content_item_provider.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_content_item_provider_dynamic_size.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_content_item_series.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_series_dynamic_size.xml" value="0.3546875" />
         <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.5359375" />
         <entry key="app/src/main/res/menu/cast.xml" value="0.1824074074074074" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5515625" />
