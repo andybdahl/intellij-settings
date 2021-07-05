@@ -7,6 +7,8 @@
         <entry key="app/src/boxerDevelopment/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/epg_natur_videnskab_selected.xml" value="0.5510416666666667" />
         <entry key="app/src/main/res/drawable/epg_news_topicality.xml" value="0.3848958333333333" />
+        <entry key="app/src/main/res/drawable/ic_picture_in_picture.xml" value="0.5510416666666667" />
+        <entry key="app/src/main/res/drawable/player_button_startover.xml" value="0.5510416666666667" />
         <entry key="app/src/main/res/drawable/progress_horizontal.xml" value="0.5194444444444445" />
         <entry key="app/src/main/res/font/font.xml" value="0.3015625" />
         <entry key="app/src/main/res/layout-sw600dp/epg_base_layout.xml" value="0.24609375" />
