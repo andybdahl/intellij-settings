@@ -55,7 +55,7 @@
         <entry key="app/src/main/res/layout/view_content_item_landscape.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_content_item_movie.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/view_content_item_portrait.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/view_content_item_program.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_program.xml" value="1.0" />
         <entry key="app/src/main/res/layout/view_content_item_program_dynamic_size.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_content_item_provider.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_content_item_provider_dynamic_size.xml" value="0.3546875" />
