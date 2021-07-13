@@ -55,6 +55,9 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="MemoryView.ShowNewInstances">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>

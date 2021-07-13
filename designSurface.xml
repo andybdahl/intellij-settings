@@ -7,6 +7,9 @@
         <entry key="app/src/boxerDevelopment/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/epg_natur_videnskab_selected.xml" value="0.5510416666666667" />
         <entry key="app/src/main/res/drawable/epg_news_topicality.xml" value="0.3848958333333333" />
+        <entry key="app/src/main/res/drawable/ic_captions_filled.xml" value="0.5510416666666667" />
+        <entry key="app/src/main/res/drawable/ic_picture_in_picture.xml" value="0.5510416666666667" />
+        <entry key="app/src/main/res/drawable/player_button_startover.xml" value="0.5510416666666667" />
         <entry key="app/src/main/res/drawable/progress_horizontal.xml" value="0.5194444444444445" />
         <entry key="app/src/main/res/font/font.xml" value="0.3015625" />
         <entry key="app/src/main/res/layout-sw600dp/epg_base_layout.xml" value="0.24609375" />
@@ -15,8 +18,8 @@
         <entry key="app/src/main/res/layout-sw600dp/fragment_epg_generic_filter_list.xml" value="0.24609375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_movie_detail.xml" value="0.3941747572815534" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_series_detail.xml" value="0.401953125" />
-        <entry key="app/src/main/res/layout/activity_local_player.xml" value="0.5364583333333334" />
-        <entry key="app/src/main/res/layout/activity_simba.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/activity_local_player.xml" value="0.5362167795726941" />
+        <entry key="app/src/main/res/layout/activity_simba.xml" value="1.0" />
         <entry key="app/src/main/res/layout/channel_list_row.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/epg_base_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/epoxy_binding_stripe_header_item.xml" value="0.47685185185185186" />
@@ -32,26 +35,35 @@
         <entry key="app/src/main/res/layout/fragment_forgot_password_bottom_sheet.xml" value="0.2708333333333333" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/fragment_movie_detail.xml" value="0.5362167795726941" />
-        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.1580547112462006" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/fragment_search_results.xml" value="0.328125" />
         <entry key="app/src/main/res/layout/fragment_series_detail.xml" value="0.5190217391304348" />
+        <entry key="app/src/main/res/layout/fragment_simple_collection.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/fragment_sort_channels_list.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/include_player_buttons.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/include_player_information.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/request_view.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/series_episode_item.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/stripe_provider_item.xml" value="0.3546875" />
+        <entry key="app/src/main/res/layout/toolbar_with_logo.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/tracking_view.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_channel.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_channel_logo.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_channel_shortcut.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/view_content_item.xml" value="0.3541666666666667" />
         <entry key="app/src/main/res/layout/view_content_item_channel.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_channel_dynamic_size.xml" value="0.521875" />
         <entry key="app/src/main/res/layout/view_content_item_landscape.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_content_item_movie.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/view_content_item_portrait.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/view_content_item_program.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_program.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/view_content_item_program_dynamic_size.xml" value="0.521875" />
         <entry key="app/src/main/res/layout/view_content_item_provider.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_provider_dynamic_size.xml" value="0.521875" />
         <entry key="app/src/main/res/layout/view_content_item_series.xml" value="0.5359375" />
+        <entry key="app/src/main/res/layout/view_content_item_series_dynamic_size.xml" value="0.521875" />
+        <entry key="app/src/main/res/layout/view_stripe_header_item.xml" value="1.0" />
+        <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.5359375" />
         <entry key="app/src/main/res/menu/cast.xml" value="0.1824074074074074" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5515625" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3697916666666667" />
@@ -61,6 +73,7 @@
         <entry key="app/src/simba/res/layout/fragment_epg_live.xml" value="0.1" />
         <entry key="app/src/simba/res/layout/fragment_search_results.xml" value="0.328125" />
         <entry key="app/src/simba/res/layout/view_content_item_movie.xml" value="0.5359375" />
+        <entry key="app/src/simba/res/layout/view_content_item_movie_dynamic_size.xml" value="0.5359375" />
         <entry key="app/src/stofaDevelopment/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5515625" />
         <entry key="app/src/stofaDevelopment/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.5515625" />
       </map>
