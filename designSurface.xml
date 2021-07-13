@@ -62,6 +62,7 @@
         <entry key="app/src/main/res/layout/view_content_item_provider_dynamic_size.xml" value="0.521875" />
         <entry key="app/src/main/res/layout/view_content_item_series.xml" value="0.5359375" />
         <entry key="app/src/main/res/layout/view_content_item_series_dynamic_size.xml" value="0.521875" />
+        <entry key="app/src/main/res/layout/view_stripe_header_item.xml" value="1.0" />
         <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.5359375" />
         <entry key="app/src/main/res/menu/cast.xml" value="0.1824074074074074" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5515625" />
