@@ -77,6 +77,7 @@
         <entry key="app/src/simba/res/layout/fragment_epg_daily.xml" value="0.1" />
         <entry key="app/src/simba/res/layout/fragment_epg_live.xml" value="0.1" />
         <entry key="app/src/simba/res/layout/fragment_search_results.xml" value="0.328125" />
+        <entry key="app/src/simba/res/layout/test.xml" value="0.1" />
         <entry key="app/src/simba/res/layout/view_content_item_movie.xml" value="0.5359375" />
         <entry key="app/src/simba/res/layout/view_content_item_movie_dynamic_size.xml" value="0.5359375" />
         <entry key="app/src/stofaDevelopment/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5515625" />
