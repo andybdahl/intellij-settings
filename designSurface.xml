@@ -9,6 +9,8 @@
         <entry key="app/src/main/res/drawable/epg_news_topicality.xml" value="0.3848958333333333" />
         <entry key="app/src/main/res/drawable/ic_captions_filled.xml" value="0.5510416666666667" />
         <entry key="app/src/main/res/drawable/ic_picture_in_picture.xml" value="0.5510416666666667" />
+        <entry key="app/src/main/res/drawable/ic_subtitles_off.xml" value="0.23125" />
+        <entry key="app/src/main/res/drawable/ic_subtitles_on.xml" value="0.23125" />
         <entry key="app/src/main/res/drawable/player_button_startover.xml" value="0.5510416666666667" />
         <entry key="app/src/main/res/drawable/progress_horizontal.xml" value="0.5194444444444445" />
         <entry key="app/src/main/res/font/font.xml" value="0.3015625" />
