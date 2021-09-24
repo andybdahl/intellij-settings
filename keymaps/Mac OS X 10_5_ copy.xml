@@ -86,6 +86,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt caps_lock" />
+  </action>
   <action id="StringManipulation.ToPascalCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="alt dollar" />
   </action>
