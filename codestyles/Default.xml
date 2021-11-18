@@ -50,6 +50,9 @@
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="ALLOW_TRAILING_COMMA" value="true" />
+  </JetCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
