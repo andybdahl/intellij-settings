@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-RFCRA1LGQ3Z-lMQ4YV._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-04T12:55:50.955231Z" />
+        <name value="samsung SM-F926B" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
