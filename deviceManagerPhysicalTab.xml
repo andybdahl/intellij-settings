@@ -8,7 +8,18 @@
             <value value="adb-RFCRA1LGQ3Z-lMQ4YV._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-04T12:55:50.955231Z" />
+        <name value="samsung SM-F926B" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RFCRA1LGQ3Z" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-07T07:46:04.961349Z" />
         <name value="samsung SM-F926B" />
         <target value="Android 12.0" />
         <api value="31" />
