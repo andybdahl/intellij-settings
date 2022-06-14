@@ -9,5 +9,6 @@
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
 </application>
