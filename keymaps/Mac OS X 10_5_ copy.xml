@@ -86,9 +86,6 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
-  <action id="StringManipulation.SwitchStyleAction">
-    <keyboard-shortcut first-keystroke="ctrl alt caps_lock" />
-  </action>
   <action id="StringManipulation.ToPascalCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="alt dollar" />
   </action>
@@ -127,6 +124,9 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="meta dollar" />
   </action>
   <action id="template.create.XMLLayout XML File">
     <keyboard-shortcut first-keystroke="alt 2" />
