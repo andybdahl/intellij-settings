@@ -125,6 +125,9 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
+  <action id="com.longforus.kotlincodesorter.action.SortAction">
+    <keyboard-shortcut first-keystroke="meta alt less" />
+  </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="meta dollar" />
   </action>
