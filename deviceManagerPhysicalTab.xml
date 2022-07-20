@@ -4,8 +4,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-RFCRA1LGQ3Z-lMQ4YV._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="RFCRA1LGQ3Z" />
           </Key>
         </key>
         <name value="samsung SM-F926B" />
@@ -15,8 +15,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="RFCRA1LGQ3Z" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-RFCRA1LGQ3Z-lMQ4YV._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="samsung SM-F926B" />
