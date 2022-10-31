@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tick" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine tick" />
         <option value="package:mine " />
-        <option value="package:mine level:error " />
         <option value="package:mine tag~:UIElementsViewModel " />
         <option value="package:mine tag~:HomeFragmentCompose" />
         <option value="package:mine LaunchedEffect: scrolling" />
