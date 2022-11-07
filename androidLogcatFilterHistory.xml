@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine age: " />
         <option value="package:mine Contains duplicates? true" />
+        <option value="package:mine age: " />
         <option value="package:mine tag:UniverseFragmentCompose$onCreateView" />
         <option value="package:mine tag~:UniverseFragmentCompose$onCreateView" />
         <option value="package:mine" />
