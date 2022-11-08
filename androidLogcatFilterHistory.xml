@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag: BaseContentListTask " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag: BaseContentListTask " />
         <option value="package:mine " />
         <option value="package:mine Contains duplicates? true" />
         <option value="package:mine age: " />
