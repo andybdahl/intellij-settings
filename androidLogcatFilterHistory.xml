@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:BaseContentListTask " />
+    <option name="mostRecentlyUsed" value="package:mine tag:UniverseStripeDataSource " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:UniverseStripeDataSource " />
+        <option value="package:mine tag:BaseContentListTask  message~:&quot;subGenreId=0&quot;" />
         <option value="package:mine tag:BaseContentListTask " />
         <option value="package:mine level:debug" />
         <option value="package:mine level:error  " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:UIElementsViewModel " />
         <option value="package:mine tag~:HomeFragmentCompose" />
         <option value="package:mine LaunchedEffect: scrolling" />
-        <option value="package:mine level:debug " />
-        <option value="package:mine level:" />
       </list>
     </option>
   </component>
