@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:UniverseStripeDataSource " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
+        <option value="package:mine" />
+        <option value="package:mine tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
+        <option value="package:mine level:error tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
+        <option value="package:mine level:error " />
+        <option value="package:mine " />
         <option value="package:mine tag:UniverseStripeDataSource " />
         <option value="package:mine tag:BaseContentListTask  message~:&quot;subGenreId=0&quot;" />
         <option value="package:mine tag:BaseContentListTask " />
         <option value="package:mine level:debug" />
         <option value="package:mine level:error  " />
         <option value="package:mine tag: BaseContentListTask " />
-        <option value="package:mine " />
         <option value="package:mine Contains duplicates? true" />
         <option value="package:mine age: " />
         <option value="package:mine tag:UniverseFragmentCompose$onCreateView" />
         <option value="package:mine tag~:UniverseFragmentCompose$onCreateView" />
-        <option value="package:mine" />
         <option value="package:mine level:error" />
         <option value="package:mine level:debug tag~:CollectionFragmentCompose" />
         <option value="package:mine level_error" />
-        <option value="package:mine level:error " />
         <option value="package:mine tick" />
-        <option value="package:mine tag~:UIElementsViewModel " />
-        <option value="package:mine tag~:HomeFragmentCompose" />
-        <option value="package:mine LaunchedEffect: scrolling" />
       </list>
     </option>
   </component>
