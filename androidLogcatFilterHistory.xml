@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SubtitlesViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine BaseContentListTask" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine SubtitlesViewModel" />
+        <option value="package:mine BaseContentListTask" />
         <option value="package:mine " />
+        <option value="package:mine SubtitlesViewModel" />
         <option value="package:mine" />
         <option value="package:mine  " />
         <option value="package:mine  tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:UniverseFragmentCompose$onCreateView" />
         <option value="package:mine tag~:UniverseFragmentCompose$onCreateView" />
         <option value="package:mine level:error" />
-        <option value="package:mine level:debug tag~:CollectionFragmentCompose" />
       </list>
     </option>
   </component>
