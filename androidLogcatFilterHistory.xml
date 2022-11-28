@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Casting streamable" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine Casting streamable" />
         <option value="package:mine adb tcpip 5555" />
         <option value="package:mine " />
@@ -13,7 +14,6 @@
         <option value="package:mine  tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
         <option value="package:mine tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
         <option value="package:mine level:error tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:UniverseStripeDataSource " />
         <option value="package:mine tag:BaseContentListTask  message~:&quot;subGenreId=0&quot;" />
         <option value="package:mine tag:BaseContentListTask " />
