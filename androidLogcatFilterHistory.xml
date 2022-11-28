@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine adb tcpip 5555" />
+    <option name="mostRecentlyUsed" value="package:mine Casting streamable" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Casting streamable" />
         <option value="package:mine adb tcpip 5555" />
         <option value="package:mine " />
         <option value="package:mine BaseContentListTask" />
@@ -22,7 +23,6 @@
         <option value="package:mine Contains duplicates? true" />
         <option value="package:mine age: " />
         <option value="package:mine tag:UniverseFragmentCompose$onCreateView" />
-        <option value="package:mine tag~:UniverseFragmentCompose$onCreateView" />
       </list>
     </option>
   </component>
