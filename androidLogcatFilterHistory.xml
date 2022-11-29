@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine has focus" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine has focus" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine CC message" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:error  " />
         <option value="package:mine tag: BaseContentListTask " />
         <option value="package:mine Contains duplicates? true" />
-        <option value="package:mine age: " />
       </list>
     </option>
   </component>
