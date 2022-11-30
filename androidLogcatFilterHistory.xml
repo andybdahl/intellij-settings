@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine removedAssets" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine removedAssets" />
+        <option value="package:mine BaseContentListTask" />
         <option value="package:mine " />
         <option value="package:mine has focus" />
         <option value="package:mine level:error " />
         <option value="package:mine CC message" />
         <option value="package:mine Casting streamable" />
         <option value="package:mine adb tcpip 5555" />
-        <option value="package:mine BaseContentListTask" />
         <option value="package:mine SubtitlesViewModel" />
         <option value="package:mine" />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:mine level:debug" />
         <option value="package:mine level:error  " />
         <option value="package:mine tag: BaseContentListTask " />
-        <option value="package:mine Contains duplicates? true" />
       </list>
     </option>
   </component>
