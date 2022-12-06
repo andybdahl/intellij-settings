@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="2618105GN09NNF" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Google Chromecast HD" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="RFCRA1LGQ3Z" />
           </Key>
         </key>
