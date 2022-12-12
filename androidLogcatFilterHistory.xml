@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine clear" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine clear" />
         <option value="package:mine " />
         <option value="package:mine updateNpvrecordingIcon" />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
         <option value="package:mine level:error tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
         <option value="package:mine tag:UniverseStripeDataSource " />
-        <option value="package:mine tag:BaseContentListTask  message~:&quot;subGenreId=0&quot;" />
       </list>
     </option>
   </component>
