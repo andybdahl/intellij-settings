@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine LOKALISE" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LOKALISE" />
         <option value="package:mine" />
         <option value="package:mine uiElement" />
         <option value="package:mine " />
@@ -21,7 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine  tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
         <option value="package:mine tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
-        <option value="package:mine level:error tag:UniverseStripeDataSource message~:&quot;Alle\ film&quot;" />
       </list>
     </option>
   </component>
