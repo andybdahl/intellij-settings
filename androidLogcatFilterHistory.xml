@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Full epg" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag:TAG" />
+        <option value="package:mine TAG:TAG" />
         <option value="package:mine Full epg" />
         <option value="package:mine tag:TAG " />
         <option value="package:mine LOKALISE" />
         <option value="package:mine" />
         <option value="package:mine uiElement" />
-        <option value="package:mine " />
         <option value="package:mine clear" />
         <option value="package:mine updateNpvrecordingIcon" />
         <option value="package:mine level:error " />
@@ -21,8 +22,6 @@
         <option value="package:mine CC message" />
         <option value="package:mine Casting streamable" />
         <option value="package:mine adb tcpip 5555" />
-        <option value="package:mine SubtitlesViewModel" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
