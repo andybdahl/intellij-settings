@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:EPGExperiment" />
+    <option name="mostRecentlyUsed" value="package:mine epgexper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine epgexper" />
+        <option value="package:mine " />
         <option value="package:mine tag:EPGExperiment" />
         <option value="package:mine tag:TAG" />
         <option value="package:mine Full" />
-        <option value="package:mine " />
         <option value="package:mine TAG:TAG" />
         <option value="package:mine Full epg" />
         <option value="package:mine tag:TAG " />
@@ -22,7 +23,6 @@
         <option value="package:mine removedAssets" />
         <option value="package:mine BaseContentListTask" />
         <option value="package:mine has focus" />
-        <option value="package:mine CC message" />
       </list>
     </option>
   </component>
