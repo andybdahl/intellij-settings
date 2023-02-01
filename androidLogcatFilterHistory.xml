@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Response took" />
+    <option name="mostRecentlyUsed" value="package:mine viewLifecycleOwner" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine viewLifecycleOwner" />
         <option value="package:mine Response took" />
         <option value="package:mine " />
         <option value="package:mine onStart" />
@@ -22,7 +23,6 @@
         <option value="package:mine updateNpvrecordingIcon" />
         <option value="package:mine level:error " />
         <option value="package:mine DeveloperMenuViewModel" />
-        <option value="package:mine delayed" />
       </list>
     </option>
   </component>
