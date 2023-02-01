@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Response took" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Response took" />
         <option value="package:mine " />
+        <option value="package:mine viewlife" />
         <option value="package:mine epgexper" />
         <option value="package:mine tag:EPGExperiment" />
         <option value="package:mine tag:TAG" />
@@ -20,8 +23,6 @@
         <option value="package:mine delayed" />
         <option value="package:mine hasFocus" />
         <option value="package:mine removedAssets" />
-        <option value="package:mine BaseContentListTask" />
-        <option value="package:mine has focus" />
       </list>
     </option>
   </component>
