@@ -21,8 +21,8 @@
           </Key>
         </key>
         <name value="samsung SM-F926B" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:null:true" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
