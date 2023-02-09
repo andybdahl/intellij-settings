@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LoginFragment" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine LoginFragment" />
         <option value="package:mine " />
+        <option value="package:mine LoginFragment" />
         <option value="package:mine level:error " />
         <option value="package:mine Response took" />
         <option value="package:mine viewLifecycleOwner" />
