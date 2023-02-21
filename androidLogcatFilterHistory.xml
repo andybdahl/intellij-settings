@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine UIElements done" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine UIElements done" />
         <option value="package:mine " />
         <option value="package:mine LoginFragment" />
         <option value="package:mine level:error " />
@@ -21,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine uiElement" />
         <option value="package:mine clear" />
-        <option value="package:mine updateNpvrecordingIcon" />
       </list>
     </option>
   </component>
