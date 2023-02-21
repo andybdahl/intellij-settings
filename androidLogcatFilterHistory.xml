@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine UIElements done" />
+    <option name="mostRecentlyUsed" value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
         <option value="package:mine UIElements done" />
         <option value="package:mine " />
         <option value="package:mine LoginFragment" />
@@ -22,7 +23,6 @@
         <option value="package:mine LOKALISE" />
         <option value="package:mine" />
         <option value="package:mine uiElement" />
-        <option value="package:mine clear" />
       </list>
     </option>
   </component>
