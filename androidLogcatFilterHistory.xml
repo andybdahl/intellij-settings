@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
+    <option name="mostRecentlyUsed" value="package:mine Time sin" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Time sin" />
         <option value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
         <option value="package:mine UIElements done" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:TAG " />
         <option value="package:mine LOKALISE" />
         <option value="package:mine" />
-        <option value="package:mine uiElement" />
       </list>
     </option>
   </component>
