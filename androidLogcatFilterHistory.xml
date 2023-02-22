@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Timer" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine Timer" />
+        <option value="package:mine " />
         <option value="package:mine Time " />
         <option value="package:mine Time sin" />
         <option value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
