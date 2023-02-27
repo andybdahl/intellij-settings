@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine movielo" />
+        <option value="package:mine movieload" />
         <option value="package:mine Timer" />
         <option value="package:mine Time " />
         <option value="package:mine Time sin" />
@@ -20,8 +22,6 @@
         <option value="package:mine tag:TAG" />
         <option value="package:mine Full" />
         <option value="package:mine TAG:TAG" />
-        <option value="package:mine Full epg" />
-        <option value="package:mine tag:TAG " />
       </list>
     </option>
   </component>
