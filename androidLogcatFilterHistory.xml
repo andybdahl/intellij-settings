@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:ResumeStream" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ResumeStream" />
         <option value="package:mine " />
         <option value="package:mine load job finished" />
         <option value="package:mine movielo" />
@@ -21,7 +23,6 @@
         <option value="package:mine epgexper" />
         <option value="package:mine tag:EPGExperiment" />
         <option value="package:mine tag:TAG" />
-        <option value="package:mine Full" />
       </list>
     </option>
   </component>
