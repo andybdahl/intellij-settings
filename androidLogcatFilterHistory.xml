@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:ResumeStream " />
+        <option value="onStop" />
         <option value="package:mine " />
         <option value="package:mine tag:ResumeStream " />
         <option value="package:mine tag:AppLifeUtil " />
@@ -22,7 +23,6 @@
         <option value="package:mine Response took" />
         <option value="package:mine viewLifecycleOwner" />
         <option value="package:mine onStart" />
-        <option value="package:mine TAG" />
       </list>
     </option>
   </component>
