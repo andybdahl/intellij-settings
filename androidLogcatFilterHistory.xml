@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ResumeStream " />
+    <option name="mostRecentlyUsed" value="tag:ResumeStream " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ResumeStream " />
+        <option value="package:mine " />
         <option value="package:mine tag:ResumeStream " />
         <option value="package:mine tag:AppLifeUtil " />
         <option value="package:mine" />
         <option value="package:mine tag:ResumeStream" />
-        <option value="package:mine " />
         <option value="package:mine load job finished" />
         <option value="package:mine movielo" />
         <option value="package:mine movieload" />
@@ -22,7 +23,6 @@
         <option value="package:mine viewLifecycleOwner" />
         <option value="package:mine onStart" />
         <option value="package:mine TAG" />
-        <option value="package:mine viewlife" />
       </list>
     </option>
   </component>
