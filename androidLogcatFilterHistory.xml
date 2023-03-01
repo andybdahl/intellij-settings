@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ResumeStream " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:ResumeStream " />
         <option value="onStop" />
-        <option value="package:mine " />
         <option value="package:mine tag:ResumeStream " />
         <option value="package:mine tag:AppLifeUtil " />
         <option value="package:mine" />
