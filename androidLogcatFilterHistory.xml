@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="tag:ResumeStream " />
         <option value="onStop" />
@@ -18,7 +20,6 @@
         <option value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
         <option value="package:mine UIElements done" />
         <option value="package:mine LoginFragment" />
-        <option value="package:mine level:error " />
         <option value="package:mine Response took" />
         <option value="package:mine viewLifecycleOwner" />
         <option value="package:mine onStart" />
