@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:error " />
+        <option value="package:mine sendCloseStream" />
         <option value="package:mine " />
         <option value="tag:ResumeStream " />
         <option value="onStop" />
@@ -22,7 +23,6 @@
         <option value="package:mine LoginFragment" />
         <option value="package:mine Response took" />
         <option value="package:mine viewLifecycleOwner" />
-        <option value="package:mine onStart" />
       </list>
     </option>
   </component>
