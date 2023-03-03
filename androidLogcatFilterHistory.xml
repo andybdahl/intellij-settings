@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Timer waypoints" />
+    <option name="mostRecentlyUsed" value="package:mine kmm.ktor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine kmm.ktor" />
+        <option value="package:mine KMM" />
         <option value="package:mine Timer waypoints" />
         <option value="package:mine Done fetching first uiElements in splash" />
         <option value="package:mine level:error " />
@@ -21,8 +23,6 @@
         <option value="package:mine Time " />
         <option value="package:mine Time sin" />
         <option value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
-        <option value="package:mine UIElements done" />
-        <option value="package:mine LoginFragment" />
       </list>
     </option>
   </component>
