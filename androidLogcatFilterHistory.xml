@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine Timer waypoints" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Timer waypoints" />
+        <option value="package:mine Done fetching first uiElements in splash" />
         <option value="package:mine level:error " />
         <option value="package:mine sendCloseStream" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine SPLASH_TO_INITIAL_DATA_SHOWN_TIME" />
         <option value="package:mine UIElements done" />
         <option value="package:mine LoginFragment" />
-        <option value="package:mine Response took" />
-        <option value="package:mine viewLifecycleOwner" />
       </list>
     </option>
   </component>
