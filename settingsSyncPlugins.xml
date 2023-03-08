@@ -72,6 +72,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.codeWithMe">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.marketplace" />
+                  <option value="com.intellij.modules.androidstudio" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.jetbrains.kmm">
           <value>
             <PluginData>
@@ -106,6 +119,20 @@
                   <option value="com.intellij.java" />
                   <option value="com.intellij.modules.lang" />
                   <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="eu.livesport.KotlinTest">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.kotlin" />
+                  <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
             </PluginData>
