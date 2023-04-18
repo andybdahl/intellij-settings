@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug scrolltitle" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug scrolltitle" />
         <option value="package:mine level:error " />
         <option value="package:mine Stripe state" />
         <option value="package:mine kmm.ktor" />
@@ -22,7 +23,6 @@
         <option value="package:mine movieload" />
         <option value="package:mine Timer" />
         <option value="package:mine Time " />
-        <option value="package:mine Time sin" />
       </list>
     </option>
   </component>
