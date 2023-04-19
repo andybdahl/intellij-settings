@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:debug scrolltitle" />
         <option value="package:mine Stripe state" />
@@ -11,7 +11,6 @@
         <option value="package:mine Timer waypoints" />
         <option value="package:mine Done fetching first uiElements in splash" />
         <option value="package:mine sendCloseStream" />
-        <option value="package:mine " />
         <option value="tag:ResumeStream " />
         <option value="onStop" />
         <option value="package:mine tag:ResumeStream " />
