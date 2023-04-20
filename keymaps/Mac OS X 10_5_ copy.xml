@@ -73,6 +73,10 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl #10000b4" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="alt r" />
