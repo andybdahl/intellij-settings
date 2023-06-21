@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine cancel response" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
+        <option value="package:mine cancel response" />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
         <option value="package:mine onPreScroll | onPostScroll" />
         <option value="package:mine available" />
         <option value="package:mine nestedScroll available" />
@@ -22,7 +23,6 @@
         <option value="package:mine sendCloseStream" />
         <option value="tag:ResumeStream " />
         <option value="onStop" />
-        <option value="package:mine tag:ResumeStream " />
       </list>
     </option>
   </component>
