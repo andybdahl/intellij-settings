@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tab scroll" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tab scroll" />
+        <option value="package:mine tab" />
         <option value="package:mine " />
         <option value="package:mine density" />
         <option value="package:mine cancel response" />
@@ -20,8 +23,6 @@
         <option value="package:mine KMM" />
         <option value="package:mine Timer waypoints" />
         <option value="package:mine Done fetching first uiElements in splash" />
-        <option value="package:mine sendCloseStream" />
-        <option value="tag:ResumeStream " />
       </list>
     </option>
   </component>
