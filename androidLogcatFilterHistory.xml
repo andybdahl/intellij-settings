@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine dialog behavior" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine dialog behavior" />
+        <option value="package:mine new state:" />
+        <option value="package:mine slide" />
         <option value="package:mine " />
+        <option value="package:mine slideOffset" />
         <option value="package:mine level:error l" />
         <option value="package:mine level:error level:debug " />
         <option value="package:mine tab scroll" />
@@ -18,10 +23,6 @@
         <option value="package:mine bgBlurRadius" />
         <option value="package:mine bottomsheet" />
         <option value="package:mine recomposing list item" />
-        <option value="package:mine level:debug scrolltitle" />
-        <option value="package:mine Stripe state" />
-        <option value="package:mine kmm.ktor" />
-        <option value="package:mine KMM" />
       </list>
     </option>
   </component>
