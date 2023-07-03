@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tab scroll" />
+    <option name="mostRecentlyUsed" value="package:mine level:error level:debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error level:debug " />
         <option value="package:mine tab scroll" />
         <option value="package:mine tab" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine kmm.ktor" />
         <option value="package:mine KMM" />
         <option value="package:mine Timer waypoints" />
-        <option value="package:mine Done fetching first uiElements in splash" />
       </list>
     </option>
   </component>
