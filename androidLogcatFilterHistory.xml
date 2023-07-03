@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error level:debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine level:error l" />
         <option value="package:mine level:error level:debug " />
         <option value="package:mine tab scroll" />
         <option value="package:mine tab" />
-        <option value="package:mine " />
         <option value="package:mine density" />
         <option value="package:mine cancel response" />
         <option value="package:mine level:error " />
@@ -22,7 +22,6 @@
         <option value="package:mine Stripe state" />
         <option value="package:mine kmm.ktor" />
         <option value="package:mine KMM" />
-        <option value="package:mine Timer waypoints" />
       </list>
     </option>
   </component>
