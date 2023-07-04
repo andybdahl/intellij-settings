@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine dialog behavior" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine dialog behavior" />
         <option value="package:mine new state:" />
         <option value="package:mine slide" />
-        <option value="package:mine " />
         <option value="package:mine slideOffset" />
         <option value="package:mine level:error l" />
         <option value="package:mine level:error level:debug " />
