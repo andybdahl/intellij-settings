@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine dialog behavior" />
         <option value="package:mine new state:" />
@@ -13,7 +15,6 @@
         <option value="package:mine tab" />
         <option value="package:mine density" />
         <option value="package:mine cancel response" />
-        <option value="package:mine level:error " />
         <option value="package:mine onPreScroll | onPostScroll" />
         <option value="package:mine available" />
         <option value="package:mine nestedScroll available" />
