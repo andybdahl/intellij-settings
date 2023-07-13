@@ -4,6 +4,7 @@
       <w>animatable</w>
       <w>bottomsheet</w>
       <w>callout</w>
+      <w>coor</w>
       <w>dybdahl</w>
       <w>kanallogo</w>
       <w>minutter</w>
@@ -15,6 +16,7 @@
       <w>seriestitle</w>
       <w>stofa</w>
       <w>subheadline</w>
+      <w>topbar</w>
       <w>trickmode</w>
       <w>trickmodes</w>
       <w>viewmodel</w>
