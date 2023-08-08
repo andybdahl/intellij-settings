@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine colorTop" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine colorTop" />
         <option value="package:mine " />
         <option value="package:mine level:debug " />
         <option value="package:mine level:debug topbar alpha:" />
@@ -21,7 +23,6 @@
         <option value="package:mine available" />
         <option value="package:mine nestedScroll available" />
         <option value="package:mine nestedScroll" />
-        <option value="package:mine collapsibleHeight" />
       </list>
     </option>
   </component>
